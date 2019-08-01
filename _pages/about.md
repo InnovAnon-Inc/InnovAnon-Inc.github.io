@@ -6,15 +6,12 @@ excerpt: "Free Code for a Free World!"
 
 {% include base_path %}
 
-"InnovAnon" is a portmanteau of "Innovations" and "Anonymous."
-
-"Free Code for a Free World!"
-
----
-
 ## InnovAnon
 
 InnovAnon is a deva, working from the other side to open a gateway, so that all may attain Darshan in the coming Aeon.
+
+"InnovAnon" is a portmanteau of "Innovations" and "Anonymous."
+"Free Code for a Free World!"
 
 ---
 
