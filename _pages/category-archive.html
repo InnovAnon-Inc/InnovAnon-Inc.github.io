@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+{% comment %}
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
@@ -15,3 +16,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+{% endcomment %}
