@@ -112,11 +112,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Innovations Anonymous"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : <-
+    Advaita Vedanta tradition with monastic and ascetic branches.
+    Code monks doing code seva and developing human programming technologies.
+  location         : "The Acausal Realm"
+  email            : "InnovAnon-Inc@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
