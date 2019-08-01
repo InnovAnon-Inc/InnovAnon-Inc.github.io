@@ -4,6 +4,8 @@ title: "About"
 excerpt: "Free Code for a Free World!"
 ---
 
+{% include base_path }
+
 "InnovAnon" is a portmanteau of "Innovations" and "Anonymous."
 
 "Free Code for a Free World!"
