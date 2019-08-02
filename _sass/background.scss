@@ -1,7 +1,7 @@
 /* _sass/background.scss */
 
 body {
-	background-image: url(asset_path("/images/3600x3600.jpg"));
+	background-image: url({{ site.url }}/{{ asset-path }}/3600x3600.jpg);
 	background-size: 100% auto;
 	background-position: center;
 }
