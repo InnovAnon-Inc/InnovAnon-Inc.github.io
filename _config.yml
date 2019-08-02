@@ -303,4 +303,5 @@ defaults:
       share: true
       related: true
 
-background: {{ site.baseurl }}/assets/images/3600x3600.jpg
+image:
+  background: {{ site.baseurl }}/assets/images/3600x3600.jpg
