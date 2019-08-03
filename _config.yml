@@ -310,8 +310,8 @@ defaults:
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
 comments:
-  provider : "staticman_v2"
-staticman_v2:
+  provider : "staticman"
+staticman:
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
