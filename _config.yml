@@ -64,11 +64,11 @@ staticman:
       type               : "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
-reCaptcha:
-  enabled                : true
-  siteKey                : 6Lebu7AUAAAAAGznapg-jvOyxwFbwLkamopJ5ODU
-  secret                 : 6Lebu7AUAAAAAJZCufq6_NbLR14zBKMKuxcueTI_
+  endpoint               : {{ site.url }}/{{ site.baseurl }} # URL of your own deployment with trailing slash, will fallback to the public instance
+#reCaptcha:
+#  enabled                : true
+#  siteKey                : 6Lebu7AUAAAAAGznapg-jvOyxwFbwLkamopJ5ODU
+#  secret                 : 6Lebu7AUAAAAAJZCufq6_NbLR14zBKMKuxcueTI_
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
