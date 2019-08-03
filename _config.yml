@@ -302,6 +302,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: "assets/images"
+    values:
+      images: true
 
 #background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
 #background: "/assets/images/3600x3600.jpg'
