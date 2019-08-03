@@ -33,7 +33,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 comments:
   #provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  provider               : "staticman"
+  provider               : "staticman_v2"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -48,27 +48,6 @@ comments:
     #theme                : # "github-light" (default), "github-dark"
     theme                : "github-dark"
     issue_term           : # "pathname" (default)
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment by {fields.name}"
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
-#reCaptcha:
-#  enabled                : true
-#  siteKey                : 6Lebu7AUAAAAAGznapg-jvOyxwFbwLkamopJ5ODU
-#  secret                 : 6Lebu7AUAAAAAJZCufq6_NbLR14zBKMKuxcueTI_
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
