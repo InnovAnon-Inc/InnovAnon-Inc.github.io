@@ -24,6 +24,8 @@ subtitle                 : "Free Code for a Free World" # site tagline that appe
 name                     : "Innovations Anonymous"
 description              : "InnovAnon,InnovAnon-Inc,Innovations Anonymous,Free Code for a Free World,Code Monks,Code Seva,Human Programming,Human Programming Technology"
 url                      : https://InnovAnon-Inc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+twitter_username         : "InnovAnon"
+github_username          : "InnovAnon-Inc"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : InnovAnon-Inc/InnovAnon-Inc.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/3600x3600.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
