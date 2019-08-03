@@ -303,7 +303,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "assets/images"
+      path: "/assets/images"
     values:
       images: true
 
