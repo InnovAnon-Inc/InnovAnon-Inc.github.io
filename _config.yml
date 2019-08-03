@@ -50,8 +50,6 @@ words_per_minute         : 200
 #    issue_term           : # "pathname" (default)
 comments:
   provider : "staticman_v2"
-include:
-  - staticman.yml
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
