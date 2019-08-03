@@ -25,6 +25,7 @@ InnovAnon, Inc. (Ministries) is a 508(c)(1)(a) "Free Church" :smile:
 - Code Seva
 - Langar
 - Meditation/Siddhi skill tree
+
   (i.e., ancient spiritual wisdom translated into contemporary vernacular to be more relatable to our generation)
 
 ## Branches (lifestyle variations)
