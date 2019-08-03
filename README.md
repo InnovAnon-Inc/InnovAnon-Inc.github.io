@@ -2,6 +2,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/InnovAnon-Inc/InnovAnon-Inc.github.io/badge)](https://www.codefactor.io/repository/github/InnovAnon-Inc/InnovAnon-Inc.github.io)
 [![LoC](https://tokei.rs/b1/github/InnovAnon-Inc/InnovAnon-Inc.github.io?category=code)](https://github.com/InnovAnon-Inc/InnovAnon-Inc.github.io)
+[![Test Status](https://travis-ci.org/InnovAnon-Inc/InnovAnon-Inc.github.io.svg?branch=master)](https://travis-ci.org/InnovAnon-Inc/InnovAnon-Inc.github.io)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
