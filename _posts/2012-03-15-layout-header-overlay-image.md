@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image Overlay"
 header:
-  overlay_image: unsplash-image-1.jpg
+  overlay_image: 3600x3600.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_url: "https://unsplash.com"
 categories:
@@ -51,3 +51,4 @@ header:
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ```
+
