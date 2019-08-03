@@ -48,6 +48,11 @@ words_per_minute         : 200
 #    #theme                : # "github-light" (default), "github-dark"
 #    theme                : "github-dark"
 #    issue_term           : # "pathname" (default)
+comments:
+  provider : "staticman_v2"
+include:
+  - staticman.yml
+
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
