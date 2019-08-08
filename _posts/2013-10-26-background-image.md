@@ -5,9 +5,9 @@ description: "Sample post with a background image CSS override."
 tags: [sample post]
 image:
   background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
-background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
-image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
-background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
+#background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
+#image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
+#background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
 ---
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
