@@ -3,8 +3,8 @@
 title: Post with a Background Image
 description: "Sample post with a background image CSS override."
 tags: [sample post]
-image:
-  background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
+#image:
+#  background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
 #background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
 #image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
 #background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.jpg
