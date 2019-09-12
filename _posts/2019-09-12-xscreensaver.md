@@ -69,15 +69,19 @@ We'll further configure some screen savers:
         chmod +s /usr/lib/xscreensaver/sonar
       - configure sonar to ping the hosts you'd like to monitor
   - WebCollage, given that your workstation is in a position where running `driftnet` would yield interesting results:
-      - Run some commands:
+      - Run some commands, as per https://www.linuxtutorial.co.uk/tcpdump-eth0-you-dont-have-permission-to-capture-on-that-device/:
         sudo groupadd pcap
         sudo usermod -a -G pcap `whoami`
         sudo chgrp pcap /usr/bin/driftnet
         sudo chmod 0755 /usr/bin/driftnet
         sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/driftnet
+      - Run some more commands:
+        sudo chmod +s /usr/bin/driftnet
       - Open the XScreenSaver configuration utility
       - Switch to the "Display Modes" tab
       - Find Web Collage
       - Press the "Advanced" button
       - Adjust the command line to run driftnet to source images for the screen saver:
         webcollage -root -driftnet 'sudo driftnet -a'
+      - If you ran the additional commands, then use:
+        webcollage -root -driftnet 'driftnet -a'
