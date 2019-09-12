@@ -32,6 +32,9 @@ sudo apt install libxss-dev libxss1-dbg libxss1 kdelibs-bin kdelibs5-data kdelib
 At this point for the author, running the XScreenSaver configuration utility failed to render the GoBan-SS configuration options. To fix this, open in a text editor the ~/.xscreensaver configuration file. Add a line such as:
 GL: goban -root -game-dir /usr/share/goban \n\
 
+There's also a warning about not being able to load libgnome.so. That can be mitigated by installing:
+sudo apt install libgnomeui-dev
+
 Next, download the AlphaGo *.sgf game data files (the download links are toward the bottom of the page at the time of writing):
 https://deepmind.com/alphago-games-english
 https://deepmind.com/alphago-vs-alphago
