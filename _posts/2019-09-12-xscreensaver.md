@@ -78,13 +78,13 @@ We'll further configure some screen savers:
         sudo chgrp pcap /usr/bin/driftnet
         sudo chmod 0755 /usr/bin/driftnet
         sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/driftnet
-      - Run some more commands:
-        sudo chmod +s /usr/bin/driftnet
+      - X Run some more commands:
+        X sudo chmod +s /usr/bin/driftnet
       - Open the XScreenSaver configuration utility
       - Switch to the "Display Modes" tab
       - Find Web Collage
       - Press the "Advanced" button
       - Adjust the command line to run driftnet to source images for the screen saver:
         webcollage -root -driftnet 'sudo driftnet -a'
-      - If you ran the additional commands, then use:
-        webcollage -root -driftnet 'driftnet -a'
+      - X If you ran the additional commands, then use:
+        X webcollage -root -driftnet 'driftnet -a'
