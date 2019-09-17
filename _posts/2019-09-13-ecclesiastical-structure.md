@@ -41,7 +41,7 @@ Levels:
 4) Apprentice Priesthood (humans: PCs)
 5) Priesthood (humans: supernaturally-enabled PCs):
    In order to be considered for promotion into the priesthood,
-   an apprentice must demonstrate the use of a siddhi (supernatural power).
+   an apprentice must demonstrate the use of a siddhi (supernatural power) (i.e., the Trial of Fifth Level Initiation).
    Each priest is therefore understood to be divinely empowered--divinely appointed, even.
 6) High Priesthood (humans: supernaturally-enabled PCs):
    Leader/figurehead for a faction of priests.
@@ -55,16 +55,21 @@ Levels:
 
 
 
+There does appear to be a separate axis for PC classification,
+but it does seem to strongly correlate with the levels.
+The current minimum standard for most organizations' Trial of Fifth Level Initiation appears to be E Class.
+
+Classes:
+- E: the lowest mentioned level (probably beatable by a well-trained human with a weapon)
+- D: (too strong for normal humans, but spiritually aware humans can defeat them)
+- C: (dangerous in general)
+- B: (strong enough to flatten a block)
+- A: (strong enough to wipe out a city)
+- S: anyone who can punch out Cthulhu
+
+
+
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
 (i.e., to demonstrate how a red team organization may be structured and operate).
-
-
-
-
-
-
-
-
-

@@ -19,12 +19,18 @@ NOTICE! Everything herein is presented purely as purely hypothetical--a work of 
 
 
 A strict stratification of the human subspecies is necessary:
-- So called, "Player Characters" (PCs), have an inherent duty to authority over the NPCs.
-  They will have teaching and managerial roles in their fields.
-  We further divide the PCs into "Levels," meaning their apparent level of acausal consciousness.
-  PCs need to speak a language that is unknown to the NPCs.
-- So called, "Non-Player Characters" (NPCs), require the assistance of PCs for acquiring their narratives.
-  According to lore, our ancestors decided that civilization would be possible if we have a slave species,
+- So called, "Player Characters" (PCs)
+- So called, "Non-Player Characters" (NPCs)
+
+PCs:
+- have an inherent duty to authority over the NPCs.
+- They will have teaching and managerial roles in their fields.
+- We further divide the PCs into "Levels" and "Classes," meaning their apparent level of acausal consciousness.
+- PCs need to speak a language that is unknown to the NPCs.
+
+NPCs:
+- require the assistance of PCs for acquiring their narratives.
+- According to lore, our ancestors decided that civilization would be possible if we have a slave species,
   so they created these programmable humanoid robots.
 
 A separate axis of stratification based on IQ should be implemented.
