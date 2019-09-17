@@ -22,7 +22,8 @@ However, increasingly many Adepts are opting to take rebirth in the Causal plane
 and using certain sadhanas to increase their ability to retain certain aspects of themselves,
 including some memories, as they pass through the Filter and take rebirth.
 
-In doing so, they are able to ensure the continuation of their organization's efforts.
+That is, they are achieving some level of continuation of consciousness.
+In doing so, they are able to help ensure the continuation of their organization's efforts.
 
 
 
