@@ -1,14 +1,17 @@
 ---
 title: "Trial of Fifth Level Initiation"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Applied Spiritual Technology
+  - Corporate Structure
 tags:
-  - anonymity
-  - privacy
-  - security
+  - AST
+  - corporate
+  - structure
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 We'll be dealing with this section of the PC tier system:
 - Apprentice: Fourth Level Initiates;   training under one or more Adept(s)
@@ -46,4 +49,4 @@ even if he/she isn't yet ready to shift his/her worldview.
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

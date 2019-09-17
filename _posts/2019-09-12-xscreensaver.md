@@ -4,17 +4,25 @@ categories:
   - Install
   - Configure
   - X11
-  - ScreenSaver
-  - LinuxMint
+  - Screen Saver
+  - Linux Mint
   - XFCE
+  - Corporate Branding
 tags:
   - install
   - configure
   - x11
   - screensaver
-  - linuxmint
+  - linux
+  - mint
   - xfce
+  - corporate
+  - branding
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 During your computer's idle time, there are myriad ways of "utilizing" your CPU/GPU, RAM, disk, etc., including:
   - Boinc
@@ -88,3 +96,8 @@ We'll further configure some screen savers:
         webcollage -root -driftnet 'sudo driftnet -a'
       - X If you ran the additional commands, then use:
         X webcollage -root -driftnet 'driftnet -a'
+
+DISCLAIMER:
+The information contained within this article is purely hypothetical,
+and intended for educational purposes
+(i.e., to demonstrate how a red team organization may be structured and operate).

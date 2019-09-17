@@ -1,14 +1,21 @@
 ---
 title: "Protecting your Intellectual Property"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Field Agent Technology
+  - Human Programming Technology
+  - Corporate Culture
+  - Corporate Structure
 tags:
-  - anonymity
-  - privacy
-  - security
+  - FAT
+  - HPT
+  - corporate
+  - culture
+  - structure
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 Hardwares, softwares and other technologies such as those used by the wetworks units
 pose a massive anonymity-compromising risk to your organization's back-end units.
@@ -37,4 +44,4 @@ You can begin to mitigate this risk by separating your departments:
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

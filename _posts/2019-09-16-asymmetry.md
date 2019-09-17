@@ -1,14 +1,19 @@
 ---
 title: "Playing a Game with Asymmetric Board Position"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Applied Spiritual Technology
+  - Human Programming Technology
+  - End Game
 tags:
-  - anonymity
-  - privacy
-  - security
+  - AST
+  - HPT
+  - end
+  - game
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 A player's score is a function of his/her resources--his/her riddhis and siddhis:
 - financial resources
@@ -64,4 +69,4 @@ You don't necessarily need to increase the size of your organization--you can en
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

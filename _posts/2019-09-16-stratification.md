@@ -1,14 +1,22 @@
 ---
 title: "Social Stratification"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Human Programming Technology
+  - End Game
+  - Corporate Culture
+  - Corporate Structure
 tags:
-  - anonymity
-  - privacy
-  - security
+  - HPT
+  - end
+  - game
+  - corporate
+  - culture
+  - structure
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 A strict stratification of the human subspecies is necessary:
 - So called, "Player Characters" (PCs), have an inherent duty to authority over the NPCs.
@@ -44,7 +52,10 @@ A civilization must also maintain peacable relationships with its neighboring un
 
 Civilization itself will, as much as possible, follow a Vedic model with a Varna system.
 
+
+
+
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

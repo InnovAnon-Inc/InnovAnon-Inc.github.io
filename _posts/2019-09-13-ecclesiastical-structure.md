@@ -1,14 +1,15 @@
 ---
 title: "Ecclesiastical Structure"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Corporate Structure
 tags:
-  - anonymity
-  - privacy
-  - security
+  - corporate
+  - structure
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 An organization's core faction's primary front-end could provide regular services for the general public
 (i.e., the target demographic is a congregation of non-members).
@@ -57,7 +58,7 @@ Levels:
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).
 
 
 

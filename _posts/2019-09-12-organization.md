@@ -4,11 +4,22 @@ categories:
   - Anonymity
   - Privacy
   - Security
+  - Corporate Structure
+  - Organization
+  - Human Programming Technology
 tags:
   - anonymity
   - privacy
   - security
+  - corporate
+  - structure
+  - organization
+  - HPT
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 The back-end needs to consist of specialized cells.
 All sensitive operations need to be carried out by this system of specialized cells.
@@ -134,4 +145,4 @@ there are attributes which can increase the likelihood of a potential recruit jo
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

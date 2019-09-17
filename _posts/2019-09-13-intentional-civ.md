@@ -1,14 +1,18 @@
 ---
 title: "Engineering an Intentional Civilization"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - End Game
+  - Corporate Culture
 tags:
-  - anonymity
-  - privacy
-  - security
+  - end
+  - game
+  - corporate
+  - culture
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 Although an organization might support a post-scarcity society--an intentional civilization,
 there are nuances to understand:
@@ -29,4 +33,4 @@ there are nuances to understand:
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

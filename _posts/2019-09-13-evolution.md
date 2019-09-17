@@ -1,14 +1,22 @@
 ---
 title: "Engineering Divergent Evolution"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Human Programming Technology
+  - Corporate Culture
+  - Corporate Structure
+  - End Game
 tags:
-  - anonymity
-  - privacy
-  - security
+  - HPT
+  - corporate
+  - culture
+  - structure
+  - end
+  - game
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 An organization might support post-human notions, such as dividing the species into three distinct castes, similar to the Spartan model:
   - Niche-extra Humanlike Organisms:
@@ -33,4 +41,4 @@ An organization might support post-human notions, such as dividing the species i
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

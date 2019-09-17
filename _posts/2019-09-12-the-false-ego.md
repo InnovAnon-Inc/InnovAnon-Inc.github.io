@@ -1,14 +1,20 @@
 ---
 title: "The False Ego"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Insight Roles
+  - Sleeper Cells
+  - Applied Spiritual Technology
+  - Human Programming Technology
 tags:
-  - anonymity
-  - privacy
-  - security
+  - insight
+  - sleeper
+  - AST
+  - HPT
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 As we mentioned in Structuring your Organization,
 short-lived cells don't need to have any particular ideology.
@@ -33,4 +39,4 @@ so as to minimize the amount of foreshadowing they may reveal about their potent
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

@@ -1,14 +1,17 @@
 ---
 title: "Corporate Culture"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Corporate Culture
+  - Human Programming Technology
 tags:
-  - anonymity
-  - privacy
-  - security
+  - corporate
+  - culture
+  - HPT
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 At the heart of a culture is a distinctive language shared by the members of that culture.
 
@@ -31,4 +34,4 @@ create a corporate language:
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

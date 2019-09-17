@@ -1,14 +1,19 @@
 ---
 title: "Corporate Branding"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Corporate Branding
+  - Corporate Culture
+  - Human Programming Technology
 tags:
-  - anonymity
-  - privacy
-  - security
+  - corporate
+  - branding
+  - culture
+  - HPT
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 Our brand:
 - InnovAnon
@@ -70,4 +75,4 @@ Things to consider:
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

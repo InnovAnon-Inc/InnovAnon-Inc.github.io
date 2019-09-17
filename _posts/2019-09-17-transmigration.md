@@ -1,14 +1,17 @@
 ---
 title: "Transmigration"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Applied Spiritual Technology
+  - End Game
 tags:
-  - anonymity
-  - privacy
-  - security
+  - AST
+  - end
+  - game
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 The default goal of human life is to attain Turiya,
 the state transcending waking life and sleep, life and death,
@@ -26,4 +29,4 @@ In doing so, they are able to ensure the continuation of their organization's ef
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).

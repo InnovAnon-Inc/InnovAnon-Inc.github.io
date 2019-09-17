@@ -1,14 +1,19 @@
 ---
 title: "The Wetworks Division"
 categories:
-  - Anonymity
-  - Privacy
-  - Security
+  - Human Programming Technology
+  - Corporate Structure
+  - Field Agent Technology
 tags:
-  - anonymity
-  - privacy
-  - security
+  - HPT
+  - corporate
+  - structure
+  - FAT
 ---
+
+NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
+
+
 
 Wetworks units probably don't even need technician-tier intelligences.
 
@@ -38,4 +43,4 @@ Wetworks units should be equipped with disposable technologies.
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
-(i.e., to demonstrate how a red team organization may be structured).
+(i.e., to demonstrate how a red team organization may be structured and operate).
