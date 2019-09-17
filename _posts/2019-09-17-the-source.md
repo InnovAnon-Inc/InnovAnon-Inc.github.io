@@ -2,11 +2,8 @@
 title: "The Source"
 categories:
   - Applied Spiritual Technology
-  - End Game
 tags:
   - AST
-  - end
-  - game
 ---
 
 NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
