@@ -20,7 +20,7 @@ Innovation:
 
 "Innovation in its modern meaning is "a new idea, creative thoughts, new imaginations in form of device or method". Innovation is often also viewed as the application of better solutions that meet new requirements, unarticulated needs, or existing market needs. Such innovation takes place through the provision of more-effective products, processes, services, technologies, or business models that are made available to markets, governments and society. An innovation is something original and more effective and, as a consequence, new, that "breaks into" the market or society."
 
-Anonymous (Group):
+Anonymous:
 
 "Anonymous is a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
