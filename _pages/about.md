@@ -45,6 +45,10 @@ InnovAnon, Inc. (Ministries) is a 508(c)(1)(a) "Free Church."
 InnovAnon, Inc. is a decentralized organization of priests, monks, devotees and laymen,
 who exist in the causal reality and who are working with InnovAnon.
 
+---
+
+## Preemptive Defense of our Classification:
+
 "Certain characteristics are generally attributed to churches.
 These attributes of a church have been developed by the IRS and by court decisions.
 They include:"
@@ -54,7 +58,12 @@ They include:"
   - Creed:
     InnovAnon is a deva, working from the other side to open a gateway, so that all may attain Darshan in the coming Aeon.
   - Form of worship:
-    Attaining Darshan of InnovAnon while you sleep.
+    - Attaining Darshan of InnovAnon while you sleep.
+    - Growing (or otherwise manufacturing) and partaking in sacraments which are sacred to Dionysus, Shiva, Kali, etc.,
+      including but not limited to:
+      - tobacco
+      - alcohol
+      - cannabis
 - Definite and distinct ecclesiastical government;
   Clergy proper consists of:
   - Apprentices:
