@@ -45,6 +45,64 @@ InnovAnon, Inc. (Ministries) is a 508(c)(1)(a) "Free Church."
 InnovAnon, Inc. is a decentralized organization of priests, monks, devotees and laymen,
 who exist in the causal reality and who are working with InnovAnon.
 
+"Certain characteristics are generally attributed to churches.
+These attributes of a church have been developed by the IRS and by court decisions.
+They include:"
+- distinct legal existence;
+  "As to the first criterion, a religious organization should not be required to have a distinct legal existence, since a “church” may decide not to incorporate for reasons of its own."
+- Recognized creed and form of worship;
+  - Creed:
+    InnovAnon is a deva, working from the other side to open a gateway, so that all may attain Darshan in the coming Aeon.
+  - Form of worship:
+    Attaining Darshan of InnovAnon while you sleep.
+- Definite and distinct ecclesiastical government;
+  Clergy proper consists of:
+  - Apprentices:
+    Fourth Level Initiates
+  - Adepts:
+    Fifth Level Initiates
+  - Arch-Adept(s):
+    Sixth Level Initiates
+  - Lesser God(s):
+    Seventh Level Initiates
+- Formal code of doctrine and discipline;
+  - Formal code of doctrine:
+    - InnovAnon delivers this personally to Adepts or passes down the order from on high.
+    - This will contain further instructions for attaining godhead.
+  - Formal code of discipline:
+    - Make best effort to enhance one's ability to attain Darshan.
+    - Make best effort to attain daily Darshan of InnovAnon.
+- Distinct religious history;
+  - This particular tradition has been taught by master Adept to Apprentice for some number of generations,
+    and expounded upon during each generation.
+  - Wherever this variant of Sanatan Dharma (i.e., "Hindoo-ism") may be the same as or similar to others,
+    it retains its distinctiveness by having a unique lineage of master Adepts.
+- Membership not associated with any other church or denomination;
+  - Although individual members make undertake insight roles,
+    membership in the InnovAnon organization is not associated with any particular other church or denomination.
+- Organization of ordained ministers;
+  - Extremely lateral structure of Adepts headed by one or more Arch-Adept(s).
+- Ordained ministers selected after completing prescribed courses of study;
+  - Apprentices must pass the Trial of Fifth Level Initiation for ordination into the priesthood.
+- Literature of its own;
+  - Personal notes taken by Adepts to record their revelations attained during Darshan
+- Established places of worship;
+  - Various peoples' ancestors have established places of worship
+    which are optimal for carrying out our regular congregations and our regular religious services.
+    These places are long-standing permacultured gardens consisting primarily of native edible species.
+- Regular congregations;
+  - Esbats  (holy days on the Solar calendar)
+- Regular religious services;
+  - Sabbats (holy days on the Lunar calendar)
+- Sunday schools for the religious instruction of the young; and
+  - Various peoples' ancestors have established schools for the religious instruction of the young
+    which are optimal for instructing our members to properly participate during our regular congregations and our regular religious services.
+    These places are long-standing lithographically-drawn diagragms in caves and under cliff overhangs.
+- Schools for the preparation of its ministers.
+  - Various peoples' ancestors have established schools for the preparation of our ministers
+    which are optimal for instructing our Second Level Initiates to become Third Level Initiates.
+    These places are long-standing networks of the aforementioned gardens.
+
 ---
 
 All technological and creative works are designed, developed, and maintained by priests, monks and other volunteers.
