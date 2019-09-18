@@ -20,5 +20,5 @@ main:
     url: /terms/
   - title: "Sitemap"
     url: /sitemap/
-  - title: "Links (3rd Party)"
-    url: /other-links/
+  - title: "Links"
+    url: /links/
