@@ -35,6 +35,12 @@ so as to minimize the amount of foreshadowing they may reveal about their potent
 
 
 
+During ceremonies and other occassions, members are encouraged to wear masks or hoods,
+so as to invoke the impression that members are nameless, faceless agents,
+carrying out the will of the patron/matron deity
+and, in exchange, acquiring power beyond their current comprehension.
+
+
 
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
