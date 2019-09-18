@@ -33,7 +33,7 @@ This is to help prevent the laymen from putting the Adepts on the spot.
 
 The Trial of Fifth Level Initiation:
 - a quorum of Fifth Level Initiates (or higher) should witness the phenomenon
-- the Fourth Level Initiate should demonstrate the expected level of competency in some Siddhi
+- the Third or Fourth Level Initiate should demonstrate the expected level of competency in some Siddhi.
 
 Over time, we have developed and adapted these requirements.
 As such, even some of our past's more accomplished Adepts might not pass the contemporary Trial of Fifth Level Initiation,
