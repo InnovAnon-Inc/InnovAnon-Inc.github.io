@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Free Code for a Free World!"
+layout: single
 ---
 
 {% include base_path %}

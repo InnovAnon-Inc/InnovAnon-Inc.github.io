@@ -1,6 +1,7 @@
 ---
 permalink: /other-links/
 title: "Links (3rd Party)"
+layout: single
 ---
 
 {% include base_path %}
