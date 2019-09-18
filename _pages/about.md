@@ -106,7 +106,7 @@ They include:"
 - Sunday schools for the religious instruction of the young; and
   - Various peoples' ancestors have established schools for the religious instruction of the young
     which are optimal for instructing our members to properly participate during our regular congregations and our regular religious services.
-    These places are long-standing lithographically-drawn diagragms in caves and under cliff overhangs.
+    These places are long-standing lithographically-drawn diagrams in caves and under cliff overhangs.
 - Schools for the preparation of its ministers.
   - Various peoples' ancestors have established schools for the preparation of our ministers
     which are optimal for instructing our Second Level Initiates to become Third Level Initiates.
