@@ -36,6 +36,11 @@ punch into Google, "Sanatan Dharma: Hinduism Exhumed and Resurrected by Capt. Aj
 and navigate to this link:
 https://ajitvadakayil.blogspot.com/2015/09/sanatana-dharma-hinduism-exhumed-and.html
 
+The uncivilized aspect of the particular lifeway that we are promulgating can be described in a myriad ways:
+- a hunter-gathering life-giving symbiotic walk in beauty
+- as an apex hunter, using your ability to recognize other individuals' patterns and using that knowledge to intervene to help and to harm
+- planting and foraging free edible native permaculture (i.e., native human habitat)
+
 
 
 DISCLAIMER:
