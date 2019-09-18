@@ -31,6 +31,11 @@ The One begets The Two (i.e., duality):
 This is an Advaita Vedanta (non-dualism) school of Sanatan Dharma,
 which means that we believe that the Brahma and Atma are two aspects of the same thing.
 
+For more information on Sanatan Dharma from an authoritative source,
+punch into Google, "Sanatan Dharma: Hinduism Exhumed and Resurrected by Capt. Ajit Vadakayil,"
+and navigate to this link:
+https://ajitvadakayil.blogspot.com/2015/09/sanatana-dharma-hinduism-exhumed-and.html
+
 
 
 DISCLAIMER:
