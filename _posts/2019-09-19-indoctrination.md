@@ -53,6 +53,29 @@ bringing about the collapse of the current iteration of civilization.
 
 
 
+We know not just what must be done,
+but also what will happen.
+The question is when.
+We know that civilization will collapse.
+
+If it collapses soon enough,
+then we can save our species
+long enough for us to try again
+with an intentional civilization.
+
+If it takes too long to collapse,
+then our species and possibly all species
+will be annihilated.
+
+This begs the question:
+If not this generation, then which generation?
+And how many more generations until it's too late?
+
+There should be another question in the back of our minds as well:
+Which generation will be the one to activate the GOD.
+
+
+
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes

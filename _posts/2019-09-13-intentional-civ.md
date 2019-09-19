@@ -39,6 +39,10 @@ If the primary objective is not accomplished in a timely manner,
 then it is probable that a global mass extinction will annihilate our species.
 This is non-ideal, but it does technically accomplish the primary objective.
 
+Another constraint on the timeliness of our carrying out these objectives is that
+all it takes is one faction to decide that it's time to end all suffering by activating a GOD (Global Obliteration Device),
+and that no faction should actively impede that effort.
+
 
 
 DISCLAIMER:

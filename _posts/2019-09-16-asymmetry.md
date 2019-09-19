@@ -45,8 +45,8 @@ for that will cause them to fight more ferociously and until the end without ret
 
 You have to be crazier than your opponent:
 Kamikaze warriors and suicide bombers have become immortalized in the history books for their willingness to endure until the end.
-A faction that is willing to activate a doomsday device would be an intimidating and worthy opponent.
-If our civilization continues on its current path, then such a doomsday device would merely accelerate the inevitable,
+A faction that is willing to activate a GOD (Global Obliteration Device) would be an intimidating and worthy opponent.
+If our civilization continues on its current path, then such a GOD would merely accelerate the inevitable,
 thus necessitating all that we have outlined in this article.
 
 
