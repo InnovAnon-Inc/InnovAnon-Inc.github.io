@@ -30,6 +30,8 @@ and held prisoner for three days,
 until my family paid the ransom.
 
 I was wearing only my kirpan at the time.
+(To be honest, I was stark naked,
+not even wearing my kachhera, kangha or patka).
 Although I never drew my kirpan,
 I managed to fend off my attacker with improvised melee weaponry,
 and evaded the bullets he fired at me.
