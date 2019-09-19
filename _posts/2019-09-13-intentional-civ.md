@@ -28,6 +28,17 @@ there are nuances to understand:
     and accept his or her placement in a job role, such as technician, engineer or researcher.
   - the intentional civilization will offer no form of retirement, social security or welfare.
 
+It should be made clear that the primary objective
+is to bring about (i.e., accelerate) the collapse of the current iteration of civilization.
+
+The secondary objective is to implement an intentional civilization.
+It is of utmost importance that the carrying out of the secondary objective
+does not impede or interfere with the carrying out of the first objective.
+
+If the primary objective is not accomplished in a timely manner,
+then it is probable that a global mass extinction will annihilate our species.
+This is non-ideal, but it does technically accomplish the primary objective.
+
 
 
 DISCLAIMER:
