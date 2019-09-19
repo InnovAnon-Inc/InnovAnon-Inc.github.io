@@ -53,6 +53,19 @@ bringing about the collapse of the current iteration of civilization.
 
 
 
+I must emphasize that it is necessary to
+slowly and iteratively reveal the truth
+and the things it entails to your recruits
+because NPCs and low-tier PCs seem to be unable to hear things
+until they are mentally ready.
+
+That is, they are physically unable to mentally digest and absorb the raw sound waves coming at them:
+it is like speaking into a speech-to-text enabled device that has the microphone disabled.
+In such a scenario, it would be impossible for softwares on that device to retroactively process the audio input at a later date,
+because the audio input never made it past the microphone.
+
+
+
 We know not just what must be done,
 but also what will happen.
 The question is when.
@@ -72,7 +85,7 @@ If not this generation, then which generation?
 And how many more generations until it's too late?
 
 There should be another question in the back of our minds as well:
-Which generation will be the one to activate the GOD.
+Which generation will be the one to activate the GOD (Global Obliteration Device).
 
 
 
