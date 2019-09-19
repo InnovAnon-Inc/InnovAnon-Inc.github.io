@@ -40,6 +40,11 @@ Wetworks units should be equipped with disposable technologies.
 
 
 
+One thing to consider is:
+- How long-lived must a field agent be in order to justify your expenses/effort in training and realigning his/her paradigm?
+
+
+
 DISCLAIMER:
 The information contained within this article is purely hypothetical,
 and intended for educational purposes
