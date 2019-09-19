@@ -33,6 +33,7 @@ I was wearing only my kirpan at the time.
 Although I never drew my kirpan,
 I managed to fend off my attacker with improvised melee weaponry,
 and evaded the bullets he fired at me.
+Let the record show that I took a knife to this gunfight.
 
 The expressely anti-Sikh terrorists confiscated and never returned my kirpan.
 Since that time, I have stopped wearing the panj kakkars,
@@ -41,7 +42,7 @@ and to more effectively a wage war of annihilation against the terrorist faction
 
 After my service to this nation,
 the State has refused to compensate me or my family for our sacrifices,
-and so the only way I (and some of our other clergy) can afford food, clothes, a terminal for programming or a place to stay
+and so the only way I (and some of our other clergy) can afford food, clothes, a terminal for programming or a place to stay,
 is by the graciousness of our supporters.
 
 If you choose to make a tax-exempt donation to our organization,
@@ -49,9 +50,19 @@ we will send you a receipt for your records,
 a personalized thank you letter,
 and our personal records showing precisely how we used your donation.
 
+Note: although I was a devout Amritdhari Sikh in my time leading up to my combat experience,
+afterward, I opted to take on a more Westernized appearance,
+so as to better rally support against the terrorist nation
+and to shift to a more war-like variant of the Sanatan Dharma (eternal lifeway),
+as Sikhs have lost that naive, too-quick-to-fight nature that made them formidable pre-colonization.
+Since that time I have even infiltrated Nazarene factions that support the terrorist nation.
 
+I do still believe that Sikhi is closest in spirit to the Bill of Rights,
+but I no longer believe that that spirit is the one we need to invoke,
+for this is no longer the post-liberal-monarchy period,
+but instead this is the era just before post-civilization.
 
-Signed,
+May the gods be with you,
 Zantetsoth
 (zante ~ "overkill", soth = (masculine suffix))
 
