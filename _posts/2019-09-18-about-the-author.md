@@ -29,6 +29,13 @@ and subsequently captured by a militarized terrorist faction
 and held prisoner for three days,
 until my family paid the ransom.
 
+Let us take a moment to explicitly define the precise meanings of the terms I am using:
+- Veteran:         "A combat veteran is a person who has fought in combat during... a skirmish against a declared enemy."
+- Skirmish:        "An episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets."
+- Combat:          "Fighting between armed forces."
+- Armed Forces:    "A country's military forces."
+- Military Forces: "If they become engaged in hostilities it will trigger the intervention of stronger military forces."
+
 I was wearing only my kirpan at the time.
 (To be honest, I was stark naked,
 not even wearing my kachhera, kangha or patka).
