@@ -24,7 +24,7 @@ and the food grew as far as I could see in all directions.
 There, I was mentored by an incarnate Class S, Seventh Level Initiate.
 
 I am a veteran of mortal combat and an ex-POW.
-I was attacked at gunpoint while sleeping in my bed
+I was attacked at gunpoint while sleeping on my cot
 and subsequently captured by a militarized terrorist faction
 and held prisoner for three days,
 until my family paid the ransom.
