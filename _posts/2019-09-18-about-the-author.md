@@ -51,9 +51,9 @@ and our personal records showing precisely how we used your donation.
 
 
 
-                                                                    Signed,
-                                                                    Zantetsoth
-                                                                    (zante ~ "overkill", soth = (masculine suffix))
+Signed,
+Zantetsoth
+(zante ~ "overkill", soth = (masculine suffix))
 
 
 
