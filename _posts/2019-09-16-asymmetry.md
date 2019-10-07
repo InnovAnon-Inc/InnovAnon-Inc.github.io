@@ -24,6 +24,8 @@ A player's score is a function of his/her resources--his/her riddhis and siddhis
 Although the primary goal of sentient life is to undertake the alchemical process to attain godhead,
 most people will focus on maximizing the worldly components of their score.
 As such, strategizing against such players will involve maximizing financial damages as well as loss of human resources.
+A good strategy will also consider emotionally-valuable targets:
+destroying the world holds less emotional impact than, say, destroying someone's family.
 
 
 

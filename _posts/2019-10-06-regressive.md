@@ -59,14 +59,18 @@ Each cycle of civilization is an iteration of the Great Work.
 
 
 
-The ultimate iteration of civilization will face a total destruction of humanity--the world becoming unable to support our species and our ultimate extinction.
-To preserve our species during this final dissolution we can consider the following options:
+Each iteration of civilization faces a total destruction of humanity--the world becoming unable to support our species.
+To preserve our species during this dissolution we can consider the following options:
 - retreat underground or undersea
 - terraform our planet
 - retreat to space 
 - repair our ecosystem (if it's not too late)
 
-How we respond during this time will either cause our total annihilation or shape the direction of our future evolution.
+The ultimate iteration of civilization will be when we finally manage to cause our own extinction.
+At this point, humanity's aeon will end,
+and, with time, our specie's only legacy will be those of us who have attained a self-sustaining acauasal existence,
+and perhaps also those of our species who merge with the demiurges of the various soul-harvesting religions
+in a manner reminiscent of the constituents of the philosopher's stones in FMA.
 
 
 
