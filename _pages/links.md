@@ -12,6 +12,7 @@ layout: single
 - https://ajitvadakayil.blogspot.com
 - https://motls.blogspot.com
 - https://www.penttilinkola.com/pentti_linkola/ecofascism
+- https://www.anonymousconservative.com/blog/home-page
 - http://ididitforthe.lol/psi/psipog.net/articles.html
 - https://www.joyofsatan.org
 - https://www.o9a.org
