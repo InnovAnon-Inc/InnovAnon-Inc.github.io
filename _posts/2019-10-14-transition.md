@@ -1,5 +1,5 @@
 ---
-title: "Native Human Habitat"
+title: "Transition to Post-Civilization"
 categories:
   - Human Programming Technology
   - Corporate Culture
@@ -15,25 +15,25 @@ NOTICE! Everything herein is presented purely as purely hypothetical--a work of 
 
 During the transition to post-civilization:
 
-- slash and burn warfare is a common tactic used by enemy factions.
+- Slash and burn warfare is a common tactic used by enemy factions.
 
-- nuclear bombs are detonated in the oceans to cause tsunamis that annihilate coastal civilizations.
+- Nuclear bombs are detonated in the oceans to cause tsunamis that annihilate coastal civilizations.
 
-- seeds are engineered that hybridize with native species and go sterile after some number of generations,
+- Seeds are engineered that hybridize with native species and go sterile after some number of generations,
   thus eliminating entire ecosystems.
 
-- crops are irradiated to eradicate entire populations.
+- Crops are irradiated to eradicate entire populations.
 
-- electronic systems that manage infrastructure are compromised and disabled en masse,
+- Electronic systems that manage infrastructure are compromised and disabled en masse,
   resulting in widespread panic that must be quelled by increasing the scope and cost of the government.   
 
-- with the increasing availability of publicly available human subject data
+- With the increasing availability of publicly available human subject data
   and the resulting loss of privacy,
   enemy factions are able to find and target disenfranchised demographics,
   then indoctrinate them with targeted radicalization compaigns,
   producing "home-grown" agents to carry out guerilla warfare.  
 
-- enemy factions' members with high potential and influence
+- Enemy factions' members with high potential and influence
   are targeted with advanced persistent reprogramming efforts.
   Factors in their lives are manipulated to disadvantage them,
   reducing their ability to make beneficial contributions to their nation.
@@ -41,20 +41,30 @@ During the transition to post-civilization:
   and to injure their psyches,
   and to ultimately convert them to anti-human and even anti-cosmic ideologies.
 
-- psy op campaigns are used to divide enemy civilizations' populations
+- Psy op campaigns are used to divide enemy civilizations' populations
   to cause social and economic instability
 
-- grass-roots movements are engineered to reduce corporate profits and destabilize economies.
+- Grass-roots movements are engineered to reduce corporate profits and destabilize economies.
 
-- for wars of attrition, enemy civilizations' politicians
+- Demonstrations and protests are targeted with infrasound
+  to increase chances of widespread rioting.
+
+- False flags are planted in demonstrations and protests to start riots.
+
+- Authorities are targeted with infrasound to induce delusions and psychoses that harm their credibility.
+
+- Authorities have harmful secrets--both factual and fabricated--made public to remove them from office.
+  These exposures are often sweeping, harming entire sectors.
+
+- For wars of attrition, enemy civilizations' politicians
   are funded or otherwise bribed into passing legislature
   that seems inoccuous at first,
   but that ultimately combines with other laws and policies to reduce productivity and economic efficiency.
 
-- compost piles are engineered to combust,
+- Compost piles are engineered to combust,
   creating wildfires that hit civilizations and their piplines.
 
-- aquifer recharge zones and wells are poisoned,
+- Aquifer recharge zones and wells are poisoned,
   often by concentrating the water a civilization gives its citizens,
   as the water generally contains additives that are highly toxicated
   in concentrated amounts.
