@@ -33,6 +33,14 @@ During the transition to post-civilization:
   then indoctrinate them with targeted radicalization compaigns,
   producing "home-grown" agents to carry out guerilla warfare.  
 
+- enemy factions' members with high potential and influence
+  are targeted with advanced persistent reprogramming efforts.
+  Factors in their lives are manipulated to disadvantage them,
+  reducing their ability to make beneficial contributions to their nation.
+  Their life circumstances are manipulated to embitter them
+  and to injure their psyches,
+  and to ultimately convert them to anti-human and even anti-cosmic ideologies.
+
 - psy op campaigns are used to divide enemy civilizations' populations
   to cause social and economic instability
 
