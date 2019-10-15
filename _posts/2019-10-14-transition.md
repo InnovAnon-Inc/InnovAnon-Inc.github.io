@@ -27,6 +27,11 @@ During the transition to post-civilization:
 - Electronic systems that manage infrastructure are compromised and disabled en masse,
   resulting in widespread panic that must be quelled by increasing the scope and cost of the government.   
 
+- Microtask platforms are increasingly ubiquitous,
+  and are compromised using zero-days and advanced persistent threats,
+  allowing enemy faction's to utilize unsuspecting agents
+  to carry out tasks that combine disasterously.
+
 - With the increasing availability of publicly available human subject data
   and the resulting loss of privacy,
   enemy factions are able to find and target disenfranchised demographics,
