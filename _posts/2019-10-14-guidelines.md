@@ -17,6 +17,7 @@ NOTICE! Everything herein is presented purely as purely hypothetical--a work of 
 - Repeat your thesis and instructions to enhance their memorability.
 - Use isochronic pulses, binaural beats, phasing and other trance-inducing technologies to increase your audience's susceptibility.
 - Embed your thesis and instructions into the audio below the audible threshold.
+- Use present-tense language, as in engineering subliminal affirmations, so as to program the subconscious effectively.
 - Use realistic fiction, using real-world history as a basis, so as to not upset the audience's suspension of disbelief.
 - Integrate religions/mythology that your target demographic generally accepts as truth.
 - Consider how a faction would acquire and maintain global control.
