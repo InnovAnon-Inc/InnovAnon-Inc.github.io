@@ -24,6 +24,9 @@ During the transition to post-civilization:
 
 - crops are irradiated to eradicate entire populations.
 
+- electronic systems that manage infrastructure are compromised and disabled en masse,
+  resulting in widespread panic that must be quelled by increasing the scope and cost of the government.   
+
 - with the increasing availability of publicly available human subject data
   and the resulting loss of privacy,
   enemy factions are able to find and target disenfranchised demographics,
@@ -32,6 +35,8 @@ During the transition to post-civilization:
 
 - psy op campaigns are used to divide enemy civilizations' populations
   to cause social and economic instability
+
+- grass-roots movements are engineered to reduce corporate profits and destabilize economies.
 
 - for wars of attrition, enemy civilizations' politicians
   are funded or otherwise bribed into passing legislature
