@@ -2,8 +2,11 @@
 title: "Double Think"
 categories:
   - Human Programming Technology
+  - Corporate Culture
 tags:
   - HPT
+  - corporate
+  - culture
 ---
 
 NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.

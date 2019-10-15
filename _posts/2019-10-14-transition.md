@@ -3,10 +3,13 @@ title: "Transition to Post-Civilization"
 categories:
   - Human Programming Technology
   - Corporate Culture
+  - End Game
 tags:
   - HPT
   - corporate
   - culture
+  - end
+  - game
 ---
 
 NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.

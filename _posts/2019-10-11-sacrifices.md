@@ -3,10 +3,12 @@ title: "Sacrifices"
 categories:
   - Human Programming Technology
   - Corporate Culture
+  - Applied Spiritual Technology
 tags:
   - HPT
   - corporate
   - culture
+  - AST
 ---
 
 NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.

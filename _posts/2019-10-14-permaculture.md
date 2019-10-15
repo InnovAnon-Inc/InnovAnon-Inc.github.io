@@ -1,10 +1,8 @@
 ---
 title: "Native Human Habitat"
 categories:
-  - Human Programming Technology
   - Corporate Culture
 tags:
-  - HPT
   - corporate
   - culture
 ---
