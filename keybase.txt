@@ -1,0 +1,58 @@
+
+==================================================================
+https://keybase.io/innovanon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://InnovAnon-Inc.github.io
+  * I am innovanon (https://keybase.io/innovanon) on keybase.
+  * I have a public key ASDQoBYShXTqcZxF_lHcKOb3hNrWd3tJBPgQmqB5M8ngpgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0a016128574ea719c45fe51dc28e6f784dad6777b4904f8109aa07933c9e0a60a",
+      "host": "keybase.io",
+      "kid": "0120d0a016128574ea719c45fe51dc28e6f784dad6777b4904f8109aa07933c9e0a60a",
+      "uid": "21fc22ea32b71bda989eb61be698aa19",
+      "username": "innovanon"
+    },
+    "merkle_root": {
+      "ctime": 1571270335,
+      "hash": "0900391d179b26693bdfe16bc3c51bfa3358342a61ba103c3883596e65d7bf3865aee2e7d8957833eab1f3b683acca9301f0f83e79b9b735e43ae97c121c4b83",
+      "hash_meta": "6fe2c8754ac2eded0bfcafd5b15b8e8472fa1700e125b1e78432d6889d06dcbf",
+      "seqno": 8180734
+    },
+    "service": {
+      "entropy": "boUuUJeec711Gb+XnI34slDP",
+      "hostname": "InnovAnon-Inc.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571270354,
+  "expire_in": 504576000,
+  "prev": "a0df1113520553c4d0098e283380f7dc164470e196d349ac072341a07190f9e8",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0KAWEoV06nGcRf5R3Cjm94Ta1nd7SQT4EJqgeTPJ4KYKp3BheWxvYWTESpcCCcQgoN8RE1IFU8TQCY4oM4D33BZEcOGW00msByNBoHGQ+ejEIJSogixzi9eawuTkCRMfhD7Y6lUFRD8MP4ipeFR+pFg7AgHCo3NpZ8RATkVsABxOd2iaRf/rELPMbPi67II/XYOIZk4/69MXDHSZ9NDNnL6UiQ5eW6WqmjwH14IJG7uAVeRtWE4eVn6fDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHcAj/AxSqIfkfbC+WmMm3f7HjcRNGctPj6DDTRrMHlso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/innovanon
+
+==================================================================
+
