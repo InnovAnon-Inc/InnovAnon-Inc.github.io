@@ -18,6 +18,17 @@ tags:
   - xfce
   - corporate
   - branding
+comments: true
+share: true
+header:
+  overlay_image: /assets/images/3600x3600.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_url: "https://unsplash.com"
+#image:
+#  background: /assets/images/3600x3600.png
+##background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
+##image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
+##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ---
 
 NOTICE! Everything herein is presented purely as purely hypothetical--a work of fiction.
