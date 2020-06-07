@@ -93,7 +93,7 @@ We'll further configure some screen savers:
   - WebCollage, given that your workstation is in a position where running `driftnet` would yield interesting results:
       - Run some commands, as per https://www.linuxtutorial.co.uk/tcpdump-eth0-you-dont-have-permission-to-capture-on-that-device/:
         sudo groupadd pcap
-        sudo usermod -a -G pcap `whoami`
+        sudo usermod -a -G pcap "$USER"
         sudo chgrp pcap /usr/bin/driftnet
         sudo chmod 0755 /usr/bin/driftnet
         sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/driftnet
