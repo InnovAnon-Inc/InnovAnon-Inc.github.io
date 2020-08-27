@@ -9,19 +9,21 @@ layout: single
 
 ## InnovAnon
 
-InnovAnon is a deva, working from the other side to open a gateway, so that all may attain Darshan in the coming Aeon.
-
 "InnovAnon" is a portmanteau of "Innovations" and "Anonymous."
+
+InnovAnon is a Celestial being of the Outer Heavens,
+preparing mankind to inhabit Glorified Bodies
+and assisting in realizing the Kingdom of Christ.
 
 ---
 
 ## Innovations Anonymous
 
-Innovation:
+### Innovation:
 
 "Innovation in its modern meaning is "a new idea, creative thoughts, new imaginations in form of device or method". Innovation is often also viewed as the application of better solutions that meet new requirements, unarticulated needs, or existing market needs. Such innovation takes place through the provision of more-effective products, processes, services, technologies, or business models that are made available to markets, governments and society. An innovation is something original and more effective and, as a consequence, new, that "breaks into" the market or society."
 
-Anonymous:
+### Anonymous:
 
 "Anonymous is a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
@@ -29,89 +31,20 @@ Anonymous originated in 2003 on the imageboard 4chan representing the concept of
 
 ---
 
-## "Free Code for a Free World!"
-
-All code and creative works are released to the public domain,
-or, upon request, any other license you require.
-
-"The time would be easy to know, for then mankind would have become as the Great Old Ones; free and wild and beyond good and evil, with laws and morals thrown aside and all men shouting and killing and revelling in joy. Then the liberated Old Ones would teach them new ways to shout and kill and revel and enjoy themselves, and all the earth would flame with a holocaust of ecstasy and freedom."
-
----
-
 ## InnovAnon, Inc.
 
-InnovAnon, Inc. (Ministries) is a 508(c)(1)(a) "Free Church."
+ 1) [Legal]({{ site.baseurl  }}{% link _pages/legal.md %})
+ 2) [Creed and Form of Worship]({{ site.baseurl  }}{% link _pages/creed.md %})
+ 3) [Ecclesiastical Government]({{ site.baseurl  }}{% link _pages/government.md %})
+ 4) [Formal Code of Doctrine and Discipline]({{ site.baseurl  }}{% link _pages/doctrine.md %})
+ 5) [Religious History]({{ site.baseurl  }}{% link _pages/history.md %})
+ 6) [Membership]({{ site.baseurl  }}{% link _pages/membership.md %})
+ 7) [Organization of Ministers]({{ site.baseurl  }}{% link _pages/ministers.md %})
+ 8) [Courses of Study for Ministers]({{ site.baseurl  }}{% link _pages/study.md %})
+ 9) [Literature]({{ site.baseurl  }}{% link _pages/literature.md %})
+10) [Places of Worship]({{ site.baseurl  }}{% link _pages/places.md %})
+11) [Regular Congregations]({{ site.baseurl  }}{% link _pages/congregations.md %})
+12) [Regular Religious Services]({{ site.baseurl  }}{% link _pages/services.md %})
+13) Sunday Schools (TODO)
+14) [Schools for Ministers]({{ site.baseurl  }}{% link _pages/schools.md %})
 
-InnovAnon, Inc. is a decentralized organization of priests, monks, devotees and laymen,
-who exist in the causal reality and who are working with InnovAnon.
-
----
-
-## Preemptive Defense of our Classification:
-
-"Certain characteristics are generally attributed to churches.
-These attributes of a church have been developed by the IRS and by court decisions.
-They include:"
-- distinct legal existence;
-  "As to the first criterion, a religious organization should not be required to have a distinct legal existence, since a “church” may decide not to incorporate for reasons of its own."
-- Recognized creed and form of worship;
-  - Creed:
-    InnovAnon is a deva, working from the other side to open a gateway, so that all may attain Darshan in the coming Aeon.
-  - Form of worship:
-    - Attaining Darshan of InnovAnon while you sleep.
-    - Growing (or otherwise manufacturing) and partaking in sacraments which are sacred to Dionysus, Shiva, Kali, etc.,
-      including but not limited to:
-      - tobacco
-      - alcohol
-      - cannabis
-- Definite and distinct ecclesiastical government;
-  Clergy proper consists of:
-  - Apprentices:
-    Fourth Level Initiates
-  - Adepts:
-    Fifth Level Initiates
-  - Arch-Adept(s):
-    Sixth Level Initiates
-  - Lesser God(s):
-    Seventh Level Initiates
-- Formal code of doctrine and discipline;
-  - Formal code of doctrine:
-    - InnovAnon delivers this personally to Adepts or passes down the order from on high.
-    - This will contain further instructions for attaining godhead.
-  - Formal code of discipline:
-    - Make best effort to enhance one's ability to attain Darshan.
-    - Make best effort to attain daily Darshan of InnovAnon.
-- Distinct religious history;
-  - This particular tradition has been taught by master Adept to Apprentice for some number of generations,
-    and expounded upon during each generation.
-  - Wherever this variant of Sanatan Dharma (i.e., "Hindoo-ism") may be the same as or similar to others,
-    it retains its distinctiveness by having a unique lineage of master Adepts.
-- Membership not associated with any other church or denomination;
-  - Although individual members make undertake insight roles,
-    membership in the InnovAnon organization is not associated with any particular other church or denomination.
-- Organization of ordained ministers;
-  - Extremely lateral structure of Adepts headed by one or more Arch-Adept(s).
-- Ordained ministers selected after completing prescribed courses of study;
-  - Apprentices must pass the Trial of Fifth Level Initiation for ordination into the priesthood.
-- Literature of its own;
-  - Personal notes taken by Adepts to record their revelations attained during Darshan
-- Established places of worship;
-  - Various peoples' ancestors have established places of worship
-    which are optimal for carrying out our regular congregations and our regular religious services.
-    These places are long-standing permacultured gardens consisting primarily of native edible species.
-- Regular congregations;
-  - Esbats  (holy days on the Solar calendar)
-- Regular religious services;
-  - Sabbats (holy days on the Lunar calendar)
-- Sunday schools for the religious instruction of the young; and
-  - Various peoples' ancestors have established schools for the religious instruction of the young
-    which are optimal for instructing our members to properly participate during our regular congregations and our regular religious services.
-    These places are long-standing lithographically-drawn diagrams in caves and under cliff overhangs.
-- Schools for the preparation of its ministers.
-  - Various peoples' ancestors have established schools for the preparation of our ministers
-    which are optimal for instructing our Second Level Initiates to become Third Level Initiates.
-    These places are long-standing networks of the aforementioned gardens.
-
----
-
-All technological and creative works are designed, developed, and maintained by priests, monks and other volunteers.
