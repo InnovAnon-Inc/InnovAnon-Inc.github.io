@@ -48,3 +48,11 @@ Anonymous originated in 2003 on the imageboard 4chan representing the concept of
 13) Sunday Schools (TODO)
 14) [Schools for Ministers]({{ site.baseurl  }}{% link _pages/schools.md %})
 
+---
+
+## "Free Code for a Free World!"
+
+All code and creative works are released to the public domain, or, upon request, any other license you require.
+
+"The time would be easy to know, for then mankind would have become as the Great Old Ones; free and wild and beyond good and evil, with laws and morals thrown aside and all men shouting and killing and revelling in joy. Then the liberated Old Ones would teach them new ways to shout and kill and revel and enjoy themselves, and all the earth would flame with a holocaust of ecstasy and freedom."
+
