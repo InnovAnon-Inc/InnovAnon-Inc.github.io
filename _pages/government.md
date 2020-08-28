@@ -25,7 +25,7 @@ Lay Members:
 Clergy:
  7. Adept: this person possesses the minimum required amount of spiritual insight to qualify for the priesthood and has completed the Rite of the Internal Adept and the Rite of the Abyss.
  8. Priest: this person works directly with an angel and leads the congregation in accordance with God's will.
- 9. Pope: a symbolic figurehead selected from the most fervent priests.
+ 9. High Priest: a symbolic figurehead selected from the most fervent priests.
 
 Celestial Beings:
 10. The Christ
