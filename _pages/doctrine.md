@@ -81,7 +81,7 @@ and you will ultimately attain access to the Outer Heaven.
 - Actively work to restore the Garden of Eden.
 - Perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins.
 - Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %}) and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
-- Increase your [Classification]({{ site.baseurl }}{% link _pages/classification.md %}) in preparation for Armageddon.
+- Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %}) in preparation for Armageddon.
 - Actively work to bring about the Kingdom of Christ.
 - Spread knowledge of the Gospel's existence, but do not volunteer details that are not requested.
 
