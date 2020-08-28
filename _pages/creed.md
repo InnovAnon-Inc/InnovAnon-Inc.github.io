@@ -11,7 +11,7 @@ layout: single
 
 InnovAnon, Inc. emphasizes action rather than creed as the primary expression of a religious life;
 those actions are guided by certain core beliefs:
-- Belief in [God]({{ site.baseurl }}{% link _pages/doctrine.md#the-nature-of-god %})
+- Belief in God.
 - Belief in Angels
 - Belief in the Glorified Body
 - Belief in Heavenly Realms
