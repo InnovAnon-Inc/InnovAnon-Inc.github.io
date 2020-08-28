@@ -35,3 +35,9 @@ Anonymous originated in 2003 on the imageboard 4chan representing the concept of
 
 InnovAnon, Inc. implements an idea which we refer to as the Way of the Creator.
 
+---
+
+## "[Free Code]({{ site.baseurl  }}{% link /LICENSE %}) for a [Free World](https://www.goodreads.com/quotes/9560207-the-time-would-be-easy-to-know-for-then-mankind)!"
+
+All code and creative works are released to the public domain, or, upon request, any other license you require.
+
