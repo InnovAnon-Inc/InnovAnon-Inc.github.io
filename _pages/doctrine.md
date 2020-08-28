@@ -72,14 +72,16 @@ The Divine Plan is spiritual transformation.
 ## Discipline
 
 Following the code of discipline will enhance your life and further your spirituality:
-the Celestial beings will imbue you with gifts that will help you carry out God's plan, and you will ultimately attain access to the Outer Heaven.
+the Celestial beings will imbue you with gifts that will help you carry out God's plan,
+and you will ultimately attain access to the Outer Heaven.
+
 - Do your best to carry out what you can discern of God's Plan.
-- Develop a personal relationship with the Angels of God.
-- Transform your consciousness to inhabit your Glorified Body.
+- Develop a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Angels of God.
+- [Transform]({{ site.baseurl }}{% link _pages/alchemy.md %}) your consciousness to inhabit your Glorified Body.
 - Actively work to restore the Garden of Eden.
-- Perform penances for your sins.
-- Perform prayer and contemplation.
-- Increase your Classification in preparation for Armageddon.
+- Perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins.
+- Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %}) and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
+- Increase your [Classification]({{ site.baseurl }}{% link _pages/classification.md %}) in preparation for Armageddon.
 - Actively work to bring about the Kingdom of Christ.
-- Spread knowledge of the Gospel's existence, but do not share details that are not requested.
+- Spread knowledge of the Gospel's existence, but do not volunteer details that are not requested.
 

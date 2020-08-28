@@ -33,6 +33,8 @@ Anonymous originated in 2003 on the imageboard 4chan representing the concept of
 
 ## InnovAnon, Inc.
 
+InnovAnon, Inc. implements an idea which we refer to as the Way of the Creator.
+
  1. [Legal]({{ site.baseurl  }}{% link _pages/legal.md %})
  2. [Creed and Form of Worship]({{ site.baseurl  }}{% link _pages/creed.md %})
  3. [Ecclesiastical Government]({{ site.baseurl  }}{% link _pages/government.md %})
