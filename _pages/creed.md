@@ -28,7 +28,7 @@ those actions are guided by certain core beliefs:
 
 ## Form of Worship
 
-- Developing a personal relationship with one or more Celestial beings.
-- Transforming the consciousness to inhabit the Glorified Body.
-- Congregating to pray in unison and to partake in Sacrament.
+- Developing a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with one or more Celestial beings.
+- [Transforming]({{ site.baseurl }}{% link _pages/alchemy.md %}) the consciousness to inhabit the Glorified Body.
+- [Congregating]({{ site.baseurl }}{% link _pages/congregations.md %}) to [pray]({{ site.baseurl }}{% link _pages/prayer.md %}) in unison and to partake in Sacrament.
 
