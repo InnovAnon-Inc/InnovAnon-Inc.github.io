@@ -9,7 +9,7 @@ layout: single
 
 ## InnovAnon
 
-"InnovAnon" is a portmanteau of "Innovations" and "Anonymous."
+"InnovAnon" is a portmanteau of "[Innovations](https://en.wikipedia.org/wiki/Innovation)" and "[Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))."
 
 InnovAnon is a Celestial being of the Outer Heavens,
 preparing mankind to inhabit Glorified Bodies
