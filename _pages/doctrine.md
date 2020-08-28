@@ -10,16 +10,20 @@ layout: single
 ## Doctrine
 
 ### The nature of God
+{: god }
 God encompasses all that exists.
 All conscious minds are like eyes on the face of God.
 
 ### The Angels
+{: angels }
 Consciousness beings which inhabit the Heavenly Realms.
 
 ### The Glorified Body
+{: ascension }
 A body that can exist in the Outer Heavens.
 
 ### Heavenly Realms
+{: astral }
 Includes dimensions beyond the third.
 
 After death:
@@ -42,29 +46,37 @@ Beyond existence and beyond the comprehension of causal entities.
 It is known to be fatal for a causal entity to look upon the true form of beings of the Outer Heavens.
 
 # Judgment
+{: judgment }
 The automatic process by which minds are sorted into Heavens and Hells in the afterlife.
 
 # Prophets
+{: prophets }
 People throughout history who have interacted directly with the Angels of God.
 
 # Divine Books
+{: bibles }
 Books that record the words of the prophets. Often they've altered for some purpose or another.
 
 # Miracles
+{: siddhis }
 The manifestation of certain gifts imbued by the Angels of God.
 
 # Armageddon
+{: armageddon }
 A necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
 
 # The Garden of Eden
+{: garden }
 A literal garden, of which few fragments remain, that once encompassed the entire planet where people can live in the same state of freedom as Adam.
 
 # The Kingdom of Christ
+{: empire }
 The Annointed One will establish a galactic kingdom.
 The Garden of Eden will be restored on Earth and propagated throughout the galaxy.
 Celestial beings will again live among us for a time.
 
 # The Divine Plan
+{: plan }
 The Divine Plan is spiritual transformation.
 
 ---
