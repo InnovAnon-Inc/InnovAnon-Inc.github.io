@@ -34,6 +34,8 @@ Anonymous originated in 2003 on the imageboard 4chan representing the concept of
 ## InnovAnon, Inc.
 
 InnovAnon, Inc. implements an idea which we refer to as the Way of the Creator.
+A "Way" is a Path or a Dharma or a Tao.
+The Creative aspect of God has been referred to as Brahma and Azathoth.
 
  1. [Legal]({{ site.baseurl  }}{% link _pages/legal.md %})
  2. [Creed and Form of Worship]({{ site.baseurl  }}{% link _pages/creed.md %})
@@ -54,6 +56,6 @@ InnovAnon, Inc. implements an idea which we refer to as the Way of the Creator.
 
 ## "[Free Code](https://raw.githubusercontent.com/InnovAnon-Inc/InnovAnon-Inc.github.io/master/README.md) for a [Free World](https://www.goodreads.com/quotes/9560207-the-time-would-be-easy-to-know-for-then-mankind)!"
 
-All [code](https://github.com/InnovAnon-Inc) and creative works are released to the [public domain](https://tldrlegal.com/license/unlicense),
+All [code](https://github.com/InnovAnon-Inc) and [creative works](https://soundcloud.com/innovanon-inc) are released to the [public domain](https://tldrlegal.com/license/unlicense),
 or, upon request, any other license you require.
 
