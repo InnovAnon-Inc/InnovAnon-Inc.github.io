@@ -15,6 +15,8 @@ All conscious minds are like eyes on the face of God.
 
 ### The Angels
 Consciousness beings which inhabit the Heavenly Realms.
+They have different roles, including interacting with humans ordinary life, and carrying laws of nature.
+We acknowledge the concept of angels both as anthropomorphic (to a degree) and abstract.
 
 ### The Glorified Body
 A body that can exist in the Outer Heavens.
