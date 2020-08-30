@@ -75,15 +75,9 @@ Congregation members are identified according to their natures:
 spiritual positives vs. negatives.
 
 The Unified Prayer proceeds in two phases:
-1. raising   the energy:
-   - the congregation is separated,
-     allowing for polarization of their energies
-   - each group focuses its energies
-     on the desired result.
-2. directing the energy
-   - the congregation is recombined, transformed.
-   - the unified group again focuses its energies
-     on the desired result.
+1. the congregation is separated,
+   allowing for polarization of their energies
+2. the congregation is recombined, their energies transformed.
 
 In the first phase,
 the congregation divides into two groups
