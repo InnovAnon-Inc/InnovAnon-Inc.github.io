@@ -203,7 +203,7 @@ the procedure is similar to the Elemental Rites.
 7. Sahasrara:    crown
 
 Having visited the elemental planes
-and unlocking the Seven Seals,
+and unlocked the Seven Seals,
 it is possible to perform the [Death Rite]({{ site.baseurl }}{% link _pages/study.md %}).
 
 ##### Theta Meditation
