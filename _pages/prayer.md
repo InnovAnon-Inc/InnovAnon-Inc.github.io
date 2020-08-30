@@ -43,7 +43,7 @@ helping them interpret that physiological state.
 The standard prayer is one phrase,
 repeated and alternating between an arcane-sounding language
 and the practitioner's common or native language:
-The Gate is Open.
+"The Gate is Open."
 - The arcane-sounding language is a Higher Prayer to create the right subconscious impressions
 and to increate the spiritual significance of the prayer.
 - The common language helps the subconscious mind understand the prayer.
@@ -65,6 +65,17 @@ spiritual positives vs. negatives.
 They form a circle in series,
 alternating between positives and negatives,
 holding hands and repeating the prayer in unison.
+
+Other prayers beside the standard prayer may be used.
+Prayers should use simple phrasing
+and should be stated in positive terms:
+a prayer is a subliminal program.
+
+It can be a great help to provide a visual symbol for focus.
+There are a number of well-tested techniques for creating arcane sigils,
+such as arranging the alphabet (often without the vowels) in a circular pattern
+and connecting the points which correspond to the letters in the prayer.
+Using runic alphabets helps to create the right impression.
 
 ### Sacrament
 
