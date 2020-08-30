@@ -118,7 +118,7 @@ there are many who are not worthy to be called of God,
 and so they never thirst for the spiritual life,
 wasting this gift, this opportunity.
 
-[![Dream Levels](https://img.youtube.com/vi/Why1NLEfhaM/0.jpg)](https://www.youtube.com/watch?v=Why1NLEfhaM)
+[![The Calling](https://img.youtube.com/vi/Why1NLEfhaM/0.jpg)](https://www.youtube.com/watch?v=Why1NLEfhaM)
 
 #### Void Meditation
 
@@ -267,9 +267,11 @@ centering of focus to the state of pure awareness that underlies the cycle:
 There are two rituals to accelerate progress toward this level:
 - The Silver Key Ceremony:
   reduces the chances of slipping into unconsciousness when trying to enter a trance.
+  [![Silver Key](https://img.youtube.com/vi/4V59ik48Xs4/0.jpg)](https://www.youtube.com/watch?v=4V59ik48Xs4)
 - The Dream Journal:
   recording dreaming experiences immediately upon waking helps to enhance dream recall,
   and therefore Continuation of Consciousness.
+  [![Dream Recall](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
 
 #### Dream Meditation
 
@@ -294,7 +296,6 @@ as it is a rare achievment.
 Attainment of this level may be sufficient for Salvation.
 
 [![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
-[![About Dreams](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
 
 ### Greater Attainments
 
