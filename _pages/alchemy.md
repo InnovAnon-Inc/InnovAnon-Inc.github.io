@@ -54,19 +54,19 @@ In addition, there are ways to temporarily or permanently increase your attainme
    This is achieved when one achieves unity with the consciousness, obtaining extraordinary powers.
 
 The course of the journey, by tier:
-0. The Chaff
-1. Trivial Attainments
-- The Calling
-- Void Meditation
-- Mindfulness Meditation
-2. Lesser Attainments
-- Dhyana/Zen Meditation
-- Continuation of Consciousness
-- Dream Meditation
-- Communion with the Celestial Beings
-3. Greater Attainments
-- Ascension
-- Salvation
+- The Chaff
+- Trivial Attainments
+  + The Calling
+  + Void Meditation
+  + Mindfulness Meditation
+- Lesser Attainments
+  + Dhyana/Zen Meditation
+  + Continuation of Consciousness
+  + Dream Meditation
+  + Communion with the Celestial Beings
+- Greater Attainments
+  + Ascension
+  + Salvation
 
 ### The Chaff
 
