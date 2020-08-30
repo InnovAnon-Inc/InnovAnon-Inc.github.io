@@ -15,7 +15,7 @@ the consciousness and by completing the prescribed
 courses of [study]({{ site.baseurl }}{% link _pages/study.md %})
 in the Divine Sciences.
 
-The Priesthood acts as an intermediary,
+The [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %}) acts as an intermediary,
 interceding on your behalf
 and transmitting orders from on high
 until your progress is sufficient
@@ -26,5 +26,5 @@ This ability is sufficient for miracles such as prophecy,
 and allows you to directly find out the reason why any prayers
 might be failing to produce the expected/desired results.
 Therefore, people with this gift have the authority to pass dogmas into canon,
-and qualifies for the Priesthood.
+and qualify for the Priesthood.
 
