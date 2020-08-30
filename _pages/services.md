@@ -13,6 +13,7 @@ The procedure for regular [congregations]({{ site.baseurl }}{% link _pages/congr
 - Hymns
 - Unified [Prayer]({{ site.baseurl }}{% link _pages/prayer.md %})
 - Preparing and partaking in Sacrament
+- Prayers of Thanks and Hymns of Gratitude
 - Discussion of church business (if necessary)
 
 Ideally a congregation should make Sacrament available at any time on any day that it is requested.

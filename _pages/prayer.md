@@ -39,7 +39,7 @@ focusing the pitches of the scale like a laser.
 - The modes and modulations give context to their minds,
 helping them interpret that physiological state.
 - Infrasound may be used to induce certain effects.
-- Isochronic pitches are used to help the congregation enter more effective states of consciousness.
+- Isochronic pitches are used to help the congregation enter more effective [states]({{ site.baseurl }}{% link _pages/alchemy.md %}) of consciousness.
 - The rhythmic motif complements the prayer.
 - The prayer is embedded as subliminal programming.
 
@@ -87,6 +87,7 @@ Using runic alphabets helps to create the right impression.
 The Sacrament recreates the Last Supper,
 serving a balanced, nourishing meal with the customary "fixings,"
 such as wine and/or tobacco, etc.
+Generally, free overnight lodging is implied.
 
 It serves multiple purposes,
 - the most immediate being that it grounds the congregation's energies.
@@ -101,6 +102,13 @@ so that we might partake of His Glorified Body.
 
 Sacrament is followed with the congregation sharing things for which they are grateful,
 and possibly singing hymns of gratitude.
+
+### Prayers of Thanks and Hymns of Gratitude
+
+The congregation should be in a gracious mood after eating the Sacrament:
+compound this feeling by giving testimonials of good things,
+giving thanks and even singing songs.
+This is an expression of the principle of Divine [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %})
 
 ### Church Business
 
