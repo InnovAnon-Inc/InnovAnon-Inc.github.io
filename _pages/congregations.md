@@ -10,7 +10,7 @@ layout: single
 ## Regular Congregations
 
 Congregations should be held at a free venue, such as a member's house,
-a public place or in the Garden of Eden.
+a public place or in the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %}).
 
 Congregations are held for a specific purpose:
 to [pray]({{ site.baseurl }}{% link _pages/prayer.md %}) in unison.
@@ -28,5 +28,7 @@ Extra congregations may be held on the new moon and on the quarter moons.
 ### Sabbats (Solar Calendar)
 
 Celebrations are held for 2 or more days, preferrably in the Garden of Eden.
-Celebrations are held on the solstices, the equinoxes and the midpoints between. When leaving the campsite, it is imperative that one of Eden's Gardens be left behind. During this celebration, any number of regular congregational activites may also be performed.
+Celebrations are held on the solstices, the equinoxes and the midpoints between.
+When leaving the campsite, it is imperative that one of Eden's Gardens be left behind.
+During this celebration, any number of regular congregational activites may also be performed.
 

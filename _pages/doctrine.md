@@ -67,7 +67,7 @@ Eternal Life is attained by Faith and Works.
 Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
 
 #### Works
-The most important work is the Great Work in preparation for your Glorified Body.
+The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}) in preparation for your Glorified Body.
 
 ### Judgment
 The automatic process by which minds are sorted into Heavens and Hells in the afterlife.
@@ -85,7 +85,7 @@ The manifestation of certain gifts imbued by the Angels of God.
 A necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
 
 ### The Garden of Eden
-A literal garden, of which few fragments remain, that once encompassed the entire planet where people can live in the same state of freedom as Adam.
+A literal garden, of which [few fragments remain]({{ site.baseurl }}{% link _pages/schools.md %}), that once encompassed the entire planet where people can live in the same state of freedom as Adam.
 
 ### The Kingdom of Christ
 The Annointed One will establish a galactic kingdom.
@@ -106,7 +106,7 @@ and you will ultimately attain access to the Outer Heaven.
 - Do your best to carry out what you can discern of God's Plan.
 - Develop a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Angels of God.
 - [Transform]({{ site.baseurl }}{% link _pages/alchemy.md %}) your consciousness to inhabit your Glorified Body.
-- Actively work to restore the Garden of Eden.
+- Actively work to restore the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %}).
 - Perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins.
 - Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %}) and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
 - Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %}) in preparation for Armageddon.

@@ -11,5 +11,6 @@ layout: single
 
 InnovAnon, Inc. follows the early Christian model,
 holding congregations in free places,
-such as members' homes and in public places and in the wilderness.
+such as members' homes and in public places
+and in the [wilderness]({{ site.baseurl }}{% link _pages/schools.md %}).
 

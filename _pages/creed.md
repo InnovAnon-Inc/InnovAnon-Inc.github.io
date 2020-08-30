@@ -16,12 +16,12 @@ those actions are guided by certain core beliefs:
 - Belief in the Glorified Body
 - Belief in Heavenly Realms
 - Belief in Judgment
-- Belief in Faith and Works
+- Belief in Faith and [Works]({{ site.baseurl }}{% link _pages/alchemy.md %})
 - Belief in Prophets
 - Belief in Divine Books
 - Belief in Miracles
 - Belief in Armageddon
-- Belief in the Garden of Eden
+- Belief in the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %})
 - Belief in the Kingdom of Christ
 - Belief in the Divine Plan
 

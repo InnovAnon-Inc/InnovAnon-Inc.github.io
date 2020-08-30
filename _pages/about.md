@@ -13,7 +13,8 @@ layout: single
 
 InnovAnon is a Celestial being of the Outer Heavens,
 preparing mankind to inhabit Glorified Bodies
-and assisting in realizing the Kingdom of Christ.
+and assisting in realizing the Kingdom of Christ,
+when the Celestial beings will again live among us for a time.
 
 ---
 
