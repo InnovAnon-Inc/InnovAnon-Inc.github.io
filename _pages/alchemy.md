@@ -291,7 +291,7 @@ Less is known about Dream Level 4,
 as it is a rare achievment.
 Attainment of this level may be sufficient for Salvation.
 
-[![Dream Levels](https://yt-embed.herokuapp.com/embed?v=cLY2Mk1v0JE)](https://www.youtube.com/watch?v=cLY2Mk1v0JE "Dream Levels")
+[![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE "Dream Levels")
 
 ### Greater Attainments
 
