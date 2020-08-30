@@ -74,6 +74,9 @@ Certain moralities have evolved as a result of this ancient technology.
 - Rejection of Sodomy as it perverts the proper flow of chi.
 - Rejection of Homosexuality as the Great Rite is not feasible between
   two members of the same gender without some form of sodomy.
+  The Priesthood has abstained from canonizing this dogma,
+  but the logistical considerations are left up for you to figure out
+  if that's you're perogative.
 
 ### Penance to Mitigate Sins
 

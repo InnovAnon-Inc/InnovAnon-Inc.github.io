@@ -108,6 +108,23 @@ The Divine Plan is spiritual transformation.
 
 ## Discipline
 
+We have a specific [mission]({{ site.baseurl }}{% link _pages/legal.md %})
+with clearly defined steps to realize it
+using spiritual technologies
+that have been handed down from on high,
+preserved through the ages,
+expanded during millennia of research
+in the [Divine Sciences]({{ site.baseurl }}{% link _pages/study.md %}),
+distilled and ultimately presented herein
+for you to digest and internalize.
+
+For the most part, "morality" is expressed in positive directives.
+Despite the cliche, for every rule, there is a reason.
+
+As they say, "There is no such thing as extra;"
+such additional recommendations enhance the benefits you are already receiving,
+in order to accelerate your progress.
+
 Following the code of discipline will enhance your life and further your spirituality:
 the Celestial beings will imbue you with gifts that will help you carry out God's plan,
 and you will ultimately attain access to the Outer Heaven.
