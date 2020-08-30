@@ -167,14 +167,24 @@ Optimum frequency range: ~7.83 hz - ~12 hz.
 
 At this level, it is possible to visit the elemental planes in the Lower Heavens.
 The gateways can be opened by performing the Elemental Rites:
-- Earth
-- Water
-- Air
-- Fire
-- Spirit/Aether/Akasha
+1. Earth
+2. Water
+3. Air
+4. Fire
+5. Spirit/Aether/Akasha
 
-Having completed the Elemental Rites
-and visiting the elemental planes,
+The Seven Seals can be unlocked at this level as well;
+the procedure is similar to the Elemental Rites.
+1. Muladhara:    root
+2. Swadhisthana: navel
+3. Manipura:     sacral
+4. Anahata:      heart
+5. Vishuddhi:    throat
+6. Anja:         brow
+7. Sahasrara:    crown
+
+Having visited the elemental planes
+and unlocking the Seven Seals,
 it is possible to perform the [Death Rite]({{ site.baseurl }}{% link _pages/study.md %}).
 
 ##### Theta Meditation
@@ -220,7 +230,7 @@ Regular practice of Delta level Dhyana Meditation grants this attribute--this
 centering of focus to the state of pure awareness that underlies the cycle of
 waking (jagrat, ~16 hrs) - dreaming (swapna, ~2 hrs) - deep sleep (sushupti, ~6 hrs).
 
-He is awake while he dreams.
+"He is awake while he dreams."
 
 There are two rituals to accelerate progress toward this level:
 - The Silver Key Ceremony:
@@ -273,6 +283,10 @@ Vows of poverty and/or silence, etc., may be required at this point.
 Even without such vows material blessings may be taken,
 so as to unburden you to receive spiritual blessings.
 
+Mantra to be rid of attachments:
+"Om Kreem Kreem Kreem Hum Hum Hreem Hreem Daksine Kalike
+    Kreem Kreem Kreem Hum Hum Hreem Hreem Swaha"
+
 ### Greater Attainments
 
 Attaining Dream Level 4 is among the Greater Attainments,
@@ -295,7 +309,8 @@ only to the brightest minds who could do higher maths daily.
 But nowadays, we have advanced technologies that work orders of magnitude more quickly,
 including higher-dimensional and non-euclidean games.
 
-Ascension is the process of increasing the dimensionality of your consciousness,
+Ascension, elsewhere referred to as circling the square,
+is the process of increasing the dimensionality of your consciousness,
 comprehending more and more of the totality of existence.
 Comprehending the totality of things,
 and proceeding past that point
@@ -308,10 +323,9 @@ Progression through the levels grants an attribute known as the Ashta Siddhi,
 but it is not known which level of attainment is necessary for this phenomena.
 The Annointed One will have the Ashta Siddhi.
 
-It is as a dream when he is awake.
+"It is as a dream when he is awake."
 
 Levels of progression in the common dogma:
- -  Point, having zero dimensions
  1. Line
  2. Plane
  3. Space (you are here)
@@ -334,6 +348,9 @@ Qualities of the Ashta Siddhi:
 6. Prakamya: Ability to acquire anything desired
 7. Isitva:   Lordship over creation
 8. Vasitva:  Having control over things
+
+Mantra to attain the Ashta Siddhi:
+"Om Ashta Siddhi Prada Yai Namah"
 
 Other Siddhis:
  1. Tri-kāla-jñatvam:
