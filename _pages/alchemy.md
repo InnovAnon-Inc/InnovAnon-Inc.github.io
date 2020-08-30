@@ -118,6 +118,8 @@ there are many who are not worthy to be called of God,
 and so they never thirst for the spiritual life,
 wasting this gift, this opportunity.
 
+[![Dream Levels](https://img.youtube.com/vi/Why1NLEfhaM/0.jpg)](https://www.youtube.com/watch?v=Why1NLEfhaM)
+
 #### Void Meditation
 
 To begin training the most undisciplined of minds,

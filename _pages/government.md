@@ -14,6 +14,7 @@ divided into tiers:
 
 - The Chaff:
  0. Uninitiated: this person has not been [exposed](http://www.losethegame.net/) to the Gospel
+    [![The Gospel](https://img.youtube.com/vi/mVvadoZDxko/0.jpg)](https://www.youtube.com/watch?v=mVvadoZDxko)
 
 - Non-members:
  1. Associate: this person has some knowledge of the Gospel's existence.
@@ -35,7 +36,7 @@ divided into tiers:
  9. High Priest: a symbolic figurehead selected from the most fervent priests.
 
 - Celestial Beings:
-10. The Christ, also known as the Annointed One
-11. The Angels, also known as Celestial beings
+10. The Angels, also known as Celestial beings
+11. The Christ, also known as the Annointed One
 12. The Godhead
 

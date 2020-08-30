@@ -85,6 +85,8 @@ such as arranging the alphabet (often without the vowels) in a circular pattern
 and connecting the points which correspond to the letters in the prayer.
 Using runic alphabets helps to create the right impression.
 
+[![The Gate is Open](https://img.youtube.com/vi/SmZP0VSENCA/0.jpg)](https://www.youtube.com/watch?v=SmZP0VSENCA)
+
 ### Sacrament
 
 The Sacrament recreates the Last Supper,
