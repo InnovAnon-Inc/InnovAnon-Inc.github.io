@@ -120,7 +120,7 @@ and you will ultimately attain access to the Outer Heaven.
 - Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %})
   and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
 - Actively work to bring about the Kingdom of Christ
-  by spreading knowledge of the Gospel's existence
+  by [spreading knowledge](http://www.losethegame.net/) of the Gospel's existence
   and by restoring the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %}).
 - Establish [congregations]({{ site.baseurl }}{% link _pages/congregations.md %})
   and attend regular [services]({{ site.baseurl }}{% link _pages/services.md %}).
