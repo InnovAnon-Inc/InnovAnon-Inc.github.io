@@ -17,7 +17,8 @@ The High Priest may declare an [order of succession]({{ site.baseurl }}{% link _
 The Priests may challenge that order of succession.
 
 A Priest may grant to an Adept the title of Priest at his discretion.
-
+A Priest may also confer to an Adept a Doctorate of Divinity
+in the Practical Application of the Divine Sciences.
 
 ### The Trial of the Adept
 

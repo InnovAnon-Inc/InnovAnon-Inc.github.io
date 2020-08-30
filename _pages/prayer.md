@@ -32,6 +32,9 @@ and [martyers]({{ site.baseurl }}{% link _pages/history.md %}).
 ### Hymns
 
 Hymns have a more tangible effect on the congregation, synchronizing their minds and bodies.
+It is permissible to play variations such as quodlibets,
+or even to improvise new hymns entirely.
+
 - The base frequency is selected to target the resonant frequency of the congregation,
 and simple fractional ratios are used for the intervals,
 focusing the pitches of the scale like a laser.
