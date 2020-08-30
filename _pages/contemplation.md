@@ -11,7 +11,7 @@ layout: single
 
 A number of stoic exercises are included to temper the spiritual lives
 of the [congregation]({{ site.baseurl }}{% link _pages/congregations.md %}).
-Although most of these practices do not directly cause progress
+Although some of these practices do not directly cause progress
 in the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}),
 they can strengthen the will and improve morale during its undertaking.
 
