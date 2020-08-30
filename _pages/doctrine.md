@@ -10,8 +10,25 @@ layout: single
 ## Doctrine
 
 ### The nature of God
-God encompasses all that exists.
+God encompasses all that exists,
+although He is beyond existence.
 All conscious minds are like eyes on the face of God.
+Being beyond existence,
+we cannot fully grasp His nature,
+but we can try to ascertain fragments by His titles:
+- The One
+- The Godhead
+- Truth
+- The All
+- The Creator
+- The Fearless One
+- Without Adversary
+- Timeless
+- Undying
+- Without Birth
+- Self-Existent
+- The Way
+- The Light
 
 ### The Angels
 Consciousness beings which inhabit the Heavenly Realms.
@@ -42,6 +59,15 @@ By a process known as judgment, minds synchronize with planes of existence corre
 ####  The Outer Heavens
 Beyond existence and beyond the comprehension of causal entities.
 It is known to be fatal for a causal entity to look upon the true form of beings of the Outer Heavens.
+
+# Salvation by Faith and Works
+Eternal Life is attained by Faith and Works.
+
+## Faith
+Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
+
+## Works
+The most important work is the Great Work in preparation for your Glorified Body.
 
 # Judgment
 The automatic process by which minds are sorted into Heavens and Hells in the afterlife.

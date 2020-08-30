@@ -9,7 +9,7 @@ layout: single
 
 ## Regular Religious Services
 The procedure for regular congregations is:
-- Sermon (only necessary if using a non-standard prayer or for foreshadowing the discussion of church business)
+- Sermon
 - Hymns
 - Unified Prayer
 - Preparing and partaking in Sacrament

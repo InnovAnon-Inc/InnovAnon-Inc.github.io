@@ -16,6 +16,7 @@ those actions are guided by certain core beliefs:
 - Belief in the Glorified Body
 - Belief in Heavenly Realms
 - Belief in Judgment
+- Belief in Faith and Works
 - Belief in Prophets
 - Belief in Divine Books
 - Belief in Miracles
