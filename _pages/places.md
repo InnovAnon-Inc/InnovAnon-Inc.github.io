@@ -9,8 +9,8 @@ layout: single
 
 ## Places of Worship
 
-InnovAnon, Inc. follows the early Christian model,
-holding congregations in free places,
-such as members' homes and in public places
-and in the [wilderness]({{ site.baseurl }}{% link _pages/schools.md %}).
+InnovAnon, Inc. uses the early Christian model,
+holding [congregations]({{ site.baseurl }}{% link _pages/congregations.md %}) in free places,
+such as [members']({{ site.baseurl }}{% link _pages/membership.md %}) homes
+and in public places and in the [wilderness]({{ site.baseurl }}{% link _pages/schools.md %}).
 
