@@ -41,6 +41,9 @@ The dynamics of the Master-Apprentice relationship are decided at the discretion
 Often there is an initiatory rite decided by the Master.
 During this time, the Apprentice recieves one-on-one instruction from his Master, often in a live-in setting.
 The Master imparts personal insights and research that has not yet passed into canon.
+Although an Apprentice may attain the Priesthood,
+and even take his own Apprentices,
+the Apprenticeship formally ends as decided by the Master.
 
 ### The Trial of the Adept
 A quorum of Adepts is gathered to observe a miracle and to verify its authenticity.
