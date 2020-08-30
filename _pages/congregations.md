@@ -9,7 +9,11 @@ layout: single
 
 ## Regular Congregations
 
-Congregations should be held at a free venue, such as a member's house, a public place or in the Garden of Eden.
+Congregations should be held at a free venue, such as a member's house,
+a public place or in the Garden of Eden.
+
+Congregations are held for a specific purpose:
+to [pray]({{ site.baseurl }}{% link _pages/prayer.md %}) in unison.
 
 Congregations should be subdivided into smaller units
 of no more than 13 members, Prayer Squads,
