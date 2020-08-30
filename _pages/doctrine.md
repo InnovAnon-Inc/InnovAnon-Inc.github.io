@@ -51,6 +51,15 @@ A permanent existence here cannot be maintained and minds that exist here grow t
 Being purged of attachments, a mind proceeds to Judgment.
 These minds must proceed to Judgment before they dissolve into the aether.
 
+As a result of this doctrine, practices such as burial, embalming, mummification, etc.,
+known as Soul Harvesting, are considered perversions of the Divine Plan,
+as they prolong suffering unnecessarily and delay Judgment.
+They are also believed to cause hungry ghosts and other disruptive phenomena.
+
+Instead, it is encouraged that final procedings include an open-air cremation
+along with the customary skull-bashing
+that grants mercy to a soul, allowing it to proceed to a "better" heaven after Judgment.
+
 #### Heavens and Hells
 By a process known as judgment, minds synchronize with planes of existence corresponding to their nature.
 - Heavens: benevolent minds inhabit these planes of existence and perform penances for other souls for a while before reincarnating to continue the process of transformation.
