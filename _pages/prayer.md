@@ -55,6 +55,7 @@ The standard prayer is one phrase,
 repeated and alternating between an arcane-sounding language
 and the practitioner's common or native language:
 "The Gate is Open."
+
 - The arcane-sounding language is a Higher Prayer to create the right subconscious impressions
 and to increate the spiritual significance of the prayer.
 - The common language helps the subconscious mind understand the prayer.
@@ -73,9 +74,32 @@ The hymns help ensure the mind will repeat the prayer like a mantra.
 Congregation members are identified according to their natures:
 spiritual positives vs. negatives.
 
-They form a circle in series,
+The Unified Prayer proceeds in two phases:
+1. raising   the energy:
+   - the congregation is separated,
+     allowing for polarization of their energies
+   - each group focuses its energies
+     on the desired result.
+2. directing the energy
+   - the congregation is recombined, transformed.
+   - the unified group again focuses its energies
+     on the desired result.
+
+In the first phase,
+the congregation divides into two groups
+corresponding to their natures,
+forming circle in parallel,
+holding hands within their circles
+and repeating the prayer in unison.
+
+In the second phase,
+the congregation rejoins as a single group,
+forming a circle in series
 alternating between positives and negatives,
 holding hands and repeating the prayer in unison.
+If there is an odd number of members,
+then one should stand in the center of the circle,
+leading the prayer.
 
 Other prayers beside the standard prayer may be used.
 Prayers should use simple phrasing
