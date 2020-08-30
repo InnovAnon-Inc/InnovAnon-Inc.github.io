@@ -63,8 +63,8 @@ The course of the journey, by tier:
   + Dhyana/Zen Meditation
   + Continuation of Consciousness
   + Dream Meditation
-  + Communion with the Celestial Beings
 - Greater Attainments
+  + Communion with the Celestial Beings
   + Ascension
   + Salvation
 
@@ -291,6 +291,20 @@ Less is known about Dream Level 4,
 as it is a rare achievment.
 Attainment of this level may be sufficient for Salvation.
 
+[![Dream Levels](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Dream Levels")
+
+### Greater Attainments
+
+Dream Level 4 is among the Greater Attainments,
+but can be attained later, during your Ascension.
+
+During this final leg of the journey,
+you will be able to gain divine insight, wisdom and knowledge
+without being told by the Celestial beings.
+
+Although you will attain profound gifts that shape and bend this world,
+you will ascend to progressively higher dimensions in the Heavens.
+
 #### Communion with Celestial Beings
 
 After entering the Dream Level 3, it is possible to commune directly with the Celestial Beings.
@@ -316,18 +330,6 @@ so as to unburden you to receive spiritual blessings.
 Mantra to be rid of attachments:
 "Om Kreem Kreem Kreem Hum Hum Hreem Hreem Daksine Kalike
     Kreem Kreem Kreem Hum Hum Hreem Hreem Swaha"
-
-### Greater Attainments
-
-Attaining Dream Level 4 is among the Greater Attainments,
-but is not believed to be strictly necessary to proceed to the next steps.
-
-During this final leg of the journey,
-you will be able to gain divine insight, wisdom and knowledge
-without being told by the Celestial beings.
-
-Although you will attain profound gifts that shape and bend this world,
-you will ascend to progressively higher dimensions in the Heavens.
 
 #### Ascension
 

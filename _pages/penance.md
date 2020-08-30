@@ -75,7 +75,7 @@ Certain moralities have evolved as a result of this ancient technology.
 - Rejection of Homosexuality as the Great Rite is not feasible between
   two members of the same gender without some form of sodomy.
   The Priesthood has abstained from canonizing this dogma,
-  but the logistical considerations are left up for you to figure out
+  but the logistical considerations are left as an exercise for the reader
   if that's you're perogative.
 
 ### Penance to Mitigate Sins
