@@ -30,5 +30,7 @@ Extra congregations may be held on the new moon and on the quarter moons.
 Celebrations are held for 2 or more days, preferrably in the Garden of Eden.
 Celebrations are held on the solstices, the equinoxes and the midpoints between.
 When leaving the campsite, it is imperative that one of Eden's Gardens be left behind.
-During this celebration, any number of regular congregational activites may also be performed.
+During this celebration,
+any number of [regular congregational activites]({{ site.baseurl }}{% link _pages/services.md %})
+may also be performed.
 

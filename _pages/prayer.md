@@ -11,10 +11,14 @@ layout: single
 
 A culture of spiritual warfare should be cultivated in the congregation.
 Each member should think of himself as a prayer warrior in God's army.
+
 Congregations are held to carry out a purpose:
 to realize the Divine Plan.
-However, congregations may be held for other purposes as well.
-The procedure for congregational religious services is engineered for the priesthood to most effectively lead the congregation's spiritual energy.
+However, [congregations]({{ site.baseurl }}{% link _pages/congregations.md %})
+may be held for other purposes as well.
+
+The procedure for congregational religious [services]({{ site.baseurl }}{% link _pages/services.md %})
+is engineered for the priesthood to most effectively lead the congregation's spiritual energy.
 The procedure synchronizes the congregation,
 so that they might pray in unison.
 
@@ -22,7 +26,8 @@ so that they might pray in unison.
 
 The sermon helps to synchronize to congregation in a certain sense--to get them to be of the same spirit.
 There are various formats for this, including a congregation-driven sharing of testimony.
-May include a recitation of popular saints and martyers.
+May include a recitation of popular saints
+and [martyers]({{ site.baseurl }}{% link _pages/history.md %}).
 
 ### Hymns
 
