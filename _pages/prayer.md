@@ -22,6 +22,7 @@ so that they might pray in unison.
 
 The sermon helps to synchronize to congregation in a certain sense--to get them to be of the same spirit.
 There are various formats for this, including a congregation-driven sharing of testimony.
+May include a recitation of popular saints and martyers.
 
 ### Hymns
 
