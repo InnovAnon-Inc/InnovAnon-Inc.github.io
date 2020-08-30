@@ -60,39 +60,39 @@ By a process known as judgment, minds synchronize with planes of existence corre
 Beyond existence and beyond the comprehension of causal entities.
 It is known to be fatal for a causal entity to look upon the true form of beings of the Outer Heavens.
 
-# Salvation by Faith and Works
+### Salvation by Faith and Works
 Eternal Life is attained by Faith and Works.
 
-## Faith
+#### Faith
 Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
 
-## Works
+#### Works
 The most important work is the Great Work in preparation for your Glorified Body.
 
-# Judgment
+### Judgment
 The automatic process by which minds are sorted into Heavens and Hells in the afterlife.
 
-# Prophets
+### Prophets
 People throughout history who have interacted directly with the Angels of God.
 
-# Divine Books
+### Divine Books
 Books that record the words of the prophets. Often they've altered for some purpose or another.
 
-# Miracles
+### Miracles
 The manifestation of certain gifts imbued by the Angels of God.
 
-# Armageddon
+### Armageddon
 A necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
 
-# The Garden of Eden
+### The Garden of Eden
 A literal garden, of which few fragments remain, that once encompassed the entire planet where people can live in the same state of freedom as Adam.
 
-# The Kingdom of Christ
+### The Kingdom of Christ
 The Annointed One will establish a galactic kingdom.
 The Garden of Eden will be restored on Earth and propagated throughout the galaxy.
 Celestial beings will again live among us for a time.
 
-# The Divine Plan
+### The Divine Plan
 The Divine Plan is spiritual transformation.
 
 ---
