@@ -79,7 +79,8 @@ despite their attempt at idleness.
 Like the neutral Angels cast out of Heaven,
 the Chaff will be cast into the fire.
 
-They cannot be cast into the fire until they have knowledge of the Gospel's existence:
+They cannot be cast into the fire until they have
+[knowledge of the Gospel's existence](http://www.losethegame.net/):
 the gateway will not open and the Final Judgment will not begin
 until knowledge of the Gospel has spread to the corners of the Earth.
 
