@@ -227,8 +227,10 @@ a lesser form of eternal life that allows some amount of memory and other attrib
 to persist when you pass through the Filter between dreaming and waking, between life and death.
 
 Regular practice of Delta level Dhyana Meditation grants this attribute--this
-centering of focus to the state of pure awareness that underlies the cycle of
-waking (jagrat, ~16 hrs) - dreaming (swapna, ~2 hrs) - deep sleep (sushupti, ~6 hrs).
+centering of focus to the state of pure awareness that underlies the cycle:
+- waking     (jagrat,   ~16 hrs)
+- dreaming   (swapna,    ~2 hrs)
+- deep sleep (sushupti,  ~6 hrs)
 
 "He is awake while he dreams."
 
