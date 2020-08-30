@@ -50,6 +50,8 @@ After death:
 - Weak consciousnesses dissolve and dissipate into the aether.
 - Sufficiently developed consciousnesses maintain their existence.
 
+[![Heavenly Realms](https://img.youtube.com/vi/Olo3Lc_jkZc/0.jpg)](https://www.youtube.com/watch?v=Olo3Lc_jkZc)
+
 #### Purgatory
 Some consciousnesses are bound by attachments to the material plane.
 A permanent existence here cannot be maintained and minds that exist here grow tormented from the nature of the plane.
