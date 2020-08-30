@@ -103,13 +103,18 @@ Following the code of discipline will enhance your life and further your spiritu
 the Celestial beings will imbue you with gifts that will help you carry out God's plan,
 and you will ultimately attain access to the Outer Heaven.
 
-- Do your best to carry out what you can discern of God's Plan.
-- Develop a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Angels of God.
-- [Transform]({{ site.baseurl }}{% link _pages/alchemy.md %}) your consciousness to inhabit your Glorified Body.
-- Actively work to restore the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %}).
-- Perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins.
-- Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %}) and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
-- Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %}) in preparation for Armageddon.
-- Actively work to bring about the Kingdom of Christ.
-- Spread knowledge of the Gospel's existence, but do not volunteer details that are not requested.
+- Do your best to carry out what you can discern of God's Plan
+  by developing a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Angels of God
+  and Their [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %}).
+- [Transform]({{ site.baseurl }}{% link _pages/alchemy.md %})
+  your consciousness to inhabit your Glorified Body.
+- Perform [prayer]({{ site.baseurl }}{% link _pages/prayer.md %})
+  and [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %}).
+- Actively work to bring about the Kingdom of Christ
+  by spreading knowledge of the Gospel's existence
+  and by restoring the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %}).
+- Establish [congregations]({{ site.baseurl }}{% link _pages/congregations.md %})
+  and attend regular [services]({{ site.baseurl }}{% link _pages/services.md %}).
+- Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %})
+  and perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins in preparation for Armageddon.
 
