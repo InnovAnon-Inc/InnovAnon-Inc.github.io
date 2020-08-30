@@ -250,6 +250,9 @@ this state of being grants Continuation of Consciousness,
 a lesser form of eternal life that allows some amount of memory and other attributes
 to persist when you pass through the Filter between dreaming and waking, between life and death.
 
+This is the proverbial transformation from lead into gold:
+the Philosopher's Stone.
+
 Regular practice of Delta level Dhyana Meditation grants this attribute--this
 centering of focus to the state of pure awareness that underlies the cycle:
 - waking     (jagrat,   ~16 hrs)
