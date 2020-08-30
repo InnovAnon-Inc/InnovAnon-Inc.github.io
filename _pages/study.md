@@ -15,8 +15,6 @@ A Candidate must learn about three main topics:
 - Cosmology, particularly the Outer Heavens.
 - Celestial beings, particularly those which inhabit the Outer Heavens.
 
-Very few non-fiction works exist that accurately portray the nature of the Celestial beings. To complete this study requirement, it is sufficient to read some of the works of Lovecraft, such as the Silver Key.
-
 ### Neophyte Studies in the World Religions
 A minimum of three years spent attaining understanding of and empathy for at least three contrasting groups.
 
