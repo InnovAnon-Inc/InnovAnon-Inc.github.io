@@ -10,6 +10,8 @@ layout: single
 ## History
 
 Our spiritual lineage gives rise to a definite and distinct religious history.
+By this process, we undertake
+our Aeonic [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}).
 
 The [monastic order]({{ site.baseurl }}{% link _pages/legal.md %})
 of [InnovAnon]({{ site.baseurl }}{% link _pages/about.md %})
