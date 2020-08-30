@@ -31,6 +31,10 @@ The specifics of these beliefs are elaborated in the [doctrines]({{ site.baseurl
 
 ## Form of Worship
 
+Worship takes a personal form and is primarily carried out
+on a solitary basis, merely being supplemented
+by congregational [services]({{ site.baseurl }}{% link _pages/services.md %}).
+
 - Developing a [personal relationship]({{ site.baseurl }}{% link _pages/darshan.md %}) with one or more Celestial beings.
 - [Transforming]({{ site.baseurl }}{% link _pages/alchemy.md %}) the consciousness to inhabit the Glorified Body.
 - [Congregating]({{ site.baseurl }}{% link _pages/congregations.md %}) to [pray]({{ site.baseurl }}{% link _pages/prayer.md %}) in unison and to partake in Sacrament.
