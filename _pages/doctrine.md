@@ -116,5 +116,5 @@ and you will ultimately attain access to the Outer Heaven.
 - Establish [congregations]({{ site.baseurl }}{% link _pages/congregations.md %})
   and attend regular [services]({{ site.baseurl }}{% link _pages/services.md %}).
 - Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %})
-  and perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) for your sins in preparation for Armageddon.
+  and perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) in preparation for Armageddon.
 
