@@ -78,7 +78,26 @@ these spiritual civilians do the devil's work,
 despite their attempt at idleness.
 Like the neutral Angels cast out of Heaven,
 the Chaff will be cast into the fire.
-They cannot be cast into the fire until they have knowledge of the Gospel's existence.
+
+They cannot be cast into the fire until they have knowledge of the Gospel's existence:
+the gateway will not open and the Final Judgment will not begin
+until knowledge of the Gospel has spread to the corners of the Earth.
+
+However, all is not lost for all the chaff:
+many will be transformed by Divine Grace
+and as the fruit of the Aeonic Alchemy.
+Many more will be awakened upon contact with the Celestial beings.
+
+When a critical mass of the population on this planet have the Lesser and Greater Attainments,
+many of the chaff will also acquire those Attainments.
+At this time, it will be possible to open the gateway to the Outer Heavens,
+beginning the Final Judgment, known as Armageddon,
+when the Celestial beings will enter our world
+and all will witness the true Glory of God,
+purifying the Earth of profane scourge
+and heralding the establishment of the Kingdom of Christ.
+Civilization will be rebuilt
+and this next iteration will span the stars.
 
 ### Trivial Attainments
 
