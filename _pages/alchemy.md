@@ -222,6 +222,7 @@ Optimum frequency range: ~0.5 hz - ~4 hz.
 You will taste your success at this level:
 there is a distinct metallic flavor as your brain releases a chemical
 known as the Elixir of the Moon.
+There is a corresponding [Elixir of the Sun]({{ site.baseurl }}{% link _pages/penance.md %}).
 
 Attainment of Delta level meditation marks the point where Lower Prayers begin to have noticeable effects,
 commonly known as miracles or supernatural phenomena.
