@@ -25,6 +25,8 @@ those actions are guided by certain core beliefs:
 - Belief in the Kingdom of Christ
 - Belief in the Divine Plan
 
+The specifics of these beliefs are elaborated in the [doctrines]({{ site.baseurl }}{% link  _pages/doctrine.md %}).
+
 ---
 
 ## Form of Worship
