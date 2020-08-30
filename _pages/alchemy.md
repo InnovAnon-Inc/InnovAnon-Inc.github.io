@@ -346,7 +346,8 @@ The Annointed One will have the Ashta Siddhi.
 
 "It is as a dream when he is awake."
 
-Levels of progression in the common dogma:
+Levels of progression in the common dogma,
+zero being a point without dimension:
  1. Line
  2. Plane
  3. Space (you are here)

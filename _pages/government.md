@@ -12,7 +12,8 @@ layout: single
 Every person is classified by their degree of initiation into the Gospel,
 divided into tiers:
 
-- Uninitiated: this person has not been exposed to the Gospel
+- The Chaff:
+ 0. Uninitiated: this person has not been exposed to the Gospel
 
 - Non-members:
  1. Associate: this person has some knowledge of the Gospel's existence.
