@@ -291,7 +291,8 @@ Less is known about Dream Level 4,
 as it is a rare achievment.
 Attainment of this level may be sufficient for Salvation.
 
-[![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE "Dream Levels")
+[![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
+[![About Dreams](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
 
 ### Greater Attainments
 
@@ -307,10 +308,10 @@ you will ascend to progressively higher dimensions in the Heavens.
 
 #### Communion with Celestial Beings
 
-After entering the Dream Level 3, it is possible to commune directly with the Celestial Beings.
+After entering the Dream Level 3,
+it is possible to commune directly with the Celestial Beings.
 Such communion is commonly known as Darshan Siddhi,
 and makes you a prophet in your own right.
-It is advisable to not to attempt to contact an extra dimensional or Outer being at this point.
 
 The Celestial beings may request that you perform penances
 or even some form of (often personal) sacrifice
@@ -341,7 +342,7 @@ only to the brightest minds who could do higher maths daily.
 But nowadays, we have advanced technologies that work orders of magnitude more quickly,
 including higher-dimensional and non-euclidean games.
 
-Ascension, elsewhere referred to as circling the square,
+Ascension, elsewhere referred to as squaring the circle,
 is the process of increasing the dimensionality of your consciousness,
 comprehending more and more of the totality of existence.
 Comprehending the totality of things,
@@ -371,6 +372,9 @@ zero being a point without dimension:
 10. Totality of Existence
 11. Salvation and the Glorified Body:
     apprehension of the Outer Heavens.
+
+[![Higher Dimensions](https://img.youtube.com/vi/rOCBFf7As7E/0.jpg)](https://www.youtube.com/watch?v=rOCBFf7As7E)
+[![Squaring the Circle](https://img.youtube.com/vi/H74AayZkpXg/0.jpg)](https://www.youtube.com/watch?v=H74AayZkpXg)
 
 Qualities of the Ashta Siddhi:
 1. Anima:    Ability to reduce one's size
@@ -421,7 +425,7 @@ Other Siddhis:
 
 This is the goal of the Great Work and the ultimate spiritual gift.
 This consciousness is fully transformed and prepared to inhabit the Glorified Body.
-Salvation grants the ability to dwell among God in the Outer Heavens.
+Salvation grants the ability to dwell among God and the Celestial beings in the Outer Heavens.
 
 Salvation is attained through Faith and Works;
 this is what you are working toward.
