@@ -29,7 +29,7 @@ divided into tiers:
  7. Adept:  this person possesses the [minimum required amount of spiritual insight]({{ site.baseurl }}{% link _pages/study.md %})
     to qualify for the [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %})
     and has completed the Rite of the Internal Adept and the Rite of the Abyss.
- 8. Priest: this person works [directly]({{ site.baseurl }}{ link _pages/darshan.md %}) with an angel
+ 8. Priest: this person works [directly]({{ site.baseurl }}{% link _pages/darshan.md %}) with an angel
     and leads the [congregation]({{ site.baseurl }}{% link _pages/congregations.md %}) in accordance with God's will.
  9. High Priest: a symbolic figurehead selected from the most fervent priests.
 
