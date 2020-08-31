@@ -118,7 +118,7 @@ a person should have no difficulty getting to some point
 in the list of Lesser Attainments during a single lifetime.
 
 During this leg of the journey,
-awesome abilities will begin to manifest as Faith is rewarded
+awesome [abilities]({{ site.baseurl }}{% link _pages/siddhi.md %}) will begin to manifest as Faith is rewarded
 and blind Faith is replaced with first-hand experience of the Divine.
 This gift is given so that you might receive more clear indications of God's Will,
 specifically you will gain the ability to commune directly with the Celestial beings.
