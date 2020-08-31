@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## History
-
 Our spiritual lineage gives rise to a definite and distinct religious history.
 By this process, we undertake
 our Aeonic [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}).

@@ -7,9 +7,8 @@ layout: single
 
 {% include base_path %}
 
-## Transforming the Consciousness to Inhabit the Glorified Body
-
-The Great Work is a long and arduous journey to undertake,
+The Great Work transforms the consciousness to inhabit the Glorified Body.
+It is a long and arduous journey to undertake,
 but it is necessary, along with Faith to attain Salvation.
 It is divided into phases, most of which are clearly distinguished,
 to track your progress.
@@ -53,8 +52,7 @@ The course of the journey, by tier:
   + Ascension
   + Salvation
 
-### The Chaff
-
+## The Chaff
 These souls are not destined to begin the journey,
 and are not involved in the spiritual life,
 never actively aligning with God or the Adversary or their Angels.
@@ -85,8 +83,7 @@ and heralding the establishment of the Kingdom of Christ.
 Civilization will be rebuilt
 and this next iteration will span the stars.
 
-### Trivial Attainments
-
+## Trivial Attainments
 These souls are called of God and are beginning the journey,
 attaining relatively trivial spiritual gifts along the way.
 
@@ -94,8 +91,7 @@ During this first leg of the journey,
 you gain control of your monkey mind,
 allowing you to begin to access your godly mind.
 
-#### The Calling
-
+### The Calling
 Known as vairyaga, means that God has called you,
 giving you the desire to learn about the Great Work and ultimately undertake it.
 Do not discount the significance of this spiritual gift (siddhi):
@@ -105,21 +101,18 @@ wasting this gift, this opportunity.
 
 [![The Calling](https://img.youtube.com/vi/Why1NLEfhaM/0.jpg)](https://www.youtube.com/watch?v=Why1NLEfhaM)
 
-#### Void Meditation
-
+### Void Meditation
 To begin training the most undisciplined of minds,
 begin with the Void Meditation.
 It involves simply counting,
 to focus the thoughts and dispel surface thoughts.
 
-#### Mindfulness/Breathing Meditation
-
+### Mindfulness/Breathing Meditation
 Once the Void Meditation has been mastered,
 proceed to the mindfulness meditation.
 Focus on your breathing during this stage.
 
-### Lesser Attainments
-
+## Lesser Attainments
 Having even the first trivial attainment,
 a person should have no difficulty getting to some point
 in the list of Lesser Attainments during a single lifetime.
@@ -130,8 +123,7 @@ and blind Faith is replaced with first-hand experience of the Divine.
 This gift is given so that you might receive more clear indications of God's Will,
 specifically you will gain the ability to commune directly with the Celestial beings.
 
-#### Dhyana Meditation
-
+### Dhyana Meditation
 Once the focus fades to pure awareness,
 it is time to proceed to the Dhyana Meditation.
 
@@ -168,8 +160,7 @@ Attaining progressively deeper levels may require months of long sessions each d
 Bolster your morale in knowing that over twelve millennia of these arcane sciences
 has allowed these technologies to manifest that condense lifetimes of experience and progress into relatively few months.
 
-##### Alpha Meditation
-
+#### Alpha Meditation
 Optimum frequency range: ~7.83 hz - ~12 hz.
 
 At this level, it is possible to visit the elemental planes in the Lower Heavens.
@@ -194,8 +185,7 @@ Having visited the elemental planes
 and unlocked the Seven Seals,
 it is possible to perform the [Death Rite]({{ site.baseurl }}{% link _pages/study.md %}).
 
-##### Theta Meditation
-
+#### Theta Meditation
 Optimum frequency range: ~4 hz - ~7.83 hz.
 
 When transitioning into this level,
@@ -203,8 +193,7 @@ you will feel as though you are falling.
 Attainment of this level is a significant milestone
 marking your ability to enter a trance at will.
 
-##### Delta Meditation
-
+#### Delta Meditation
 Optimum frequency range: ~0.5 hz - ~4 hz.
 
 You will taste your success at this level:
@@ -225,8 +214,7 @@ Admission to the Priesthood is restricted to verified Adepts.
 Regular practice of Delta Meditation and the the Philosopher's Stone
 is necessary for [Continuation of Consciousness]({{ site.baseurl }}{% link _pages/siddhi.md %}).
 
-##### Epsilon Meditation
-
+#### Epsilon Meditation
 Optimum frequency range: up to ~0.5 hz.
 
 Less is known about this level of attainment,
@@ -234,8 +222,7 @@ as it is an uncommon acheivement.
 It is believed that attaining this level grants
 the ability to perform amazing feats such as hibernation.
 
-#### Dream Meditation
-
+### Dream Meditation
 At this phase, the disciple practices Dhyana Meditation while lucid dreaming,
 granting access to new frontiers of consciousness and experience.
 This phase is divided into four levels:
@@ -254,8 +241,7 @@ Less is known about Dream Level 4,
 as it is a rare achievment.
 Attainment of this level may be sufficient for Salvation.
 
-#### Communion with Celestial Beings
-
+### Communion with Celestial Beings
 After entering the Dream Level 3,
 it is possible to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) directly with the Celestial Beings,
 Such communion is commonly known as Darshan Siddhi,
@@ -263,8 +249,7 @@ and makes you a prophet in your own right.
 
 [![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
 
-### Greater Attainments
-
+## Greater Attainments
 Dream Level 4 is among the Greater Attainments,
 but can be attained later, during your Ascension.
 
@@ -275,8 +260,7 @@ without being told by the Celestial beings.
 Although you will attain profound gifts that shape and bend this world,
 you will ascend to progressively higher dimensions in the Heavens.
 
-#### Ascension
-
+### Ascension
 By this point, it is possible to begin exploring higher dimensions of existence,
 but activities during conscious life will accelerate this process,
 just as activities in life hold more life than those in death.
@@ -311,10 +295,10 @@ zero being a point without dimension:
 11. Salvation and the Glorified Body:
     apprehension of the Outer Heavens.
 
-##### Level 3
+#### Level 3
 Humans exist in the 3rd Level of Ascension.
 
-##### Level 4
+#### Level 4
 This marks the point of transcendance beyond normal human consciousness.
 At this point, you are an Ascended Master.
 You will begin to dream in four dimensions,
@@ -334,8 +318,7 @@ or perhaps save a kitten from a burning building.
 [![Higher Dimensions](https://img.youtube.com/vi/rOCBFf7As7E/0.jpg)](https://www.youtube.com/watch?v=rOCBFf7As7E)
 [![Squaring the Circle](https://img.youtube.com/vi/H74AayZkpXg/0.jpg)](https://www.youtube.com/watch?v=H74AayZkpXg)
 
-#### Salvation
-
+### Salvation
 This is the goal of the Great Work and the ultimate spiritual gift.
 This consciousness is fully transformed and prepared to inhabit the Glorified Body.
 Salvation grants the ability to dwell among God and the Celestial beings in the Outer Heavens.

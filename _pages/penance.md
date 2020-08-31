@@ -7,7 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Penance
 There are two main reasons why someone might perform penances:
 - to enhance blessings
 - to mitigate sins
@@ -15,9 +14,9 @@ There are two main reasons why someone might perform penances:
 The former grants benefits in this life and in the next,
 while the latter lessens suffering in the afterlife.
 
-### Penance to Enhance Blessings
+## Penance to Enhance Blessings
 
-#### Tantrik Technologies
+### Tantrik Technologies
 Although these practices are not penances,
 they are buried here in obscurity
 among the other exotic techniques
@@ -78,6 +77,6 @@ Certain moralities have evolved as a result of this ancient technology.
   but the logistical considerations are left as an exercise for the reader
   if that's you're perogative.
 
-### Penance to Mitigate Sins
+## Penance to Mitigate Sins
 
 

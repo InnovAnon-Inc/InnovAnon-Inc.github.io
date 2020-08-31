@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Sacred Literature
-
 Adepts and Priests are recognized as having [prophetic ability]({{ site.baseurl }}{% link _pages/darshan.md %}).
 A Priest may declare to be canonical his writings and the writings of others.
 Writings recognized as canon take precendence over older writings

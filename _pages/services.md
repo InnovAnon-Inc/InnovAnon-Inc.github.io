@@ -7,7 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Regular Religious Services
 The procedure for regular [congregations]({{ site.baseurl }}{% link _pages/congregations.md %}) is:
 - Sermon
 - Hymns

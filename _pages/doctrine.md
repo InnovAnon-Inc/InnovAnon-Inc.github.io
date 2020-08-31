@@ -7,9 +7,45 @@ layout: single
 
 {% include base_path %}
 
-## Doctrine
+The Doctrine expounds upon the [Creed]({{ site.baseurl }}{% link _pages/creed.md %}),
+defining canonical dogmas.
 
-### The nature of God
+The Code of Discipline expounds upon the Form of Worship,
+listing a series of abstract directives,
+by which the Divine Plan is carried out on an individual and Aeonic level.
+
+## Doctrine
+- The Nature of God:
+  The Doctrine of the Nature of God is common among mystical traditions around the world.
+- The Celestial Beings:
+  The Doctrine of Celestial Beings avoids confusing Them for the One God.
+- The Glorified Body:
+  The Doctrine of the Glorified Body follows from the Doctrine of the Celestial Beings.
+- Salvation:
+  The Doctrine of Salvation involves the attainment of the Glorified Body.
+- The Heavenly Realms:
+  Dogmas involving the topology of the Heavenly Realms,
+  however only the Outer Heavens are canonical.
+- Judgment:
+  The process by which consciousnesses are sorted into the Heaavenly Realms.
+- The Prophets:
+  People throughout history who have had firsthand encounters with the Celestial Beings.
+- The Divine Books:
+  Books written by or about the Prophets.
+- Miracles:
+  Inexplicable phenomena manifested by Prophets and the Celestial Beings.
+- The Divine Plan:
+  The grand scheme of things on a personal and Aeonic level.
+- The Garden of Eden:
+  A literal state of the Earth; the Holy Land.
+  There are physical sites where you can experience the Garden of Eden firsthand.
+- The Final Judgment:
+  A phenomena that will happen when the gateway to the Outer Heavens opens.
+- The Kingdom of Christ:
+  An age during which the Celestial Beings will again live among us,
+  when we will be unified under the Annointed One.
+
+### The Nature of God
 God encompasses all that exists,
 although He is beyond existence.
 All conscious minds are like eyes on the face of God.
@@ -33,8 +69,9 @@ but we can try to ascertain fragments by His titles:
 - The Way
 - The Light
 
-### The Angels
-Consciousness beings which inhabit the Heavenly Realms.
+### The Celestial Beings
+Consciousness beings which inhabit the Heavenly Realms,
+otherwise known as Angels.
 They have different roles, including interacting with humans ordinary life, and carrying laws of nature.
 We acknowledge the concept of angels both as anthropomorphic (to a degree) and abstract.
 
@@ -42,6 +79,16 @@ We acknowledge the concept of angels both as anthropomorphic (to a degree) and a
 
 ### The Glorified Body
 A body that can exist in the Outer Heavens.
+
+### Salvation by Faith and Works
+Eternal Life, otherwise known as Salvation, is attained
+by Faith and Works.
+
+#### Faith
+Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
+
+#### Works
+The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}) in preparation for your Glorified Body.
 
 ### Heavenly Realms
 Includes dimensions beyond the third.
@@ -80,15 +127,6 @@ It is known to be fatal for a causal entity to look upon the true form of beings
 
 [![Celestial Beings](https://img.youtube.com/vi/4r5OgLFuykM/0.jpg)](https://www.youtube.com/watch?v=4r5OgLFuykM)
 
-### Salvation by Faith and Works
-Eternal Life is attained by Faith and Works.
-
-#### Faith
-Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
-
-#### Works
-The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}) in preparation for your Glorified Body.
-
 ### Judgment
 The automatic process by which minds are sorted into Heavens and Hells in the afterlife.
 
@@ -111,26 +149,26 @@ and approached with a scientific mind.
 ### Miracles
 The manifestation of certain gifts imbued by the Angels of God.
 
-### Armageddon
-A necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
-
-[![Armageddon](https://img.youtube.com/vi/trArQ8JPEno/0.jpg)](https://www.youtube.com/watch?v=trArQ8JPEno)
+### The Divine Plan
+The Divine Plan is spiritual transformation.
 
 ### The Garden of Eden
 A literal garden, of which [few fragments remain]({{ site.baseurl }}{% link _pages/schools.md %}), that once encompassed the entire planet where people can live in the same state of freedom as Adam.
+
+### Armageddon
+Also known as the Final Judgment,
+this is a necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
+
+[![Armageddon](https://img.youtube.com/vi/trArQ8JPEno/0.jpg)](https://www.youtube.com/watch?v=trArQ8JPEno)
 
 ### The Kingdom of Christ
 The Annointed One will establish a galactic kingdom.
 The Garden of Eden will be restored on Earth and propagated throughout the galaxy.
 Celestial beings will again live among us for a time.
 
-### The Divine Plan
-The Divine Plan is spiritual transformation.
-
 ---
 
-## Discipline
-
+## Code of Discipline
 We have a specific [mission]({{ site.baseurl }}{% link _pages/legal.md %})
 with clearly defined steps to realize it
 using spiritual technologies

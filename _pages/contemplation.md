@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Contemplation
-
 A number of stoic exercises are included to temper the spiritual lives
 of the [congregation]({{ site.baseurl }}{% link _pages/congregations.md %}).
 Although some of these practices do not directly cause progress
@@ -23,26 +21,26 @@ they can strengthen the will and improve morale during its undertaking.
 - cosmic perspective
 - amor fati
 
-### Gratitude Journal
+## Gratitude Journal
 Acknowledging your blessings directly assists in the alchemical process.
 
 This exercise is usually completed figuratively, rather than literally,
 after the Sacrament during the
 [regular religious services]({{ site.baseurl }}{% link _pages/services.md %})
 
-### Negative Visualization
+## Negative Visualization
 Imagining your life without one or more of your current blessings assists in inducing gratitude.
 
-### Adversarial Praxis
+## Adversarial Praxis
 Behaving contrarily to the social norms for alchemical purposes.
 
-### Momento Mori
+## Momento Mori
 Keeping in mind one's mortality,
 especially with respect to our [cosmology]({{ site.baseurl }}{% link _pages/doctrine.md %}).
 
-### Cosmic Perspective
+## Cosmic Perspective
 Keeping in mind the "grand scheme of things;" the Divine Plan.
 
-### Amor Fati
+## Amor Fati
 Mindfulness; being in the present.
 

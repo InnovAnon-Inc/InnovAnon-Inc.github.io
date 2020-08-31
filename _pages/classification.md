@@ -1,13 +1,11 @@
 ---
 permalink: /classification/
-title: "Classification"
+title: "Classification of Miraculous Abilities"
 excerpt: "Free Code for a Free World!"
 layout: single
 ---
 
 {% include base_path %}
-
-## Classification of Miraculous Abilities
 
 Although the [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %})
 has a lateral structure on paper,
@@ -39,8 +37,7 @@ Class S is hypothetical and does not necessarily require a Glorified Body
 or vanquishing a Celestial being from the Outer Heavens:
 it would be sufficient to be able to interfere with the gateway to the Outer Heavens.
 
-### The Trial of Classification
-
+## The Trial of Classification
 Having passed milestones such as the Trial of the Adept,
 the next step is to attempt the Trial of Classification.
 Successfully completing this rite qualifies you for Class B or higher,

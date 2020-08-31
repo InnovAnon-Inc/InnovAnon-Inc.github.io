@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Places of Worship
-
 InnovAnon, Inc. uses the early Christian model,
 holding [congregations]({{ site.baseurl }}{% link _pages/congregations.md %}) in free places,
 such as [members']({{ site.baseurl }}{% link _pages/membership.md %}) homes

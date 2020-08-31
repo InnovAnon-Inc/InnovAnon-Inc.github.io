@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Prayers
-
 A culture of spiritual warfare should be cultivated in the congregation.
 Each member should think of himself as a prayer warrior in God's army.
 
@@ -30,15 +28,13 @@ as it is a symbol of death.
 However, it is acceptable to display an equal-armed cross,
 at it is a symbol of balance.
 
-### Sermon
-
+## Sermon
 The sermon helps to synchronize to congregation in a certain sense--to get them to be of the same spirit.
 There are various formats for this, including a congregation-driven sharing of testimony.
 May include a recitation of popular saints
 and [martyers]({{ site.baseurl }}{% link _pages/history.md %}).
 
-### Hymns
-
+## Hymns
 Hymns have a more tangible effect on the congregation, synchronizing their minds and bodies.
 It is permissible to play variations such as quodlibets,
 or even to improvise new hymns entirely.
@@ -57,8 +53,7 @@ or even to improvise new hymns entirely.
 - The rhythmic motif complements the prayer.
 - The prayer is embedded as subliminal programming.
 
-### Unified Prayer
-
+## Unified Prayer
 The standard prayer is one phrase,
 repeated and alternating between an arcane-sounding language
 and the practitioner's common or native language:
@@ -129,8 +124,7 @@ Using runic alphabets helps to create the right impression.
 
 [![The Gate is Open](https://img.youtube.com/vi/SmZP0VSENCA/0.jpg)](https://www.youtube.com/watch?v=SmZP0VSENCA)
 
-### Sacrament
-
+## Sacrament
 The Sacrament recreates the Last Supper,
 serving a balanced, nourishing meal with the customary "fixings,"
 such as wine and/or tobacco, etc.
@@ -150,15 +144,13 @@ so that we might partake of His Glorified Body.
 Sacrament is followed with the congregation sharing things for which they are grateful,
 and possibly singing hymns of gratitude.
 
-### Prayers of Thanks and Hymns of Gratitude
-
+## Prayers of Thanks and Hymns of Gratitude
 The congregation should be in a gracious mood after eating the Sacrament:
 compound this feeling by giving testimonials of good things,
 giving thanks and even singing songs.
 This is an expression of the principle of Divine [contemplation]({{ site.baseurl }}{% link _pages/contemplation.md %})
 
-### Church Business
-
+## Church Business
 Logistical planning should be done at this time,
 and assignments delegated to Prayer Squads.
 

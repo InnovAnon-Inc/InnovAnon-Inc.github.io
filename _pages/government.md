@@ -7,8 +7,6 @@ layout: single
 
 {% include base_path %}
 
-## Ecclesiastical Government
-
 Every person is classified by their degree of initiation into the Gospel,
 divided into tiers:
 

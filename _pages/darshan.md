@@ -1,13 +1,11 @@
 ---
 permalink: /darshan/
-title: "Personal Relationship with a Celestial Being"
+title: "Developing a Personal Relationship with a Celestial Being"
 excerpt: "Free Code for a Free World!"
 layout: single
 ---
 
 {% include base_path %}
-
-## Developing a Personal Relationship with a Celestial being
 
 This spiritual gift, known as Darshan Siddhi,
 can be attained by [transforming]({{ site.baseurl}}{% link _pages/alchemy.md %})

@@ -7,21 +7,19 @@ layout: single
 
 {% include base_path %}
 
-## Courses of Study Required for Ordination as a Minister
-
-### Candidate Studies in the Divine Sciences
+## Candidate Studies in the Divine Sciences
 A Candidate must learn about three main topics:
 - [Alchemy]({{ site.baseurl }}{% link _pages/alchemy.md %}): the processes by which spiritual transformation is achieved.
 - Cosmology, particularly the Outer Heavens.
 - Celestial beings, particularly those which inhabit the Outer Heavens.
 
-### Neophyte Studies in the World Religions
+## Neophyte Studies in the World Religions
 A minimum of three years spent attaining understanding of and empathy for at least three contrasting groups.
 
 After completing the Neophyte Studies,
 a person qualifies for official [membership]({{ site.baseurl }}{% link _pages/membership.md %}).
 
-### Acolyte Studies in Applied Aeonic Alchemy
+## Acolyte Studies in Applied Aeonic Alchemy
 A pilgrimage to the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %})
 that transforms faith into firsthand experience.
 At a minimum, an Acolyte should attend a 6-month Winter camp,
@@ -32,7 +30,7 @@ During this time, it is convenient to perform the Rite of the External Adept or 
 
 It is recommended to wait to perform the Rite of the Internal Adept until after completing at least two years on the trail.
 
-### Apprentice Studies in Applied Spiritual Technology
+## Apprentice Studies in Applied Spiritual Technology
 This step is not strictly necessary: it is an option Acolytes who wish to expedite their progress to Adeptship.
 The purpose of this study is to dispel delusions that are impeding the Acolyte's progression.
 The dynamics of the Master-Apprentice relationship are decided at the discretion of the Master.
@@ -43,7 +41,7 @@ Although an Apprentice may attain the Priesthood,
 and even take his own Apprentices,
 the Apprenticeship formally ends as decided by the Master.
 
-### The Trial of the Adept
+## The Trial of the Adept
 A quorum of Adepts is gathered to observe a miracle and to verify its authenticity.
 The one who performs the miracle is officially recognized as an Adept.
 
@@ -51,7 +49,7 @@ This demonstration of insight and ability proves competency in the Divine Scienc
 and the completion of the minimum required studies,
 qualifying a person for the [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %})
 
-### Further Studies for Ordained Ministers
+## Further Studies for Ordained Ministers
 - The Rite of the Grand Master: the Priest uses his gifts to create a Magnus Opus that is imbued with the power of a Celestial being.
 - The Death Rite: someone attaining the status of Acolyte or higher attends a funeral in his own honor, merges consciousness with a dying soul and transports it to a different Heavenly Realm than it would have otherwise gone to.
 

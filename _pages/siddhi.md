@@ -1,13 +1,11 @@
 ---
-permalink: /alchemy/
-title: "The Great Work"
+permalink: /siddhi/
+title: "Miraculous Abilities"
 excerpt: "Free Code for a Free World!"
 layout: single
 ---
 
 {% include base_path %}
-
-## Miraculous Abilities
 
 Within the Divine Sciences, the field of Applied Spiritual Technologies involves the manifestation of such abilities.
 
@@ -34,8 +32,7 @@ and a fourth category which begins to develop at various points in your journey.
 - The 8 Miraculous Abilities
 - The 9 Miraculous Abilities
 
-#### Continuation of Consciousness
-
+## Continuation of Consciousness
 Also known as Nirvana, Turiya, Moksha or Samadhi,
 this state of being grants Continuation of Consciousness,
 a lesser form of eternal life that allows some amount of memory and other attributes
@@ -61,8 +58,7 @@ There are two rituals to accelerate progress toward this level:
   and therefore Continuation of Consciousness.
   [![Dream Recall](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
 
-### Communion with Celestial Beings
-
+## Communion with Celestial Beings
 After entering the Dream Level 3,
 it is possible to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) directly with the Celestial Beings.
 Such communion is commonly known as Darshan Siddhi,
@@ -87,8 +83,7 @@ Mantra to be rid of attachments:
 "Om Kreem Kreem Kreem Hum Hum Hreem Hreem Daksine Kalike
     Kreem Kreem Kreem Hum Hum Hreem Hreem Swaha"
 
-### The 8 Miraculous Abilities
-
+## The 8 Miraculous Abilities
 Otherwise known as the Ashta Siddhi,
 the 8 Miraculous Abilities are attributes of a single attainment
 which manifests at some point during Ascension.
@@ -110,8 +105,7 @@ List of the 8 Miraculous Abilities:
 Mantra to attain the Ashta Siddhi:
 "Om Ashta Siddhi Prada Yai Namah"
 
-### The 9 Miraculous Abilities
-
+## The 9 Miraculous Abilities
 Otherwise known as the Navi Siddhi,
 these miscellaneous Miraculous Abilities also manifest
 at some point during Ascension.
