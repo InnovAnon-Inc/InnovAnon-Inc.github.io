@@ -8,7 +8,7 @@ layout: single
 {% include base_path %}
 
 Within the Divine Sciences, the field of Applied Spiritual Technologies involves the manifestation of such abilities.
-There is a [classification]({{ site.baseurl }}{% link _pages/classification.md %}) for
+There is a [classification]({{ site.baseurl }}{% link _pages/classification.md %}) system for
 measuring the degree to which these abilities manifest.
 
 There are ways to temporarily or permanently increase your attainments:
