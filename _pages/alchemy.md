@@ -376,6 +376,26 @@ zero being a point without dimension:
 11. Salvation and the Glorified Body:
     apprehension of the Outer Heavens.
 
+##### Level 3
+Humans exist in the 3rd Level of Ascension.
+
+##### Level 4
+This marks the point of transcendance beyond normal human consciousness.
+At this point, you are an Ascended Master.
+You will begin to dream in four dimensions,
+even in Dream Level 1.
+
+What you do next is your perogative,
+having attained Continuation of Consciousness,
+working with a Celestial being
+and probably renouncing this world in the process,
+and ultimately attaining Level 4 of Ascension,
+you are prepared to incarnate into a 4 dimensional waking world,
+advancing our Aeonic Alchemical Work.
+You could contribute to the Divine Sciences,
+develop technologies to apply the research in that field,
+or perhaps save a kitten from a burning building.
+
 [![Higher Dimensions](https://img.youtube.com/vi/rOCBFf7As7E/0.jpg)](https://www.youtube.com/watch?v=rOCBFf7As7E)
 [![Squaring the Circle](https://img.youtube.com/vi/H74AayZkpXg/0.jpg)](https://www.youtube.com/watch?v=H74AayZkpXg)
 

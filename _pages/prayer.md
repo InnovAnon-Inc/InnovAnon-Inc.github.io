@@ -22,6 +22,14 @@ is engineered for the priesthood to most effectively lead the congregation's spi
 The procedure synchronizes the congregation,
 so that they might pray in unison.
 
+When performing the prayer,
+symbols such as the crucifix should be removed from the room or area,
+or at least removed from view,
+as it is a symbol of death.
+
+However, it is acceptable to display an equal-armed cross,
+at it is a symbol of balance.
+
 ### Sermon
 
 The sermon helps to synchronize to congregation in a certain sense--to get them to be of the same spirit.
@@ -71,8 +79,20 @@ Examples of languanges which might create an arcane impression:
 
 The hymns help ensure the mind will repeat the prayer like a mantra.
 
+While a solitary practitioner's prayers can be quite effective on their own,
+congregating for the unified prayer can increase its effectiveness several-fold--more
+than the product of its parts.
+We use alchemy on the collective to further increase the effectiveness of the prayer;
+there is a specific choreography to implement this concept.
+
 Congregation members are identified according to their natures:
-spiritual positives vs. negatives.
+spiritual positives vs. negatives,
+usually male and female respectively,
+but this is only a general rule:
+the point is to separate into same-sized groups,
+and to polarize the each group as either yang or yin,
+then recombine the congregation in a configuration
+that will effectively utilize that polarization.
 
 The Unified Prayer proceeds in two phases:
 1. the congregation is separated,
@@ -82,8 +102,9 @@ The Unified Prayer proceeds in two phases:
 In the first phase,
 the congregation divides into two groups
 corresponding to their natures,
-forming circle in parallel,
-holding hands within their circles
+forming circles in parallel,
+holding hands within their circles,
+with the circles meeting at a single point
 and repeating the prayer in unison.
 
 In the second phase,
