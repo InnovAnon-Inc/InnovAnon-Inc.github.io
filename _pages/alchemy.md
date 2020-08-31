@@ -112,6 +112,10 @@ Once the Void Meditation has been mastered,
 proceed to the mindfulness meditation.
 Focus on your breathing during this stage.
 
+There are two variants of this meditation:
+- Sitting Meditation (zazen)
+- Walking Meditation (kinhin)
+
 ## Lesser Attainments
 Having even the first trivial attainment,
 a person should have no difficulty getting to some point
@@ -314,7 +318,7 @@ you are prepared to incarnate into a 4-dimensional waking world,
 advancing our Aeonic Alchemical Work.
 You could contribute to the Divine Sciences,
 develop technologies to apply the research in that field,
-or perhaps save a kitten from a burning building.
+or perhaps [save a kitten from a burning building]({{ site.baseurl}}{% link _pages/history.md %}).
 
 [![Higher Dimensions](https://img.youtube.com/vi/rOCBFf7As7E/0.jpg)](https://www.youtube.com/watch?v=rOCBFf7As7E)
 [![Squaring the Circle](https://img.youtube.com/vi/H74AayZkpXg/0.jpg)](https://www.youtube.com/watch?v=H74AayZkpXg)
