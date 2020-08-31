@@ -296,7 +296,8 @@ zero being a point without dimension:
     apprehension of the Outer Heavens.
 
 #### Level 3
-Humans exist in the 3rd Level of Ascension.
+Humans exist in a 3-dimensional universe,
+and so we begin at the 3rd Level of Ascension.
 
 #### Level 4
 This marks the point of transcendance beyond normal human consciousness.
@@ -309,7 +310,7 @@ having attained Continuation of Consciousness,
 working with a Celestial being
 and probably renouncing this world in the process,
 and ultimately attaining Level 4 of Ascension,
-you are prepared to incarnate into a 4 dimensional waking world,
+you are prepared to incarnate into a 4-dimensional waking world,
 advancing our Aeonic Alchemical Work.
 You could contribute to the Divine Sciences,
 develop technologies to apply the research in that field,
