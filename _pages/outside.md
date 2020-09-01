@@ -87,7 +87,7 @@ Presented in two spheres:
     including work on a progression of magnus opuses.
 - [Group]({{ site.baseurl }}{% link _pages/congregations.md %}) [Worship]({{ site.baseurl }}{% link _pages/services.md %})
   + blasphemous singing
-  + subliminal messages embedded in the hymns
+  + subliminal messages (positive affirmations) embedded in the hymns
   + looting the donation bin
   + chanting, "[The Gate is Open]({{ site.baseurl }}{% link _pages/prayer.md %})"
   + a feast

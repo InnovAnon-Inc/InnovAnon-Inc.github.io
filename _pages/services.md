@@ -14,6 +14,7 @@ The procedure for regular [congregations]({{ site.baseurl }}{% link _pages/congr
 - Preparing and partaking in Sacrament
 - Prayers of Thanks and Hymns of [Gratitude]({{ site.baseurl }}{% link _pages/contemplation.md %})
 - Discussion of church business (if necessary)
+- Donations
 
 Ideally a congregation should make Sacrament available at any time on any day that it is requested.
 

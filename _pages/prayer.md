@@ -154,3 +154,34 @@ This is an expression of the principle of Divine [contemplation]({{ site.baseurl
 Logistical planning should be done at this time,
 and assignments delegated to Prayer Squads.
 
+At this time, congregation members may reach out,
+explaining their troubles.
+
+## Donations
+It is recommended to donate up to 50% of your income
+to maximize its potential benefits to you and the congregation.
+The congregation exists for your benefit,
+and the Donation Ceremony exists
+to enhance those benefits.
+
+The congregation takes precedence over the monks
+in the prescribed redistribution process.
+
+- Gifts are exchanged between members.
+- Monetary and non-monetary donations
+  are offered up to the congregation
+  by placing them into the donation bin.
+- The Priesthood may redistribute specific donations,
+  possibly having exlusive knowledge obtained,
+  e.g., via hearing confession.
+- The donation box is now opened,
+  and the congregation members may take what they need,
+  proceeding in descending order of their initiation:
+  - Acolytes
+  - Initiates
+  - Neophytes
+  - Candidates
+  - Associates
+- Adepts are now permitted to take from the donation box.
+- The Priesthood retains stewardship over the remaining donations
+  in the donation box.

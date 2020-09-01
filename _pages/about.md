@@ -45,6 +45,7 @@ ministering to a Free Church congregation.
 InnovAnon, Inc. is the first
 order of [code monks](http://thecodelesscode.com)
 in the West.
+
 All our work is considered the property of the Annointed One,
 and so all [code](https://github.com/InnovAnon-Inc)
 and [creative works](https://soundcloud.com/innovanon-inc)
