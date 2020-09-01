@@ -226,6 +226,12 @@ Usually a Chaos Star is used as the focus,
 as it can help you attain at death a higher Level of Ascension
 than you otherwise have attained.
 
+The equal-armed cross is a projection of the Chaos Star
+onto two dimensions.
+For the Ultimate Rite, you should use a Chaos Star
+with the desired number of dimensions,
+usually four.
+
 ### Summoning a Familiar
 This ritual is not necessary,
 but is unlocked at this level.

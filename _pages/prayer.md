@@ -26,7 +26,7 @@ or at least removed from view,
 as it is a symbol of death.
 
 However, it is acceptable to display an equal-armed cross,
-at it is a symbol of balance.
+at it is a symbol of Ascension.
 
 In addition to this ceremony,
 there are a number of [rites and ceremonies]({{ site.baseurl }}{% link _pages/rites.md %})
