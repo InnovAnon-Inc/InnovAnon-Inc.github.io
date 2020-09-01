@@ -310,7 +310,7 @@ you are prepared to incarnate into a 4-dimensional waking world,
 advancing our Aeonic Alchemical Work.
 You could contribute to the Divine Sciences,
 develop technologies to apply the research in that field,
-or perhaps [save a kitten from a burning building]({{ site.baseurl}}{% link _pages/history.md %}).
+or perhaps [save a kitten from a burning building]({{ site.baseurl }}{% link _pages/history.md %}).
 
 [![Higher Dimensions](https://img.youtube.com/vi/rOCBFf7As7E/0.jpg)](https://www.youtube.com/watch?v=rOCBFf7As7E)
 [![Squaring the Circle](https://img.youtube.com/vi/H74AayZkpXg/0.jpg)](https://www.youtube.com/watch?v=H74AayZkpXg)
