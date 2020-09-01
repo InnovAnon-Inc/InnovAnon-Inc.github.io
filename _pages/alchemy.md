@@ -206,6 +206,12 @@ as it is an uncommon acheivement.
 It is believed that attaining this level grants
 the ability to perform amazing feats such as hibernation.
 
+### Continuation of Consciousness
+This is a form of Eternal Life,
+a [miraculous ability]({{ site.baseurl }}{% link _pages/siddhi.md %})
+that unlocks a number of [rites and ceremonies]({{ site.baseurl }}{% link _pages/rites.md %})
+that will prepare you for the Ultimate Rite.
+
 ### Dream Meditation
 At this phase, the disciple practices Dhyana Meditation while lucid dreaming,
 granting access to new frontiers of consciousness and experience.

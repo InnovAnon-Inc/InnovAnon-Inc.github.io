@@ -28,6 +28,10 @@ as it is a symbol of death.
 However, it is acceptable to display an equal-armed cross,
 at it is a symbol of balance.
 
+In addition to this ceremony,
+there are a number of [rites and ceremonies]({{ site.baseurl }}{% link _pages/rites.md %})
+that are performed on an individual basis.
+
 ## Sermon
 The sermon helps to synchronize to congregation in a certain sense--to get them to be of the same spirit.
 There are various formats for this, including a congregation-driven sharing of testimony.

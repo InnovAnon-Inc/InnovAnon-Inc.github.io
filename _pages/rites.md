@@ -167,21 +167,40 @@ the following rites and ceremonies will also further your development,
 but their primary purpose is to advance the Aeonic Great Work:
 - The Elemental Rites
 - The Ceremony of Seven Seals
+- The Ultimate Right
+- Summoning a Familiar
 - Communion with the Mirror Self
+
+By the time you unlock the ability to perform these rites and ceremonies,
+you will have meditated for countless hours.
+These rituals break up the monotony of your intensive meditation regimen
+and reward your efforts with interesting new experiences.
+
+In fact, a plethura of [sorceries](http://www.firedocs.com/remoteviewing/answers/crvmanual/CRVManual_FiredocsRV.pdf)
+are now at your fingertips, though exploring them is neither canonical nor necessary,
+as they can distract from the Great Work:
+by now, you have the proof you need to continue onward.
 
 ### The Elemental Rites
 At this level, it is possible to visit the elemental planes in the Lower Heavens.
 These must be entered through gateways to these dream worlds,
 which are opened by performing Dhyana Meditation
 while visualizing specific sigils (in this case, known as Tattvas).
+Each of these gateways can be nested to access twenty additional elemental planes.
 1. Earth
 2. Water
 3. Air
 4. Fire
 5. Spirit/Aether/Akasha
 
-### The Ceremony of the Seven Seals
-The Seven Seals can be unlocked at this level as well;
+Elemental spirits dwell here.
+Extended stay in these realms will attune you to them,
+granting control of the elements
+and allowing you to reincarnate as an elemental,
+though this is neither necessary nor recommended.
+
+### The Ceremony of Seven Seals
+The Seven Seals, or chakras, can be unlocked at this level as well;
 the procedure is similar to the Elemental Rites.
 1. Muladhara:    root
 2. Swadhisthana: navel
@@ -191,11 +210,41 @@ the procedure is similar to the Elemental Rites.
 6. Anja:         brow
 7. Sahasrara:    crown
 
+Extended stay in these realms also grants extraordinary abilities,
+and is neither necessary nor recommended.
+
 Having visited the elemental planes
 and unlocked the Seven Seals,
-it is possible to perform the Death Rite.
+it is possible to perform the Ultimate Rite and the Death Rite.
 
 [![Dream Worlds](https://img.youtube.com/vi/aaKUzdN8Pqs/0.jpg)](https://www.youtube.com/watch?v=aaKUzdN8Pqs)
+
+### The Ultimate Rite
+At the moments preceding death, perform Dhyana Meditation,
+as with the Elemental Rites and the Ceremony of Seven Seals.
+Usually a Chaos Star is used as the focus,
+as it can help you attain at death a higher Level of Ascension
+than you otherwise have attained.
+
+### Summoning a Familiar
+This ritual is not necessary,
+but is unlocked at this level.
+Although the spirit may appear to you in one form,
+it will probably choose to manifest in
+another more appropriate form (such as a dog or a cat).
+- While awake, locate a hole in the ground.
+  This hole should be natural, but can be of any size.
+- While dreaming, return to the hole, and enter it.
+  If successful, you will travel down a deep series of tunnels,
+  ultimately coming out into another world--a large and natural place.
+- While in this realm, you can find what is known as a spirit animal.
+  Bring it back with you when you return to this realm.
+- Your familiar will physically arrive after a short time.
+  In addition to the standard contract for owning an animal,
+  you are expected to have it present whenever possible
+  when performing the various rites and ceremonies and meditations.
+ 
+[![Familiars](https://img.youtube.com/vi/9nUE4av8lwY/0.jpg)](https://www.youtube.com/watch?v=9nUE4av8lwY)
 
 ### Communion with the Mirror Self
 Perform this rite after having attained [Darshan Siddhi]({{ site.baseurl }}{% link _pages/darshan.md %}).

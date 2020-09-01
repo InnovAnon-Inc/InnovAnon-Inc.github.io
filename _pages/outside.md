@@ -24,6 +24,8 @@ presented in six main categories:
 - Religious Practices
 - Goal
 
+[![Cultists](https://img.youtube.com/vi/IO1s_wNm2Ac/0.jpg)](https://www.youtube.com/watch?v=IO1s_wNm2Ac)
+
 ## Philosophy
 Advaita Vedanta Sanatan Dharma; some form of Shaivism.
 
