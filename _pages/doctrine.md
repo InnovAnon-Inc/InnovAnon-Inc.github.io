@@ -132,6 +132,8 @@ They are also believed to cause hungry ghosts and other disruptive phenomena.
 are prescribed to grant mercy to a soul,
 allowing it to proceed to a "better" heaven after Judgment.
 
+[![Purgatory](https://img.youtube.com/vi/5SEb_QPe2WQ/0.jpg)](https://www.youtube.com/watch?v=5SEb_QPe2WQ)
+
 #### The Abyss
 (Non-canonical) a period of void before Judgment.
 
