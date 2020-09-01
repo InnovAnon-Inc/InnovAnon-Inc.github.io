@@ -116,6 +116,11 @@ or cycles per second.
 - modern      time keeping
 - traditional time keeping
 
+An additional consideration whether it is
+more effective to use the traditional base ten
+as opposed to the ancient base twelve
+when generating the set of solfeggio frequencies.
+
 ##### Traditional Time Keeping
 Most people know that traditionally,
 sunset is considered to mark the beginning of the
