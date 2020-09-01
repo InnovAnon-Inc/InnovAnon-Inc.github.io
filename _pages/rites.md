@@ -34,13 +34,31 @@ These paint a picture of a day in the life
 of the typical practitioner,
 and are an intrinsic part of the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %})
 necessary for Salvation and Eternal Life.
+
+Various rites and ceremonies are performed at specific times
+throughout the day, granting the ability to perform
+another series of rites and ceremonies while resting.
+
+Morning Rituals:
 - Morning Meditation
 - The Dream Journal
 - The Rite of the Rising  Sun
+
+Evening Rituals:
 - The Rite of the Setting Sun
 - The Rite of the Black   Sun
+
+Before Sleep:
 - Evening Meditation
 - The Silver Key Ceremony
+
+After Sleep:
+- Dream Meditation
+- Communion with Celestial Beings
+- The Elemental Rites
+- The Ceremony of Seven Seals
+
+Finally, there is a ritual that is not performed daily:
 - The Great Rite
 
 ### Morning Meditation
@@ -81,9 +99,9 @@ without falling asleep.
 This marks the conclusion of the evening rituals,
 and the beginning of the sleep ceremonies, including:
 - Dream Meditation
-- [communion]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Celestial beings
-- the Elemental Rites
-- the Ceremony of Seven Seals
+- [Communion]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Celestial beings
+- The Elemental Rites
+- The Ceremony of Seven Seals
 
 [![Silver Key](https://img.youtube.com/vi/4V59ik48Xs4/0.jpg)](https://www.youtube.com/watch?v=4V59ik48Xs4)
 
