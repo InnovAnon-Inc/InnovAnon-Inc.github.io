@@ -189,6 +189,8 @@ Having visited the elemental planes
 and unlocked the Seven Seals,
 it is possible to perform the [Death Rite]({{ site.baseurl }}{% link _pages/study.md %}).
 
+[![Dream Worlds](https://img.youtube.com/vi/aaKUzdN8Pqs/0.jpg)](https://www.youtube.com/watch?v=aaKUzdN8Pqs)
+
 #### Theta Meditation
 Optimum frequency range: ~4 hz - ~7.83 hz.
 
