@@ -42,10 +42,9 @@ of the world religions,
 and painted with a Christian veneer.
 
 The Gospel is a mind-virus to which the masses need only be made privy.
+[Creed]({{ site.baseurl }}{% link _pages/creed.md %}) and [doctrine]({{ site.baseurl }}{% link _pages/doctrine.md %}).
 
 [Brainwashing]({{ site.baseurl }}{% link _pages/sound.md %}).
-
-[Creed]({{ site.baseurl }}{% link _pages/creed.md %}) and [doctrine]({{ site.baseurl }}{% link _pages/doctrine.md %}).
 
 ## Politics
 Post-civilized transhumanism.
