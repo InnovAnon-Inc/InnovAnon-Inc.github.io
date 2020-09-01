@@ -206,8 +206,8 @@ avoid non-harmonic tones.
 Entraining the heartbeat,
 this musical feature combines with the mode,
 which gives context to the induced
-physiological state
-to induce specific affects or emotions.
+physiological state,
+causing specific affects or emotions.
 
 ### Modulations and Harmonic Rhythm
 The product of the axes of harmony,
