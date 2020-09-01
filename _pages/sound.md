@@ -25,7 +25,9 @@ between our world and the ones beyond.
 
 The Human Programming Technologies
 are a subset of the Applied Spiritual Technologies,
-and relate to manipulating the consciousness.
+and relate to manipulating the consciousness
+to accelerate attaining
+Continuation of Consciousness and Ascension.
 
 These technologies help transition into
 the necessary states of consciousness
