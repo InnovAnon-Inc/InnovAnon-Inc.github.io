@@ -191,17 +191,18 @@ Optimum frequency range: ~0.5 hz - ~4 hz.
 You will taste your success at this level:
 there is a distinct metallic flavor as your brain releases a chemical
 known as the Elixir of the Moon.
-There is a corresponding [Elixir of the Sun]({{ site.baseurl }}{% link _pages/penance.md %}).
+There is a corresponding [Elixir of the Sun]({{ site.baseurl }}{% link _pages/rites.md %}).
 
 Attainment of Delta level meditation marks the point where Lower Prayers begin to have noticeable effects,
 commonly known as miracles or supernatural phenomena.
 There is a [classification system]({{ site.baseurl }}{% link _pages/classification.md %})
 for classifying levels of attainment in this sphere.
 
-There is a [procedure]({{ site.baseurl }}{% link _pages/ministers.md %})
+There is a [procedure]({{ site.baseurl }}{% link _pages/rites.md %})
 for demonstrating these miracles and verifying their authenticity,
 validating a person's claim of Adeptship.
-Admission to the Priesthood is restricted to verified Adepts.
+[Admission]({{ site.baseurl }}{% link _pages/ministers.md %}) to
+the Priesthood is restricted to verified Adepts.
 
 Regular practice of Delta Meditation and the the Philosopher's Stone
 is necessary for [Continuation of Consciousness]({{ site.baseurl }}{% link _pages/siddhi.md %}).

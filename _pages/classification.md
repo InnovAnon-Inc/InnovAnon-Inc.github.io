@@ -23,8 +23,8 @@ Classification uses the standard lettered ranking system:
 - S: anyone who can punch out Cthulhu
 
 To put it into perspective, Class F miracles are just above
-the [threshold of observability]({{ site.baseurl }}{% link _pages/study.md %}),
-making this the minimum relevant Classification.
+the [threshold of observability]({{ site.baseurl }}{% link _pages/rites.md %}),
+making this the [minimum]({{ site.baseurl }}{% link _pages/study.md %}) relevant Classification.
 Most Priests and Adepts today are Class F.
 
 Class E is extraordinarily rare,
