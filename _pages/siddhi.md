@@ -91,7 +91,7 @@ Mantra to be rid of attachments:
 Otherwise known as the Ashta Siddhi,
 the 8 Miraculous Abilities are attributes of a single attainment
 which manifests at some point during Ascension.
-It is not known which level of attainment is necessary for this phenomena.
+It is not known which level of attainment is necessary for this phenomenon.
 The Annointed One will have the Ashta Siddhi.
 
 "It is as a dream when he is awake."

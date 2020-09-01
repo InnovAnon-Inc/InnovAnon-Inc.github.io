@@ -40,7 +40,7 @@ by which the Divine Plan is carried out on an individual and Aeonic level.
   A literal state of the Earth; the Holy Land.
   There are physical sites where you can experience the Garden of Eden firsthand.
 - The Final Judgment:
-  A phenomena that will happen when the gateway to the Outer Heavens opens.
+  A phenomenon that will happen when the gateway to the Outer Heavens opens.
 - The Kingdom of Christ:
   An age during which the Celestial Beings will again live among us,
   when we will be unified under the Annointed One.
