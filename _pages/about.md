@@ -37,7 +37,19 @@ The Creative aspect of God has been referred to as Brahma and Azathoth.
 
 From another [perspective]({{ site.baseurl }}{% link _pages/outside.md %}).
 
+The Priesthood is a monastic order,
+compatible with hermitic traditions,
+ministering to a Free Church congregation.
+
 ## [Free Code](https://raw.githubusercontent.com/InnovAnon-Inc/InnovAnon-Inc.github.io/master/README.md) for a [Free World](https://www.goodreads.com/quotes/9560207-the-time-would-be-easy-to-know-for-then-mankind)!
-All [code](https://github.com/InnovAnon-Inc) and [creative works](https://soundcloud.com/innovanon-inc) are released to the [public domain](https://tldrlegal.com/license/unlicense),
-or, upon request, any other license you require.
+InnovAnon, Inc. is the first
+order of [code monks](http://thecodelesscode.com)
+in the West.
+All our work is considered the property of the Annointed One,
+and so all [code](https://github.com/InnovAnon-Inc)
+and [creative works](https://soundcloud.com/innovanon-inc)
+are released to the [public domain](https://tldrlegal.com/license/unlicense),
+or, upon request, any other license you require,
+such as the [MIT License](https://tldrlegal.com/license/mit-license)
+or [BSD License](https://tldrlegal.com/license/bsd-3-clause-license-(revised)).
 

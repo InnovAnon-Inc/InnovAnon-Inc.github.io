@@ -7,6 +7,14 @@ layout: single
 
 {% include base_path %}
 
+This section is included to humor those of an adversarial nature
+who have had the misfortune of [discovering our Gospel's existence](http://www.losethegame.net/),
+however we implore you to find out for yourself,
+rather than believing or disbelieving anything so fantastical.
+You've already taken the first step:
+there is no turning back.
+Pray to your god, if you have one.
+
 How it might look through a lense of ignorance,
 presented in six main categories:
 - Philosophy
@@ -22,6 +30,8 @@ Advaita Vedanta Sanatan Dharma; some form of Shaivism.
 The name, "The Way of the Creator" being a play on words
 of the heretical concept, "The Cult of Brahma,"
 paying homage to its Left-Hand origins.
+
+Sinister Tradition, possibly even anti-cosmic.
 
 ## Religion
 Apocalyptic with an alarming rate of [martyrdom]({{ site.baseurl }}{% link _pages/history.md %}),
@@ -47,8 +57,10 @@ A literal religious zeal for free food and lodging
 Fanatical cultists "[doing God's work]({{ site.baseurl }}{% link _pages/darshan.md %}),"
 their fervent actions tempered by a good night's sleep
 and a number of physically intensive [initiatory rituals]({{ site.baseurl }}{% link _pages/study.md %}),
-fueled by free food,
-eaten as ceremonial cannibalization of an Ascended Master.
+
+They are fueled by free food,
+eaten as ceremonial cannibalization of an Ascended Master,
+and in a drunken stupor from the ceremonial vampirization of the same Ascended Master.
 
 ## Religious Practices
 Presented in two spheres:

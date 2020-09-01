@@ -7,9 +7,11 @@ layout: single
 
 {% include base_path %}
 
-The Priesthood is a monastic order,
-compatible with hermitic traditions,
-ministering to a Free Church congregation.
+InnovAnon, Inc. Ministries qualifies as a 501(c)(1)(a) "Free Church,"
+but the monks are still working on the prerequisites for the 501(d).
+
+Other Adepts may choose to establish their own ministries and associated tax structures
+using ours as a template, with or without modification.
 
 ## InnovAnon, Inc.
 InnovAnon, Inc. (Ministries) is a 508(c)(1)(a) "[Free Church](http://www.newvisionministriesonline.org/508c1a-free-church-vs-501c3-state-church/)."
@@ -19,8 +21,7 @@ but their institutions will be called by a different name.
 
 ---
 
-## Instructions for 508(c)(1)(a) "Free Church"
-Using ours as a template, people of any level of initiation to the Gospel can form organizations, including study groups, etc.
+## TODO Instructions for 508(c)(1)(a) "Free Church"
 
 ---
 
