@@ -37,5 +37,5 @@ Class S is hypothetical and does not necessarily require a Glorified Body
 or vanquishing a Celestial being from the Outer Heavens:
 it would be sufficient to be able to interfere with the gateway to the Outer Heavens.
 
-See also [the Trial of Classification]({{ site.baseurl }}{% link _pages/rites.md %})
+See also [the Trial of Classification]({{ site.baseurl }}{% link _pages/rites.md %}).
 
