@@ -129,8 +129,6 @@ Instead, it is encouraged that final procedings include an open-air cremation
 along with the customary skull-bashing
 that grants mercy to a soul, allowing it to proceed to a "better" heaven after Judgment.
 
-[![Afterlife](https://img.youtube.com/vi/rf35zS131yg/0.jpg)](https://www.youtube.com/watch?v=rf35zS131yg)
-
 #### The Abyss
 (Non-canonical) a period of void before Judgment.
 
