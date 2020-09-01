@@ -55,8 +55,8 @@ to help you successively unlock levels
 of progress in the Great Work.
 
 The technology is applied over two channels:
-- audio
-- visual
+- audio  (Sound)
+- visual (Light)
 
 ## Audio Channel
 The audio channel is applied in successive layers,
