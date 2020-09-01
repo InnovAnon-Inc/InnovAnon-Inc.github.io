@@ -20,7 +20,8 @@ presented in six main categories:
 Advaita Vedanta Sanatan Dharma; some form of Shaivism.
 
 The name, "The Way of the Creator" being a play on words
-of the heretical concept, "The Cult of Brahma."
+of the heretical concept, "The Cult of Brahma,"
+paying homage to its Left-Hand origins.
 
 ## Religion
 Apocalyptic with an alarming rate of [martyrdom]({{ site.baseurl }}{% link _pages/history.md %}),
