@@ -76,5 +76,5 @@ and the rebuilding of a dystopia
 with a supreme dictator for life
 with alleged [magic powers]({{ site.baseurl }}{% link _pages/siddhi.md %}).
 
-Oh, and they're going to space.
+...and they're going to space.
 
