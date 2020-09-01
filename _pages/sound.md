@@ -84,6 +84,7 @@ to be presented here.
 - textures
 - melodic rhythm
 - subliminal programming
+- audio engineering
 
 ### Base Frequency
 There are three main schools of thought
@@ -277,22 +278,68 @@ so to speak, and this technology
 increase the power of these thoughts
 by several fold.
 
+### Audio Engineering
+This is the ultimate aspect of the audio channel:
+If stereophonic sound is being used,
+then the instrumental voices can be
+delivered to each ear at slight offsets
+to give the impression of a specific geometry,
+simulating an arbitrary arrangement of an ensemble
+within an arbitrary concert hall.
+
+This layer combines with the ultimate
+aspect of the visual channel,
+assisting in attaining Ascension.
+
 ## Visual Channel
 This channel is characterized by using
 animations to enhance the viewer's mental retention
 of sigils (yantras) for the purpose of visualization
 and use as a focus during Dhyana Meditation.
 
-Important graphics, including subliminal programming
+Unlike the audio channel,
+these aspects are not necessarily
+arranged into layers:
+
+- Important graphics, including subliminal programming
 are presented during syncopated beats.
 For example, the animation might be paused at this point.
 
-Aggregated data is accompanied with
+- Aggregated data is accompanied with
 music characterized by tritone intervals,
 and anecdotal data is accompanied with
 music characterized by perfect fifths.
 
-Additionally, graphics can be used to
+- Additionally, graphics can be used to
 provide more context for interpreting
 the tempo and mode.
+
+- Extra-dimensional graphics
+
+The underlying stack of technologies
+is the culmination of over twelve millennia
+of research in the Divine Sciences
+and it assists with attaining Continuation of Consciousness.
+
+### Extra-Dimensional Graphics
+The ultimate aspect of the visual channel
+is 4-dimensional graphics.
+Regular, extended viewing of such graphics
+enables you to dream in four dimension--to
+enter into 4-dimensional dream worlds,
+marking the attainment of Level 4 Ascension.
+
+The combination of the ultimate
+aspects of the audio and visual channels
+creates an immersive experience,
+simulating an arbitrary dimensionality and topology.
+
+The resulting experience is otherworldly,
+literally making these otherwords accessible
+even to the laypeople.
+
+Once the prototype has undergone
+sufficiently many iterations of development,
+it will be ready for widespread use
+when we will attain the point of spiritual singularity.
 
