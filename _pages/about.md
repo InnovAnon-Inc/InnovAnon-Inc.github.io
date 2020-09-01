@@ -35,6 +35,8 @@ The Creative aspect of God has been referred to as Brahma and Azathoth.
 13. TODO Sunday Schools
 14. [Schools for Ministers]({{ site.baseurl  }}{% link _pages/schools.md %})
 
+From another [perspective]({{ site.baseurl }}{% link _pages/outside.md %}).
+
 ## [Free Code](https://raw.githubusercontent.com/InnovAnon-Inc/InnovAnon-Inc.github.io/master/README.md) for a [Free World](https://www.goodreads.com/quotes/9560207-the-time-would-be-easy-to-know-for-then-mankind)!
 All [code](https://github.com/InnovAnon-Inc) and [creative works](https://soundcloud.com/innovanon-inc) are released to the [public domain](https://tldrlegal.com/license/unlicense),
 or, upon request, any other license you require.
