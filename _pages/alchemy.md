@@ -152,12 +152,9 @@ This phase is divided into multiple levels:
 - Delta
 - Epsilon
 
-In the modern millennium, technologies exist that will accelerate progress to unprecedented levels.
+In the modern millennium, [technologies]({{ site.baseurl }}{% link _pages/sound.md %}) exist
+that will accelerate progress to unprecedented levels.
 Lifelong endeavors spanning decades can now be attained in mere months.
-- Binaural beats can assist in audiating infrasonic frequencies to which the brainwaves entrain,
-inducing deeper states of trance than otherwise possible.
-- Isochronic pulses have been shown to be even more effective and can be delivered via both auditory and visual channels.
-- Temporal phasing may also be able to induce similar effects.
 
 When using these technologies, it is important to be aware of your level in this area,
 as using too low a frequency will be ineffective.

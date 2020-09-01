@@ -43,23 +43,14 @@ May include a recitation of popular saints
 and [martyers]({{ site.baseurl }}{% link _pages/history.md %}).
 
 ## Hymns
-Hymns have a more tangible effect on the congregation, synchronizing their minds and bodies.
+Hymns have a more tangible effect on the congregation,
+synchronizing their minds and bodies.
 It is permissible to play variations such as quodlibets,
 or even to improvise new hymns entirely.
+They are engineered using
+[Human Programming Technologies]({{ site.baseurl }}{% link _pages/sound.md %}).
 
 [![Hymns](https://img.youtube.com/vi/H9o8OWVWOE0/0.jpg)](https://www.youtube.com/watch?v=H9o8OWVWOE0&list=PL3BC25E5A3D15544D&index=9)
-
-- The base frequency is selected to target the resonant frequency of the congregation,
-  and simple fractional ratios are used for the intervals,
-  focusing the pitches of the scale like a laser.
-- The congregation's heartrate synchronizes to the tempo.
-- The modes and modulations give context to their minds,
-  helping them interpret that physiological state.
-- Infrasound may be used to induce certain effects.
-- Isochronic pitches are used to help the congregation
-  enter more effective [states]({{ site.baseurl }}{% link _pages/alchemy.md %}) of consciousness.
-- The rhythmic motif complements the prayer.
-- The prayer is embedded as subliminal programming.
 
 ## Unified Prayer
 The standard prayer is one phrase,
