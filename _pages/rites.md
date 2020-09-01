@@ -167,7 +167,7 @@ the following rites and ceremonies will also further your development,
 but their primary purpose is to advance the Aeonic Great Work:
 - The Elemental Rites
 - The Ceremony of Seven Seals
-- The Ultimate Right
+- The Ultimate Rite
 - Summoning a Familiar
 - Communion with the Mirror Self
 
