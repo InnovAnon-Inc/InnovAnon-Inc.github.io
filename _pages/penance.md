@@ -52,6 +52,9 @@ which, when combined with the Elixir of the Moon,
 causes the state of being occasionally referred to as
 [the Philosopher's Stone]({{ site.baseurl }}{% link _pages/alchemy.md %}).
 
+Regular consumption of the Philosopher's Stone grants longevity,
+buying time to pursue Level 4 Ascension.
+
 Procedure for the Great Rite:
 1. approximately 10 days celibacy
 2. coitus until the brink of climax

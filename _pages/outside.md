@@ -56,11 +56,21 @@ A literal religious zeal for free food and lodging
 ## Lifestyle
 Fanatical cultists "[doing God's work]({{ site.baseurl }}{% link _pages/darshan.md %}),"
 their fervent actions tempered by a good night's sleep
-and a number of physically intensive [initiatory rituals]({{ site.baseurl }}{% link _pages/study.md %}),
+and a number of physically intensive [initiatory rituals]({{ site.baseurl }}{% link _pages/study.md %}).
 
 They are fueled by free food,
 eaten as ceremonial cannibalization of an Ascended Master,
 and in a drunken stupor from the ceremonial vampirization of the same Ascended Master.
+
+You're hoping this is just a phase in their spiritual journey,
+just like the contrasting exotic cultures they were previously so immersed in.
+However, this is the culmination of those past experiences--the
+logical conclusion after the revelation of the Truth.
+
+Perhaps you'll find comfort in that there is a tendency
+for Adepts to go their own way,
+occasionally establishing their own spiritual lineages,
+for each one walks his own path.
 
 ## Religious Practices
 Presented in two spheres:
@@ -73,11 +83,16 @@ Presented in two spheres:
   + listening to repetive rhythms of certain frequencies
   + playing bizarre videogames
   + [camping trips]({{ site.baseurl }}{% link _pages/schools.md %})
+  + fanatical obsession over some hobby,
+    including work on a progression of magnus opuses.
 - [Group]({{ site.baseurl }}{% link _pages/congregations.md %}) [Worship]({{ site.baseurl }}{% link _pages/services.md %})
   + blasphemous singing
   + subliminal messages embedded in the hymns
   + looting the donation bin
   + chanting, "[The Gate is Open]({{ site.baseurl }}{% link _pages/prayer.md %})"
+  + a feast
+  + drunken partying, possibly for several consecutive days
+  + passing out drunk in the prayer room
   + more camping trips
 
 ## Goal
