@@ -138,7 +138,6 @@ such as temperature, pressure, gravity, etc.
 
 The spectrum of pitches can be iterated
 until the target resonates.
-
 Usually, this technique is used to target
 pure water or preferrably a saline solution.
 
