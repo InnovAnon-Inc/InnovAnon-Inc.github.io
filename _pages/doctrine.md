@@ -125,9 +125,9 @@ known as Soul Harvesting, are considered perversions of the Divine Plan,
 as they prolong suffering unnecessarily and delay Judgment.
 They are also believed to cause hungry ghosts and other disruptive phenomena.
 
-Instead, it is encouraged that final procedings include an open-air cremation
-along with the customary skull-bashing
-that grants mercy to a soul, allowing it to proceed to a "better" heaven after Judgment.
+[Alternative]({{ site.baseurl }}{% link _pages/life.md %}) final proceedings
+are prescribed to grant mercy to a soul,
+allowing it to proceed to a "better" heaven after Judgment.
 
 #### The Abyss
 %28Non-canonical%29 a period of void before Judgment.

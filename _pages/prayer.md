@@ -173,8 +173,11 @@ to enhance those benefits.
 The congregation takes precedence over the monks
 in the prescribed redistribution process.
 
-It is customary, but not required, to submit an offering,
-especially if you are taking something from the donation bin.
+It is customary, but not required, to submit an offering.
+It is recommened to submit an offering if you are
+taking something from the donation bin.
+It is commonly believed that failure to do so
+could invoke the wrath of the Celestial beings.
 
 - The presiding Celestial being is acknowledged.
 - Gifts are exchanged between members.
