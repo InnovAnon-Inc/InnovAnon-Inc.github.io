@@ -165,15 +165,6 @@ Attaining progressively deeper levels may require months of long sessions each d
 Bolster your morale in knowing that over twelve millennia of these arcane sciences
 has allowed these technologies to manifest that condense lifetimes of experience and progress into relatively few months.
 
-It is possible to use just about any focus for the Dhyana Meditation,
-including sigils, candles and even your own reflection,
-as in the Rite of the Mirror Self:
-- perform Dhyana Meditation using your reflection as a focus
-- your reflection will morph, no longer reflecting your physical body
-- you may choose to touch hands with your mirror self
-
-[![Reflection](https://img.youtube.com/vi/aCDi5RSEP7U/0.jpg)](https://www.youtube.com/watch?v=aCDi5RSEP7U)
-
 #### Alpha Meditation
 Optimum frequency range: ~7.83 hz - ~12 hz.
 
