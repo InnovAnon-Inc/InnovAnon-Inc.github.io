@@ -22,11 +22,15 @@ so that they might pray in unison.
 
 When performing the prayer,
 symbols such as the crucifix should be removed from the room or area,
-or at least removed from view,
-as it is a symbol of death.
+or at least removed from view.
+The crucifix, for example is
+a symbol of tilting the world axes,
+projecting the consciousness at an inauspicious angle,
+opening undesirable gateways.
+Some traditions associate it with cosmic imbalance and death.
 
 However, it is acceptable to display an equal-armed cross,
-at it is a symbol of Ascension.
+at it is a symbol of balance and Ascension.
 
 In addition to this ceremony,
 there are a number of [rites and ceremonies]({{ site.baseurl }}{% link _pages/rites.md %})
