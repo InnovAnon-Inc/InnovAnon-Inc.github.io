@@ -51,7 +51,7 @@ and He gave us intellect to develop technologies to
 accelerate our efforts in the Great Work.
 
 These technologies use sound and light
-to help your successively unlock levels
+to help you successively unlock levels
 of progress in the Great Work.
 
 They are applied in successive layers,
