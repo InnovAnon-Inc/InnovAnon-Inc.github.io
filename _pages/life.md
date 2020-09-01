@@ -38,7 +38,8 @@ and begin the process of Ascension to Salvation.
 Few people reach this level of attainment,
 and the ones who do are often
 not long for this world,
-so as to avoid relapsing into a lower level of Ascension.
+so as to avoid relapsing into a lower level of Ascension:
+perhaps this baptism should be by fire.
 
 ## Death
 In the moments preceding the time of death,
@@ -47,7 +48,8 @@ performs the [Ultimate Rite]({{ site.baseurl }}{% link _pages/rites.md %}).
 
 If any death rites are performed,
 they involve open air cremation,
-as with burial at sea or the Hindu style.
+as with burial at sea or the Hindu style,
+accompanied by the customary skull-bashing.
 
 The lack of death rites is not an undesirable fate,
 as with taking a final solitary pilgrimage to the Garden of Eden.

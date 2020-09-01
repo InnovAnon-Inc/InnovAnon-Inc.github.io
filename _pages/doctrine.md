@@ -53,12 +53,15 @@ Being beyond existence,
 we cannot fully grasp His nature,
 but we can try to ascertain fragments by His titles:
 - The One
+
   [![The One](https://img.youtube.com/vi/7CQmUMDxXjI/0.jpg)](https://www.youtube.com/watch?v=7CQmUMDxXjI)
 - The Godhead
 - Truth
+
   [![Truth](https://img.youtube.com/vi/MohAKdL4ftE/0.jpg)](https://www.youtube.com/watch?v=MohAKdL4ftE)
 - The All
 - The Creator
+
   [![Creator](https://img.youtube.com/vi/a2LELlE430s/0.jpg)](https://www.youtube.com/watch?v=a2LELlE430s)
 - The Fearless One
 - Without Adversary
