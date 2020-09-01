@@ -43,6 +43,8 @@ and painted with a Christian veneer.
 
 The Gospel is a mind-virus to which the masses need only be made privy.
 
+[Brainwashing]({{ site.baseurl }}{% link _pages/sound.md %}).
+
 [Creed]({{ site.baseurl }}{% link _pages/creed.md %}) and [doctrine]({{ site.baseurl }}{% link _pages/doctrine.md %}).
 
 ## Politics
@@ -86,7 +88,7 @@ Presented in two spheres:
   + playing bizarre videogames
   + [camping trips]({{ site.baseurl }}{% link _pages/schools.md %})
   + fanatical obsession over some hobby,
-    including work on a progression of magnus opuses.
+    including a progression of magnus opuses.
 - [Group]({{ site.baseurl }}{% link _pages/congregations.md %}) [Worship]({{ site.baseurl }}{% link _pages/services.md %})
   + blasphemous singing
   + subliminal messages (positive affirmations) embedded in the hymns

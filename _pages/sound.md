@@ -23,6 +23,10 @@ cannot be reached directly from our own.
 However, consciousness rests on the cusp
 between our world and the ones beyond.
 
+The Human Programming Technologies
+are a subset of the Applied Spiritual Technologies,
+and relate to manipulating the consciousness.
+
 These technologies help transition into
 the necessary states of consciousness
 for opening the gateways,
@@ -56,6 +60,11 @@ The true complexity of the implementation
 has been watered down
 to be presented here.
 
+The technology is applied over two channels:
+- audio
+- visual
+
+## Audio Channel
 - base frequency
   + modern base frequency
   + solfeggio frequencies
@@ -72,10 +81,11 @@ to be presented here.
   + binaural   beats
   + isochronic pulses
   + temporal   phasing
+- textures
 - melodic rhythm
 - subliminal programming
 
-## Base Frequency
+### Base Frequency
 There are three main schools of thought
 for selecting the correct base frequency,
 known as Tuning the Yellow Bell.
@@ -88,10 +98,10 @@ this is the base frequency,
 the pitch to which the pitch
 ratios are relative.
 
-### Modern Base Frequency
+#### Modern Base Frequency
 A4 = 440 hz
 
-### Solfeggio Frequencies
+#### Solfeggio Frequencies
 These are commonly found in New Age traditions.
 Within this category, there are two main schools
 of thought for selecting the unit of measurement
@@ -104,7 +114,7 @@ or cycles per second.
 For example,
 A4 = 432 hz
 
-#### Traditional Time Keeping
+##### Traditional Time Keeping
 Most people know that traditionally,
 sunset is considered to mark the beginning of the
 day-night cycle.
@@ -120,7 +130,7 @@ pitch represented by the solfeggio frequencies
 would vary with the day-night cycle, the seasons
 and even the progression of the equinox.
 
-### Resonant Frequencies
+#### Resonant Frequencies
 This method targets the resonant frequency
 of an arbitrary substance under your environmental conditions,
 such as temperature, pressure, gravity, etc.
@@ -131,7 +141,7 @@ until the target resonates.
 Usually, this technique is used to target
 pure water or preferrably a saline solution.
 
-## Pitch Intervals
+### Pitch Intervals
 These ratios are computed against the base frequency
 and define the precise spacing between the notes
 in the chromatic scale.
@@ -141,17 +151,17 @@ for selecting the pitch intervals:
 - modern      temperament
 - traditional tuning
 
-### Modern Temperament
+#### Modern Temperament
 Simplifies handling of the various scales and modes,
 eliminating traditionally unusable intervals.
 
-### Traditional Tuning
+#### Traditional Tuning
 Uses relatively simple pitch ratios
 to reduce acoustic beats
 and to enhance the cymatic effects of
 the base frequency.
 
-## Scales, Modes and Chords
+### Scales, Modes and Chords
 A scale is a subset of the notes in the chromatic scale,
 and a layer of indirection.
 Here, the chromatic scale is implied to have twelve notes.
@@ -175,14 +185,14 @@ Chords are subsets of the scale,
 and perform different functions in each mode.
 They comprise the vertical axis of harmony.
 
-## Tempo
+### Tempo
 Entraining the heartbeat,
 this musical feature combines with the mode,
 which gives context to the induced
 physiological state
 to induce specific affects or emotions.
 
-## Modulations and Harmonic Rhythm
+### Modulations and Harmonic Rhythm
 The product of the axes of harmony,
 these cause the movement of energy
 through the Seven Seals.
@@ -208,7 +218,7 @@ and channeled at precise rates
 to precise locations.
 This is an arcane art, after all.
 
-## Infrasound
+### Infrasound
 This layer may be manifest
 in either the pitch or the tempo,
 depending the specific technology used.
@@ -225,13 +235,18 @@ the implied infrasonic pitch.
 - Isochronic pulses
 - Temporal   phasing
 
-## Melodic Rhythm
+### Textures
+The pure tones are not heard in nature;
+at this layer, they are imbued with elemental qualities,
+by mapping the harmonic voices to instrument categories.
+
+### Melodic Rhythm
 This layer encodes the rhythmic cadence of the prayer,
 and presents it to the conscious mind,
 causing that rhythm to act as a sort of sigil
 to activate the prayer.
 
-## Subliminal Programming
+### Subliminal Programming
 The infrasound and melodic rhythm multiply
 the effectiveness of this layer,
 which embeds an arbitrary prayer
@@ -244,4 +259,23 @@ Every thought creates an Angel,
 so to speak, and this technology
 increase the power of these thoughts
 by several fold.
+
+## Visual Channel
+This channel is characterized by using
+animations to enhance the viewer's mental retention
+of sigils (yantras) for the purpose of visualization
+and use as a focus during Dhyana Meditation.
+
+Important graphics, including subliminal programming
+are presented during syncopated beats.
+For example, the animation might be paused at this point.
+
+Aggregated data is accompanied with
+music characterized by tritone intervals,
+and anecdotal data is accompanied with
+music characterized by perfect fifths.
+
+Additionally, graphics can be used to
+provide more context for interpreting
+the tempo and mode.
 
