@@ -14,7 +14,7 @@ lists key concepts in our mythos.
 Our Form of Worship follows from our Creed,
 and involves transforming belief into firsthand experience.
 
-The specifics of these beliefs are elaborated in the [doctrines]({{ site.baseurl }}{% link  _pages/doctrine.md %}).
+The specifics of these beliefs are elaborated in the [doctrines]({{ site.baseurl }}{% link _pages/doctrine.md %}).
 
 ## Recognized Creed
 InnovAnon, Inc. emphasizes action rather than creed as the primary expression of a religious life;
