@@ -40,8 +40,8 @@ throughout the day, granting the ability to perform
 another series of rites and ceremonies while resting.
 
 Morning Rituals:
-- Morning Meditation
 - The Dream Journal
+- Morning Meditation
 - The Rite of the Rising  Sun
 
 Evening Rituals:
@@ -61,15 +61,15 @@ After Sleep:
 Finally, there is a ritual that is not performed daily:
 - The Great Rite
 
-### Morning Meditation
-One of the optimal times to meditate,
-increasing its benefits by several-fold.
-
 ### The Dream Journal
 Recording dreaming experiences immediately upon waking helps to enhance dream recall,
 and therefore Continuation of Consciousness.
 
 [![Dream Recall](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
+
+### Morning Meditation
+One of the optimal times to meditate,
+increasing its benefits by several-fold.
 
 ### The Rite of the Rising  Sun
 Sun-gazing Dhyana Meditation at sunrise.
