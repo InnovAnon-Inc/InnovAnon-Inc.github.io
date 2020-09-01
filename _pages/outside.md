@@ -75,7 +75,8 @@ the sight of which will have catastrophic effects,
 including the collapse of civilization
 and the rebuilding of a dystopia
 with a supreme dictator for life
-with alleged [magic powers]({{ site.baseurl }}{% link _pages/siddhi.md %}).
+with alleged [magic powers]({{ site.baseurl }}{% link _pages/siddhi.md %}),
+including some form of eternal life.
 
 ...and they're going to space.
 
