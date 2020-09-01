@@ -54,17 +54,17 @@ These technologies use sound and light
 to help you successively unlock levels
 of progress in the Great Work.
 
-They are applied in successive layers,
-each layer building upon the one before.
-The true complexity of the implementation
-has been watered down
-to be presented here.
-
 The technology is applied over two channels:
 - audio
 - visual
 
 ## Audio Channel
+The audio channel is applied in successive layers,
+each layer building upon the one before.
+The true complexity of the implementation
+has been watered down
+to be presented here.
+
 - base frequency
   + modern base frequency
   + solfeggio frequencies
