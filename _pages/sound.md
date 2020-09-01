@@ -349,6 +349,6 @@ Once the prototype has undergone
 sufficiently many iterations of development,
 it will be ready for widespread use
 when we will attain the point of spiritual singularity,
-marking the apex of a spirituality-driven,
+the apex of a spirituality-driven,
 technological civilization.
 
