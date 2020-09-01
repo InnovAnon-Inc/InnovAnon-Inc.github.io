@@ -173,6 +173,10 @@ to enhance those benefits.
 The congregation takes precedence over the monks
 in the prescribed redistribution process.
 
+It is customary, but not required, to submit an offering,
+especially if you are taking something from the donation bin.
+
+- The presiding Celestial being is acknowledged.
 - Gifts are exchanged between members.
 - Monetary and non-monetary donations
   are offered up to the congregation
@@ -188,6 +192,6 @@ in the prescribed redistribution process.
   - Neophytes
   - Candidates
   - Associates
-- Adepts are now permitted to take from the donation box.
+- Adepts are now permitted to take from the donation bin.
 - The Priesthood retains stewardship over the remaining donations
-  in the donation box.
+  in the donation bin.
