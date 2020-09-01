@@ -130,15 +130,16 @@ are prescribed to grant mercy to a soul,
 allowing it to proceed to a "better" heaven after Judgment.
 
 #### The Abyss
-%28Non-canonical%29 a period of void before Judgment.
+(Non-canonical) a period of void before Judgment.
 
 #### Heavens and Hells
 By a process known as judgment, minds synchronize with planes of existence corresponding to their nature.
 There are Heavens and Hells for each chakra,
 and myriads beyond that.
 These are Astral planes--dream worlds--including elemental realms.
-- Heavens: benevolent minds inhabit these planes of existence and perform penances for other souls for a while before reincarnating to continue the process of transformation.
-- Hells: tormented minds are attracted to tormented places where they perform penances several times over for their sins before being allowed to reincarnate.
+Penances are performed in both Heavens and Hells.
+- Heavens: benevolent minds inhabit these planes of existence.
+- Hells:   tormented minds are attracted to tormented places.
 
 The Heavens and Hells and reincarnation are not considered success,
 but they are not a failure, either:
