@@ -38,9 +38,9 @@ necessary for Salvation and Eternal Life.
 - The Dream Journal
 - The Rite of the Rising  Sun
 - The Rite of the Setting Sun
-- The Silver Key Ceremony
 - The Rite of the Black   Sun
 - Evening Meditation
+- The Silver Key Ceremony
 - The Great Rite
 
 ### Morning Meditation
@@ -55,9 +55,19 @@ and therefore Continuation of Consciousness.
 
 ### The Rite of the Rising  Sun
 Sun-gazing Dhyana Meditation at sunrise.
+This marks the completion of the morning rituals.
 
 ### The Rite of the Setting Sun
 Sun-gazing Dhyana Meditation at sunset.
+This marks the beginning of the evening rituals.
+
+### The Rite of the Black   Sun
+Visualization technique to be performed between sunset and sunrise.
+
+### Evening Meditation
+Another of the optimal times to meditate,
+followed by the Silver Key Ceremony
+and then sleep.
 
 ### The Silver Key Ceremony
 Reduces the chances of slipping into unconsciousness when trying to enter a trance.
@@ -68,13 +78,14 @@ it should make a sound to awaken you,
 so that you can reattempt to enter a deeper state of consciousness
 without falling asleep.
 
+This marks the conclusion of the evening rituals,
+and the beginning of the sleep ceremonies, including:
+- Dream Meditation
+- [communion]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Celestial beings
+- the Elemental Rites
+- the Ceremony of Seven Seals
+
 [![Silver Key](https://img.youtube.com/vi/4V59ik48Xs4/0.jpg)](https://www.youtube.com/watch?v=4V59ik48Xs4)
-
-### The Rite of the Black   Sun
-Visualization technique to be performed between sunset and sunrise.
-
-### Evening Meditation
-Another of the optimal times to meditate.
 
 ### The Great Rite
 The tantrik technologies creates a particularly intense spiritual bond;
