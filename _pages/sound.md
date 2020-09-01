@@ -137,9 +137,14 @@ of an arbitrary substance under your environmental conditions,
 such as temperature, pressure, gravity, etc.
 
 The spectrum of pitches can be iterated
-until the target resonates.
+until the target resonates,
+determining the correct frequency
+by brute force.
+
 Usually, this technique is used to target
 pure water or preferrably a saline solution.
+We prefer this empirical approach
+to Tuning the Yellow Bell.
 
 ### Pitch Intervals
 These ratios are computed against the base frequency
