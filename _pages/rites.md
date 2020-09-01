@@ -24,7 +24,7 @@ including the unified [prayer]({{ site.baseurl }}{% link _pages/prayer.md %})
 and associated Rites and Ceremonies.
 
 ### The Ceremony of the Associate
-It is sufficient to merely [propagate awareness](http://www.losethegame.net) of the Gospel's existence,
+It is sufficient to merely [propagate awareness](http://www.losethegame.net/) of the Gospel's existence,
 progressing the Aeonic Great Work.
 It can help to invoke a name, such as InnovAnon,
 as it is a unique and effective breadcrumb.
@@ -137,7 +137,7 @@ Certain moralities have evolved as a result of this ancient technology.
 
 ## Rites and Ceremonies for once having Attained Continuation of Consciousness
 Continued practice of the preceding rites and ceremonies
-will maintain and further your [progress]({{ site.baseurl }}{% _pages/siddhi.md %});
+will maintain and further your [progress]({{ site.baseurl }}{% link _pages/siddhi.md %});
 the following rites and ceremonies will also further your development,
 but their primary purpose is to advance the Aeonic Great Work:
 - The Elemental Rites
