@@ -97,11 +97,7 @@ so that you can reattempt to enter a deeper state of consciousness
 without falling asleep.
 
 This marks the conclusion of the evening rituals,
-and the beginning of the sleep ceremonies, including:
-- Dream Meditation
-- [Communion]({{ site.baseurl }}{% link _pages/darshan.md %}) with the Celestial beings
-- The Elemental Rites
-- The Ceremony of Seven Seals
+and the beginning of the sleep ceremonies.
 
 [![Silver Key](https://img.youtube.com/vi/4V59ik48Xs4/0.jpg)](https://www.youtube.com/watch?v=4V59ik48Xs4)
 
