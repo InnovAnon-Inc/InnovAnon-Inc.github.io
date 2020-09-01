@@ -103,6 +103,10 @@ A4 = 440 hz
 
 #### Solfeggio Frequencies
 These are commonly found in New Age traditions.
+
+For example,
+A4 = 432 hz
+
 Within this category, there are two main schools
 of thought for selecting the unit of measurement
 for the solfeggio frequencies.
@@ -110,9 +114,6 @@ Both are measured in hertz,
 or cycles per second.
 - modern      time keeping
 - traditional time keeping
-
-For example,
-A4 = 432 hz
 
 ##### Traditional Time Keeping
 Most people know that traditionally,
