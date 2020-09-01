@@ -22,7 +22,7 @@ divided into tiers:
 - Lay [Members]({{ site.baseurl }}{% link _pages/membership.md %}):
  4. Initiate:  this person has self-initiated and identifies as a member of the literal or figurative congregation.
  5. Acolyte:   this person has made a pilgrimage to the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %})
-    and has completed the Rite of the External Adept.
+    and has completed the [Rite of the External Adept]({{ site.baseurl }}{% link _pages/rites.md %}).
  6. Apprentice: this person receives personal guidance from a Priest to accelerate his gaining of spiritual insight.
 
 - Clergy:

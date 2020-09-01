@@ -125,7 +125,8 @@ During this leg of the journey,
 awesome [abilities]({{ site.baseurl }}{% link _pages/siddhi.md %}) will begin to manifest as Faith is rewarded
 and blind Faith is replaced with first-hand experience of the Divine.
 This gift is given so that you might receive more clear indications of God's Will,
-specifically you will gain the ability to commune directly with the Celestial beings.
+specifically you will gain the ability to [commune]({{ site.baseurl }}{% link _pages/darshan.md %})
+directly with the Celestial beings.
 
 ### Dhyana Meditation
 Once the focus fades to pure awareness,
@@ -164,32 +165,17 @@ Attaining progressively deeper levels may require months of long sessions each d
 Bolster your morale in knowing that over twelve millennia of these arcane sciences
 has allowed these technologies to manifest that condense lifetimes of experience and progress into relatively few months.
 
+It is possible to use just about any focus for the Dhyana Meditation,
+including sigils, candles and even your own reflection,
+as in the Rite of the Mirror Self:
+- perform Dhyana Meditation using your reflection as a focus
+- your reflection will morph, no longer reflecting your physical body
+- you may choose to touch hands with your mirror self
+
+[![Reflection](https://img.youtube.com/vi/aCDi5RSEP7U/0.jpg)](https://www.youtube.com/watch?v=aCDi5RSEP7U)
+
 #### Alpha Meditation
 Optimum frequency range: ~7.83 hz - ~12 hz.
-
-At this level, it is possible to visit the elemental planes in the Lower Heavens.
-The gateways can be opened by performing the Elemental Rites:
-1. Earth
-2. Water
-3. Air
-4. Fire
-5. Spirit/Aether/Akasha
-
-The Seven Seals can be unlocked at this level as well;
-the procedure is similar to the Elemental Rites.
-1. Muladhara:    root
-2. Swadhisthana: navel
-3. Manipura:     sacral
-4. Anahata:      heart
-5. Vishuddhi:    throat
-6. Anja:         brow
-7. Sahasrara:    crown
-
-Having visited the elemental planes
-and unlocked the Seven Seals,
-it is possible to perform the [Death Rite]({{ site.baseurl }}{% link _pages/study.md %}).
-
-[![Dream Worlds](https://img.youtube.com/vi/aaKUzdN8Pqs/0.jpg)](https://www.youtube.com/watch?v=aaKUzdN8Pqs)
 
 #### Theta Meditation
 Optimum frequency range: ~4 hz - ~7.83 hz.
@@ -252,6 +238,9 @@ After entering the Dream Level 3,
 it is possible to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) directly with the Celestial Beings,
 Such communion is commonly known as Darshan Siddhi,
 and makes you a prophet in your own right.
+
+At this point, you have unlocked the ability to commune with
+the [mirror self]({{ site.baseurl }}{% link _pages/rites.md %}).
 
 [![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
 

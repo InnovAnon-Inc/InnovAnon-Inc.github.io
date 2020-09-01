@@ -144,6 +144,8 @@ so that we might partake of His Glorified Body.
 Sacrament is followed with the congregation sharing things for which they are grateful,
 and possibly singing hymns of gratitude.
 
+[![Sacrament](https://img.youtube.com/vi/ImqcVKEWMeM/0.jpg)](https://www.youtube.com/watch?v=ImqcVKEWMeM)
+
 ## Prayers of Thanks and Hymns of Gratitude
 The congregation should be in a gracious mood after eating the Sacrament:
 compound this feeling by giving testimonials of good things,

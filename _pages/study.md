@@ -41,15 +41,9 @@ Although an Apprentice may attain the Priesthood,
 and even take his own Apprentices,
 the Apprenticeship formally ends as decided by the Master.
 
-## The Trial of the Adept
-A quorum of Adepts is gathered to observe a miracle and to verify its authenticity.
-The one who performs the miracle is officially recognized as an Adept.
-
-This demonstration of insight and ability proves competency in the Divine Sciences
-and the completion of the minimum required studies,
-qualifying a person for the [Priesthood]({{ site.baseurl }}{% link _pages/ministers.md %})
+See also [the Trial of the Adept]({{ site.baseurl }}{% link _pages/rites.md %}).
 
 ## Further Studies for Ordained Ministers
 - The Rite of the Grand Master: the Priest uses his gifts to create a Magnus Opus that is imbued with the power of a Celestial being.
-- The Death Rite: someone attaining the status of Acolyte or higher attends a funeral in his own honor, merges consciousness with a dying soul and transports it to a different Heavenly Realm than it would have otherwise gone to.
+- The Death Rite
 

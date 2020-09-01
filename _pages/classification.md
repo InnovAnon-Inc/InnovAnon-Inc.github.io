@@ -37,14 +37,5 @@ Class S is hypothetical and does not necessarily require a Glorified Body
 or vanquishing a Celestial being from the Outer Heavens:
 it would be sufficient to be able to interfere with the gateway to the Outer Heavens.
 
-## The Trial of Classification
-Having passed milestones such as the Trial of the Adept,
-the next step is to attempt the Trial of Classification.
-Successfully completing this rite qualifies you for Class B or higher,
-and marks a cusp of the ages:
-the Annointed One will arrive soon after.
-
-It is recommended to attempt the Trial of Classification
-during some event such as a meteor shower, hurricane, tornado, etc.,
-as you attempt to hurl calamaties upon the servants of Satan.
+See also [the Trial of Classification]({{ site.baseurl }}{% link _pages/rites.md %})
 

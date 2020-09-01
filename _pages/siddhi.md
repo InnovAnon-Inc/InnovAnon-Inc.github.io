@@ -51,16 +51,10 @@ centering of focus to the state of pure awareness that underlies the cycle:
 
 "He is awake while he dreams."
 
-There are two rituals to accelerate progress toward this level:
+There are two [rituals]({{ site.baseurl }}{% link _pages/rites.md %})
+to accelerate progress toward this level:
 - The Silver Key Ceremony:
-  reduces the chances of slipping into unconsciousness when trying to enter a trance.
-
-  [![Silver Key](https://img.youtube.com/vi/4V59ik48Xs4/0.jpg)](https://www.youtube.com/watch?v=4V59ik48Xs4)
 - The Dream Journal:
-  recording dreaming experiences immediately upon waking helps to enhance dream recall,
-  and therefore Continuation of Consciousness.
-
-  [![Dream Recall](https://img.youtube.com/vi/IRJb9r6Jk8Q/0.jpg)](https://www.youtube.com/watch?v=IRJb9r6Jk8Q)
 
 ## Communion with Celestial Beings
 After entering the Dream Level 3,

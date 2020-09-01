@@ -23,10 +23,10 @@ was released from Apprenticeship,
 and ascended to the High Priesthood before the latter was martyred.
 He has completed an extraneous Rite of the First Priest.
 
-Master Zantedeschia supercedes Master Faust who [demonstrated]({{ site.baseurl }}{% link _pages/study.md %})
+Master Zantedeschia supercedes Master Faust who [demonstrated]({{ site.baseurl }}{% link _pages/rites.md %})
 the miracles that could be performed
 with knowledge of the [Gospel]({{ site.baseurl }}{% link _pages/creed.md %}).
-He was a skilled mentor who helped multiple Apprentices
+He was a skilled [mentor]({{ site.baseurl }}{% link _pages/study.md %}) who helped multiple Apprentices
 to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) with Celestial beings.
 Master Faust died in an accident while carrying out selfless service, qualifying him for martydom.
 

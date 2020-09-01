@@ -18,14 +18,10 @@ A Priest may grant to an Adept the title of Priest at his discretion.
 A Priest may also confer to an Adept a Doctorate of Divinity
 in the Practical Application of the Divine Sciences.
 
-### The Trial of the Adept
-To [qualify]({{ site.baseurl }}{% link _pages/study.md %}) for the status of Adept,
-a person must perform a miracle before a quorum of Adepts who will verify its authenticity.
-This status is irrevocable.
-
-### The Rite of the First Priest
-In the absence of such a quorum,
-the Adept should demonstrate his ability before a congregation of the highest-level initiates he can assemble.
+There are two [ways]({{ site.baseurl }}{% link _pages/rites.md %})
+to prove your status as an Adept:
+- The Trial of the Adept
+- The Right of the First Priest
 
 An Adept may declare himself a Priest and establish his own Priesthood.
 That priesthood is recognized as legitimate.

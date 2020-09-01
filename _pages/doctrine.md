@@ -85,7 +85,8 @@ Eternal Life, otherwise known as Salvation, is attained
 by Faith and Works.
 
 #### Faith
-Faith in the Divine Plan, and the greatest expression of that Faith is action: carrying out the Works to bring that plan to fruition.
+Faith in the Divine Plan, and the greatest expression of that Faith is action:
+carrying out the Works to bring that plan to fruition.
 
 #### Works
 The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}) in preparation for your Glorified Body.
@@ -94,16 +95,30 @@ The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alc
 Includes dimensions beyond the third.
 
 After death:
-- Weak consciousnesses dissolve and dissipate into the aether.
+- Consciousnesses with insufficient practical knowledge
+  of the Gospel dissolve and dissipate into the aether.
 - Sufficiently developed consciousnesses maintain their existence.
 
 [![Heavenly Realms](https://img.youtube.com/vi/Olo3Lc_jkZc/0.jpg)](https://www.youtube.com/watch?v=Olo3Lc_jkZc)
 
 #### Purgatory
-Some consciousnesses are bound by attachments to the material plane.
-A permanent existence here cannot be maintained and minds that exist here grow tormented from the nature of the plane.
+Some consciousnesses are bound by attachments to the material plane;
+they are bound to purgatory.
+A permanent existence here cannot be maintained
+and minds that exist here grow tormented from the nature of the plane.
+
+Although it is not formally canon,
+it is commonly believed that the mind becomes acutely aware
+of each molecule of the the things to which it is bound,
+including the body and material possessions,
+causing the inherent torment of this state of existence.
+
+These minds must purge themselves of their attachments
+before dissolving into the aether.
 Being purged of attachments, a mind proceeds to Judgment.
-These minds must proceed to Judgment before they dissolve into the aether.
+Failure to do so is game over.
+Fortunately, this is the only level at which failure
+means losing the game.
 
 As a result of this doctrine, practices such as burial, embalming, mummification, etc.,
 known as Soul Harvesting, are considered perversions of the Divine Plan,
@@ -116,16 +131,30 @@ that grants mercy to a soul, allowing it to proceed to a "better" heaven after J
 
 [![Afterlife](https://img.youtube.com/vi/rf35zS131yg/0.jpg)](https://www.youtube.com/watch?v=rf35zS131yg)
 
+#### The Abyss
+(Non-canonical) a period of void before Judgment.
+
 #### Heavens and Hells
 By a process known as judgment, minds synchronize with planes of existence corresponding to their nature.
 There are Heavens and Hells for each chakra,
 and myriads beyond that.
+These are Astral planes--dream worlds--including elemental realms.
 - Heavens: benevolent minds inhabit these planes of existence and perform penances for other souls for a while before reincarnating to continue the process of transformation.
 - Hells: tormented minds are attracted to tormented places where they perform penances several times over for their sins before being allowed to reincarnate.
 
+The Heavens and Hells and reincarnation are not considered success,
+but they are not a failure, either:
+it is another chance--a literal extra life, if you will.
+
+Success in this life is attaining at least Level 4 Ascension--progressing
+to the next level of existence.
+
 ####  The Outer Heavens
-Beyond existence and beyond the comprehension of causal entities.
+Elsewhere called the Acausal realm,
+they are beyond existence and beyond the comprehension of causal entities.
 It is known to be fatal for a causal entity to look upon the true form of beings of the Outer Heavens.
+
+Attaining an existence in these realms is [winning the game](http://www.losethegame.net/).
 
 [![Celestial Beings](https://img.youtube.com/vi/4r5OgLFuykM/0.jpg)](https://www.youtube.com/watch?v=4r5OgLFuykM)
 
