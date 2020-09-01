@@ -114,6 +114,8 @@ Instead, it is encouraged that final procedings include an open-air cremation
 along with the customary skull-bashing
 that grants mercy to a soul, allowing it to proceed to a "better" heaven after Judgment.
 
+[![Afterlife](https://img.youtube.com/vi/rf35zS131yg/0.jpg)](https://www.youtube.com/watch?v=rf35zS131yg)
+
 #### Heavens and Hells
 By a process known as judgment, minds synchronize with planes of existence corresponding to their nature.
 There are Heavens and Hells for each chakra,
@@ -147,7 +149,7 @@ and approached with a scientific mind.
 [![Divine Books](https://img.youtube.com/vi/JnWPV3jZAoI/0.jpg)](https://www.youtube.com/watch?v=JnWPV3jZAoI&list=PLh4QY-6dLCJSSYwz2V8ZSOBqT4OVcfqdC)
 
 ### Miracles
-The manifestation of certain gifts imbued by the Angels of God.
+The manifestation of certain [gifts]({{ site.baseurl }}{% link _pages/siddhi.md %}) imbued by the Angels of God.
 
 ### The Divine Plan
 The Divine Plan is spiritual transformation.
