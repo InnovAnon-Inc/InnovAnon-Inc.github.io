@@ -167,15 +167,22 @@ and to enhance the cymatic effects of
 the base frequency.
 
 ### Scales, Modes and Chords
-A scale is a subset of the notes in the chromatic scale,
-and a layer of indirection.
-Here, the chromatic scale is implied to have twelve notes.
+Here, the chromatic scale is implied to have twelve notes,
+and is associated with other concepts such as time-keeping.
+
 Other chromatic scale lengths can be used,
 but they each require significantly more
 notes in order to get equal-enough spacing
 between them within the octave.
 
-Here, "scale" specifically refers to a septatonic scale.
+A scale is a subset of the notes in the chromatic scale,
+and a layer of indirection constructed
+with a sequence of intervals.
+This process of using a relatively prime subset length
+appears in several places in the harmonic fractal.
+
+Here, "scale" specifically refers to a septatonic scale,
+the notes being associated with the Seven Seals.
 The pentatonic scales can be treated as subsets
 of the septatonic scales,
 and are handled similarly to chords.
@@ -189,6 +196,11 @@ with certain qualities.
 Chords are subsets of the scale,
 and perform different functions in each mode.
 They comprise the vertical axis of harmony.
+
+The pentatonic scales are typically used
+to simplify melodic improvisation over
+a particular chord, usually helping to
+avoid non-harmonic tones.
 
 ### Tempo
 Entraining the heartbeat,
