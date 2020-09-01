@@ -51,5 +51,5 @@ and [creative works](https://soundcloud.com/innovanon-inc)
 are released to the [public domain](https://tldrlegal.com/license/unlicense),
 or, upon request, any other license you require,
 such as the [MIT License](https://tldrlegal.com/license/mit-license)
-or [BSD License](https://tldrlegal.com/license/bsd-3-clause-license-(revised)).
+or [BSD License](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29).
 
