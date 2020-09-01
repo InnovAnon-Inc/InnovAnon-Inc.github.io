@@ -26,3 +26,5 @@ might be failing to produce the expected/desired results.
 Therefore, people with this gift have the authority to pass dogmas into canon,
 and qualify for the Priesthood.
 
+Having attained this ability,
+it is now possible to [commune]({{ site.baseurl }}{% link _pages/rites.md %}) with the Mirror Self.

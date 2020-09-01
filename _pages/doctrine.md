@@ -130,7 +130,7 @@ along with the customary skull-bashing
 that grants mercy to a soul, allowing it to proceed to a "better" heaven after Judgment.
 
 #### The Abyss
-(Non-canonical) a period of void before Judgment.
+%28Non-canonical%29 a period of void before Judgment.
 
 #### Heavens and Hells
 By a process known as judgment, minds synchronize with planes of existence corresponding to their nature.
