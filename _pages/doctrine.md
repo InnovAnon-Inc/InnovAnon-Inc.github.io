@@ -27,7 +27,7 @@ by which the Divine Plan is carried out on an individual and Aeonic level.
   Dogmas involving the topology of the Heavenly Realms,
   however only the Outer Heavens are canonical.
 - Judgment:
-  The process by which consciousnesses are sorted into the Heaavenly Realms.
+  The process by which consciousnesses are sorted into the Heavenly Realms.
 - The Prophets:
   People throughout history who have had firsthand encounters with the Celestial Beings.
 - The Divine Books:
