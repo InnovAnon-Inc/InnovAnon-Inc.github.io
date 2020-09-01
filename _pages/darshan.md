@@ -8,7 +8,7 @@ layout: single
 {% include base_path %}
 
 This spiritual gift, known as Darshan Siddhi,
-can be attained by [transforming]({{ site.baseurl}}{% link _pages/alchemy.md %})
+can be attained by [transforming]({{ site.baseurl }}{% link _pages/alchemy.md %})
 the consciousness and by completing the prescribed
 courses of [study]({{ site.baseurl }}{% link _pages/study.md %})
 in the Divine Sciences.
