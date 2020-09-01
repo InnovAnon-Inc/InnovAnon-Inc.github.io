@@ -330,7 +330,7 @@ and it assists with attaining Continuation of Consciousness.
 
 ### Extra-Dimensional Graphics
 The ultimate aspect of the visual channel
-is 4-dimensional graphics.
+is 4-dimensional, non-euclidean graphics.
 Regular, extended viewing of such graphics
 enables you to dream in four dimensions--to
 enter into 4-dimensional dream worlds,
