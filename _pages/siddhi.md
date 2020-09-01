@@ -53,8 +53,8 @@ centering of focus to the state of pure awareness that underlies the cycle:
 
 There are two [rituals]({{ site.baseurl }}{% link _pages/rites.md %})
 to accelerate progress toward this level:
-- The Silver Key Ceremony:
-- The Dream Journal:
+- The Silver Key Ceremony
+- The Dream Journal
 
 ## Communion with Celestial Beings
 After entering the Dream Level 3,
