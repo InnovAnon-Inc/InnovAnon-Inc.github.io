@@ -325,7 +325,7 @@ and it assists with attaining Continuation of Consciousness.
 The ultimate aspect of the visual channel
 is 4-dimensional graphics.
 Regular, extended viewing of such graphics
-enables you to dream in four dimension--to
+enables you to dream in four dimensions--to
 enter into 4-dimensional dream worlds,
 marking the attainment of Level 4 Ascension.
 
