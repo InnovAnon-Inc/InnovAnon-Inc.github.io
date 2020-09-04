@@ -69,6 +69,8 @@ but we can try to ascertain fragments by His titles:
 - Undying
 - Without Birth
 - Self-Existent
+
+  [![Existence](https://img.youtube.com/vi/iInAgtSR0I0/0.jpg)](https://www.youtube.com/watch?v=iInAgtSR0I0)
 - The Way
 - The Light
 
@@ -198,6 +200,7 @@ Also known as the Final Judgment,
 this is a necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
 
 [![Armageddon](https://img.youtube.com/vi/trArQ8JPEno/0.jpg)](https://www.youtube.com/watch?v=trArQ8JPEno)
+[![Armageddon](https://img.youtube.com/vi/AniMTm6qdjI/0.jpg)](https://www.youtube.com/watch?v=AniMTm6qdjI)
 
 ### The Kingdom of Christ
 The Annointed One will establish a galactic kingdom.

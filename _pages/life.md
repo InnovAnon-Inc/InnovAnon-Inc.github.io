@@ -18,7 +18,7 @@ and formal baptism does not occur until
 an [advanced]({{ site.baseurl }}{% link _pages/siddhi.md %}) stage
 of spiritual development is attained.
 
-## Baptism
+## Baptism by Water
 A symbolic celebration, marking a rebirth.
 The official time for baptism is upon the attainment of Eternal Life,
 and again at the attainment of Level 4 [Ascension]({{ site.baseurl }}{% link _pages/alchemy.md %}),
@@ -28,6 +28,13 @@ and at a few points during the Neophyte Studies,
 as well as at any other time.
 
 Full submersion for a good while really makes it count.
+
+[![Rebirth](https://img.youtube.com/vi/39Cy4B8sIE8/0.jpg)](https://www.youtube.com/watch?v=39Cy4B8sIE8)
+
+## Holy Communion
+After attaining Eternal Life and celebrating the official baptism,
+it is possible to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) with Celestial beings,
+as well as performing the rite of Holy Communion.
 
 ## Ascension
 Daily rituals as well as

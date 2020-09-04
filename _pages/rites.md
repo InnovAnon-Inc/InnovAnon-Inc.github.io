@@ -168,8 +168,8 @@ but their primary purpose is to advance the Aeonic Great Work:
 - The Elemental Rites
 - The Ceremony of Seven Seals
 - The Ultimate Rite
-- Summoning a Familiar
-- Communion with the Mirror Self
+- Summoning a Celestial Being
+- Holy Communion
 
 By the time you unlock the ability to perform these rites and ceremonies,
 you will have meditated for countless hours.
@@ -215,7 +215,7 @@ and is neither necessary nor recommended.
 
 Having visited the elemental planes
 and unlocked the Seven Seals,
-it is possible to perform the Ultimate Rite and the Death Rite.
+it is possible to perform the Ultimate Rite and the Baptism by Fire.
 
 [![Dream Worlds](https://img.youtube.com/vi/aaKUzdN8Pqs/0.jpg)](https://www.youtube.com/watch?v=aaKUzdN8Pqs)
 
@@ -232,34 +232,35 @@ For the Ultimate Rite, you should use a Chaos Star
 with the desired number of dimensions,
 usually four.
 
-### Summoning a Familiar
+### Summoning a Celestial Being
 This ritual is not necessary,
-but is unlocked at this level.
-Although the spirit may appear to you in one form,
-it will probably choose to manifest in
-another more appropriate form (such as a dog or a cat).
+but is unlocked after having attained [Darshan Siddhi]({{ site.baseurl }}{% link _pages/darshan.md %}).
+It is not recommended to attempt this
+without having contributed to restoring
+the Garden of Eden.
 - While awake, locate a hole in the ground.
   This hole should be natural, but can be of any size.
 - While dreaming, return to the hole, and enter it.
   If successful, you will travel down a deep series of tunnels,
   ultimately coming out into another world--a large and natural place.
-- While in this realm, you can find what is known as a spirit animal.
+- In this realm, Celestial beings typical appear as animals.
+  Decide which physical form you want it to take,
+  and wander about until you find a Celestial being,
+  regardless of its form on this plane.
   Bring it back with you when you return to this realm.
-- Your familiar will physically arrive after a short time.
-  In addition to the standard contract for owning an animal,
-  you are expected to have it present whenever possible
-  when performing the various rites and ceremonies and meditations.
+- The Celestial being will physically appear after a short time.
  
 [![Familiars](https://img.youtube.com/vi/9nUE4av8lwY/0.jpg)](https://www.youtube.com/watch?v=9nUE4av8lwY)
 
-### Communion with the Mirror Self
+### Holy Communion
 Perform this rite after having attained [Darshan Siddhi]({{ site.baseurl }}{% link _pages/darshan.md %}).
 It is possible to use just about any focus for the Dhyana Meditation,
 including sigils, candles and even your own reflection,
 as in the Rite of the Mirror Self:
 - perform Dhyana Meditation using your reflection as a focus
 - your reflection will morph, no longer reflecting your physical body
-- you may choose to touch hands with your mirror self
+- touch hands with your mirror self.
+  This is like the union of matter and anti-matter.
 
 [![Reflection](https://img.youtube.com/vi/aCDi5RSEP7U/0.jpg)](https://www.youtube.com/watch?v=aCDi5RSEP7U)
 
@@ -274,7 +275,7 @@ and possibly even penances.
 - The Trial of the Adept
 - The Rite of the First Priest
 - The Trial of Classification
-- The Death Rite
+- Baptism by Fire
 
 A series of rites have been borrowed,
 due to their effectiveness.
@@ -313,7 +314,7 @@ It is recommended to attempt the Trial of Classification
 during some event such as a meteor shower, hurricane, tornado, etc.,
 as you attempt to hurl calamaties upon the servants of Satan.
 
-### The Death Rite
+### Baptism by Fire
 Someone attaining the status of Acolyte or higher attends a funeral in his own honor,
 merges consciousness with a dying soul and transports it to a different Heavenly Realm
 than it would have otherwise gone to. Particularly effective if carried out by an Ascended Master.

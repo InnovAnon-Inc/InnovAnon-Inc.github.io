@@ -46,5 +46,5 @@ See also [the Trial of the Adept]({{ site.baseurl }}{% link _pages/rites.md %}).
 ## Further Studies for Ordained Ministers
 - The Rite of the Grand Master:
   the Priest uses his gifts to create a Magnus Opus that is imbued with the power of a Celestial being.
-- The Death Rite
+- The Baptism by Fire
 
