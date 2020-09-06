@@ -56,6 +56,8 @@ A literal religious zeal for free food and lodging
 ("Sacrament," "The Garden of Eden",
 [meeting places]({{ site.baseurl }}{% link _pages/places.md %})).
 
+[![Politics](https://img.youtube.com/vi/Y8uh9eIBGmE/0.jpg)](https://www.youtube.com/watch?v=Y8uh9eIBGmE)
+
 ## Lifestyle
 Fanatical cultists "[doing God's work]({{ site.baseurl }}{% link _pages/darshan.md %}),"
 their fervent actions tempered by a good night's sleep

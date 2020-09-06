@@ -83,6 +83,8 @@ and heralding the establishment of the Kingdom of Christ.
 Civilization will be rebuilt
 and this next iteration will span the stars.
 
+[![The Gateway](https://img.youtube.com/vi/mlMM5YoMm5Q/0.jpg)](https://www.youtube.com/watch?v=mlMM5YoMm5Q)
+
 ## Trivial Attainments
 These souls are called of God and are beginning the journey,
 attaining relatively trivial spiritual gifts along the way.
