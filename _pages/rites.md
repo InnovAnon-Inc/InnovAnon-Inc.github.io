@@ -272,6 +272,9 @@ expanding your Aeonic consciousness:
 - making accessible prehistoric species,
   such as platypus, crocodile, sea urchin, shark or bee,
 - and ultimately primordial species.
+  Here, spirits will rarely manifest in the same form
+  in which you encounter them in the dream worlds.
+  For example, a raptor might manifest as jungle fowl--chickens.
  
 [![Familiars](https://img.youtube.com/vi/9nUE4av8lwY/0.jpg)](https://www.youtube.com/watch?v=9nUE4av8lwY)
 
