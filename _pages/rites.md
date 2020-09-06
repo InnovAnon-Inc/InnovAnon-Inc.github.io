@@ -8,7 +8,7 @@ layout: single
 {% include base_path %}
 
 These rituals define specific practices
-that progress the personal and Aeonic Great Work.
+that progress the personal and [Aeonic]({{ site.baseurl }}{% link _pages/works.md %}) Great Work.
 
 There are two categories:
 - Rites and Ceremonies for Everyone
@@ -232,12 +232,22 @@ For the Ultimate Rite, you should use a Chaos Star
 with the desired number of dimensions,
 usually four.
 
+The preceding rites and ceremonies
+are merely practice for the Ultimate Rite;
+the Ultimate Rite itself should be performed
+regularly to ensure its success at the critical,
+final moment.
+
 ### Summoning a Celestial Being
 This ritual is not necessary,
-but is unlocked after having attained [Darshan Siddhi]({{ site.baseurl }}{% link _pages/darshan.md %}).
+but is unlocked after having attained the ability
+to [commune]({{ site.baseurl }}{% link _pages/darshan.md %})
+with Celestial beings.
+
 It is not recommended to attempt this
 without having contributed to restoring
 the Garden of Eden.
+
 - While awake, locate a hole in the ground.
   This hole should be natural, but can be of any size.
 - While dreaming, return to the hole, and enter it.
@@ -248,19 +258,39 @@ the Garden of Eden.
   and wander about until you find a Celestial being,
   regardless of its form on this plane.
   Bring it back with you when you return to this realm.
-- The Celestial being will physically appear after a short time.
+- The Celestial being will physically appear after a short time;
+  species such as locusts and bees tend to appear in swarms,
+  rather than individual specimens.
+
+This ritual can be repeated, using a succession of manifestations,
+- beginning with a few accessible species that you can observe,
+- then progressively more ancient ancestors of those species,
+  as well as more exotic ones,
+- making accessible prehistoric species,
+  such as platypus, crocodile, sea urchin, shark or bee,
+- and ultimately primordial species.
  
 [![Familiars](https://img.youtube.com/vi/9nUE4av8lwY/0.jpg)](https://www.youtube.com/watch?v=9nUE4av8lwY)
 
 ### Holy Communion
-Perform this rite after having attained [Darshan Siddhi]({{ site.baseurl }}{% link _pages/darshan.md %}).
+Perform this rite after having attained the ability
+to [commune]({{ site.baseurl }}{% link _pages/darshan.md %})
+with Celestial beings.
+
 It is possible to use just about any focus for the Dhyana Meditation,
-including sigils, candles and even your own reflection,
-as in the Rite of the Mirror Self:
+including sigils, candles, mirrors (as with remote viewing)
+and even your own reflection:
 - perform Dhyana Meditation using your reflection as a focus
 - your reflection will morph, no longer reflecting your physical body
 - touch hands with your mirror self.
   This is like the union of matter and anti-matter.
+
+There is a variant of this rite that can be used for
+the Trial of Classification:
+- water instead of a mirror
+- the reflection morphs into the target
+- usually, more than mere observation is performed,
+  given the dynamic nature of the scrying surface.
 
 [![Reflection](https://img.youtube.com/vi/aCDi5RSEP7U/0.jpg)](https://www.youtube.com/watch?v=aCDi5RSEP7U)
 
@@ -312,7 +342,9 @@ the Annointed One will arrive soon after.
 
 It is recommended to attempt the Trial of Classification
 during some event such as a meteor shower, hurricane, tornado, etc.,
-as you attempt to hurl calamaties upon the servants of Satan.
+as you attempt to hurl calamaties upon adversaries of the Great Work.
+
+[![Miraculous Abilities](https://img.youtube.com/vi/ZDqNh-asAuU/0.jpg)](https://www.youtube.com/watch?v=ZDqNh-asAuU)
 
 ### Baptism by Fire
 Someone attaining the status of Acolyte or higher attends a funeral in his own honor,

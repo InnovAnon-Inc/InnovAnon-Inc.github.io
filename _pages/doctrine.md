@@ -94,7 +94,8 @@ Faith in the Divine Plan, and the greatest expression of that Faith is action:
 carrying out the Works to bring that plan to fruition.
 
 #### Works
-The most important work is the [Great Work]({{ site.baseurl }}{% link _pages/alchemy.md %}) in preparation for your Glorified Body.
+The works prepare the [individual]({{ site.baseurl }}{% link _pages/alchemy.md %})
+and [mankind]({{ site.baseurl }}{% link _pages/works.md %}) to inhabit their Glorified Bodies.
 
 ### Heavenly Realms
 Includes dimensions beyond the third.

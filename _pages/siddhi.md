@@ -43,6 +43,10 @@ to persist when you pass through the Filter between dreaming and waking, between
 This is the proverbial transformation from lead into gold:
 the Philosopher's Stone.
 
+This makes accessible to you myriad doors,
+such as the Elemental Rites, the Ceremony of Seven Seals
+and the Ultimate Rite.
+
 Regular practice of Delta level Dhyana Meditation grants this attribute--this
 centering of focus to the state of pure awareness that underlies the cycle:
 - waking     (jagrat,   ~16 hrs)

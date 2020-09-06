@@ -69,7 +69,7 @@ until knowledge of the Gospel has spread to the corners of the Earth.
 
 However, all is not lost for all the chaff:
 many will be transformed by Divine Grace
-and as the fruit of the Aeonic Alchemy.
+and as the fruit of the [Aeonic Alchemy]({{ site.baseurl }}{% link _pages/works.md %}).
 Many more will be awakened upon contact with the Celestial beings.
 
 When a critical mass of the population on this planet have the Lesser and Greater Attainments,
@@ -235,7 +235,8 @@ Such communion is commonly known as Darshan Siddhi,
 and makes you a prophet in your own right.
 
 At this point, you have unlocked the ability to commune with
-the [mirror self]({{ site.baseurl }}{% link _pages/rites.md %}).
+the [mirror self]({{ site.baseurl }}{% link _pages/rites.md %}),
+as in the Holy Communion.
 
 [![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
 

@@ -47,7 +47,7 @@ The Gospel is a mind-virus to which the masses need only be made privy.
 [Brainwashing]({{ site.baseurl }}{% link _pages/sound.md %}).
 
 ## Politics
-Post-civilized transhumanism.
+[Accelerationism]({{ site.baseurl }}{% link _pages/works.md %}) toward post-civilized transhumanism.
 Fairly egalitarian and even anarchistic,
 given the [lateral]({{ site.baseurl }}{% link _pages/ministers.md %}) nature
 of the [ecclesiastical hierarchy]({{ site.baseurl }}{% link _pages/government.md %}).

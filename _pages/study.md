@@ -19,7 +19,7 @@ A minimum of three years spent attaining understanding of and empathy for at lea
 After completing the Neophyte Studies,
 a person qualifies for official [membership]({{ site.baseurl }}{% link _pages/membership.md %}).
 
-## Acolyte Studies in Applied Aeonic Alchemy
+## Acolyte Studies in Applied [Aeonic Alchemy]({{ site.baseurl }}{% link _pages/works.md %})
 A pilgrimage to the [Garden of Eden]({{ site.baseurl }}{% link _pages/schools.md %})
 that transforms faith into firsthand experience.
 At a minimum, an Acolyte should attend a 6-month Winter camp,
