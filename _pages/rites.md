@@ -239,14 +239,14 @@ regularly to ensure its success at the critical,
 final moment.
 
 ### Summoning a Celestial Being
-This ritual is not necessary,
-but is unlocked after having attained the ability
+This ritual is unlocked after having attained the ability
 to [commune]({{ site.baseurl }}{% link _pages/darshan.md %})
-with Celestial beings.
+with Celestial beings, and performing the Elemental Rites.
 
 It is not recommended to attempt this
 without having contributed to restoring
-the Garden of Eden.
+the Garden of Eden (instead, use the
+Elemental gateways).
 
 - While awake, locate a hole in the ground.
   This hole should be natural, but can be of any size.
@@ -259,11 +259,14 @@ the Garden of Eden.
   regardless of its form on this plane.
   Bring it back with you when you return to this realm.
 - The Celestial being will physically appear after a short time;
-  species such as locusts and bees tend to appear in swarms,
+  species such as locusts and bees tend to appear in swarms
+  (which can be used with the Trial of Classification),
   rather than individual specimens.
 
 This ritual can be repeated, using a succession of manifestations,
+expanding your Aeonic consciousness:
 - beginning with a few accessible species that you can observe,
+  selected each corresponding to a classical element,
 - then progressively more ancient ancestors of those species,
   as well as more exotic ones,
 - making accessible prehistoric species,
