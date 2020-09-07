@@ -28,12 +28,15 @@ presented in six main categories:
 
 ## Philosophy
 Advaita Vedanta Sanatan Dharma; some form of Shaivism.
+Sinister Tradition, possibly even anti-cosmic.
 
 The name, "The Way of the Creator" being a play on words
 of the heretical concept, "The Cult of Brahma,"
-paying homage to its Left-Hand origins.
+paying homage to its Left-Hand origins,
+and is attributed to the (probably mythological)
+Mediocrates, Philosopher of the West.
 
-Sinister Tradition, possibly even anti-cosmic.
+[![Philosophy](https://img.youtube.com/vi/Y8uh9eIBGmE/0.jpg)](https://www.youtube.com/watch?v=Y8uh9eIBGmE)
 
 ## Religion
 Apocalyptic with an alarming rate of [martyrdom]({{ site.baseurl }}{% link _pages/history.md %}),
@@ -46,6 +49,8 @@ The Gospel is a mind-virus to which the masses need only be made privy.
 
 [Brainwashing]({{ site.baseurl }}{% link _pages/sound.md %}).
 
+[![Religion](https://img.youtube.com/vi/eWdBCEx531Y/0.jpg)](https://www.youtube.com/watch?v=eWdBCEx531Y)
+
 ## Politics
 [Accelerationism]({{ site.baseurl }}{% link _pages/works.md %}) toward post-civilized transhumanism.
 Fairly egalitarian and even anarchistic,
@@ -56,7 +61,7 @@ A literal religious zeal for free food and lodging
 ("Sacrament," "The Garden of Eden",
 [meeting places]({{ site.baseurl }}{% link _pages/places.md %})).
 
-[![Politics](https://img.youtube.com/vi/Y8uh9eIBGmE/0.jpg)](https://www.youtube.com/watch?v=Y8uh9eIBGmE)
+[![Politics](https://img.youtube.com/vi/RMLyWRwYy18/0.jpg)](https://www.youtube.com/watch?v=RMLyWRwYy18)
 
 ## Lifestyle
 Fanatical cultists "[doing God's work]({{ site.baseurl }}{% link _pages/darshan.md %}),"
@@ -77,6 +82,8 @@ for Adepts to go their own way,
 occasionally establishing their own spiritual lineages,
 for each one walks his own path.
 
+[![Lifestyle](https://img.youtube.com/vi/vXD1EJQCec0/0.jpg)](https://www.youtube.com/watch?v=vXD1EJQCec0)
+
 ## Religious Practices
 Presented in two spheres:
 - [Individual]({{ site.baseurl }}{% link _pages/alchemy.md %}) Worship
@@ -85,7 +92,7 @@ Presented in two spheres:
   + sitting and doing nothing
   + walking and doing nothing
   + looking at the sun
-  + listening to repetive rhythms of certain frequencies
+  + listening to bizarre, repetive rhythms
   + playing bizarre videogames
   + [camping trips]({{ site.baseurl }}{% link _pages/schools.md %})
   + fanatical obsession over some hobby,
@@ -99,6 +106,8 @@ Presented in two spheres:
   + drunken partying, possibly for several consecutive days
   + passing out drunk in the prayer room
   + more camping trips
+
+[![Religious Practices](https://img.youtube.com/vi/3WiR-pP2zqs/0.jpg)](https://www.youtube.com/watch?v=3WiR-pP2zqs)
 
 ## Goal
 To open a gateway to some form of abyss,
