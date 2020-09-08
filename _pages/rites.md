@@ -299,6 +299,7 @@ the Trial of Classification:
   given the dynamic nature of the scrying surface.
 
 [![Reflection](https://img.youtube.com/vi/aCDi5RSEP7U/0.jpg)](https://www.youtube.com/watch?v=aCDi5RSEP7U)
+[![Reflection](https://img.youtube.com/vi/s1l--cFaHys/0.jpg)](https://www.youtube.com/watch?v=s1l--cFaHys)
 
 ## Rites and Ceremonies for Priests
 The following rituals require a certain level of dedication

@@ -241,6 +241,7 @@ the [mirror self]({{ site.baseurl }}{% link _pages/rites.md %}),
 as in the Holy Communion.
 
 [![Dream Levels](https://img.youtube.com/vi/cLY2Mk1v0JE/0.jpg)](https://www.youtube.com/watch?v=cLY2Mk1v0JE)
+[![Dream Levels](https://img.youtube.com/vi/wxq_0wkhDA4/0.jpg)](https://www.youtube.com/watch?v=wxq_0wkhDA4)
 
 ## Greater Attainments
 Dream Level 4 is among the Greater Attainments,
@@ -319,4 +320,6 @@ Salvation grants the ability to dwell among God and the Celestial beings in the 
 
 Salvation is attained through Faith and Works;
 this is what you are working toward.
+
+[![Outer](https://img.youtube.com/vi/AAvpZShzVz4/0.jpg)](https://www.youtube.com/watch?v=AAvpZShzVz4)
 
