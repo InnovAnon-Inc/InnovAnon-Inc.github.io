@@ -111,7 +111,7 @@ After death:
 Some consciousnesses are bound by attachments to the material plane;
 they are bound to purgatory.
 A permanent existence here cannot be maintained
-and minds that exist here grow tormented from the nature of the plane.
+and minds that exist here grow [tormented](http://www.scpwiki.com/forum/t-12212578) from the nature of the plane.
 
 Although it is not formally canon,
 it is commonly believed that the mind becomes acutely aware
