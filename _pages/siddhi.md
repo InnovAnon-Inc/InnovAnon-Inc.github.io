@@ -11,7 +11,9 @@ Within the Divine Sciences, the field of Applied Spiritual Technologies involves
 There is a [classification]({{ site.baseurl }}{% link _pages/classification.md %}) system for
 measuring the degree to which these abilities manifest.
 
-There are ways to temporarily or permanently increase your attainments:
+There are ways to temporarily or permanently increase your attainments,
+including proper diet and alchemy, specific Sadhanas, etc.
+In other words:
 1. By birth:
    This is part of the hereditary transfer where the spiritually advanced parents transfer their superpowers to their offspring.
    It could also be that one can achieve a superpower because of the things they had achieved in their previous lives.
