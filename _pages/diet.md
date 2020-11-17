@@ -7,6 +7,16 @@ layout: single
 
 {% include base_path %}
 
+The Elixir of the Black Sun:
+how we refer to our dietary guidelines.
+In this perspective, your body is a machine;
+older perspectives see the body as a laboratory or a temple.
+Foods are medicines; medicines are foods.
+These substances are being mixed in the machine over a period of decades,
+along with various exercises and other practices, such as meditation,
+so that the machine can synthesize the philosopher's stone,
+also known as ambrosia or the divine nectar.
+
 This system will help get the most out of the food you eat,
 and create the correct feeling for meditation and alchemical works,
 while still allowing for some amount of enjoyment of worldly foods.
