@@ -12,7 +12,7 @@ There is a [classification]({{ site.baseurl }}{% link _pages/classification.md %
 measuring the degree to which these abilities manifest.
 
 There are ways to temporarily or permanently increase your attainments,
-including proper [diet]({{ site.baseurl }}{% _pages/diet.md %})
+including proper [diet]({{ site.baseurl }}{% link _pages/diet.md %})
 and alchemy, specific Sadhanas, etc.
 In other words:
 1. By birth:
