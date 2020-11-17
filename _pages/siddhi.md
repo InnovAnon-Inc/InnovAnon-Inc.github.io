@@ -12,7 +12,8 @@ There is a [classification]({{ site.baseurl }}{% link _pages/classification.md %
 measuring the degree to which these abilities manifest.
 
 There are ways to temporarily or permanently increase your attainments,
-including proper diet and alchemy, specific Sadhanas, etc.
+including proper [diet]({{ site.baseurl }}{% _pages/diet.md %})
+and alchemy, specific Sadhanas, etc.
 In other words:
 1. By birth:
    This is part of the hereditary transfer where the spiritually advanced parents transfer their superpowers to their offspring.
