@@ -68,7 +68,9 @@ Fanatical cultists "[doing God's work]({{ site.baseurl }}{% link _pages/darshan.
 their fervent actions tempered by a good night's sleep
 and a number of physically intensive [initiatory rituals]({{ site.baseurl }}{% link _pages/study.md %}).
 
-They are fueled by free food,
+[Anedia]({{ site.baseurl }}{% link _pages/diet.md %}),
+but, when they do eat,
+they are fueled by free food,
 eaten as ceremonial cannibalization of an Ascended Master,
 and in a drunken stupor from the ceremonial vampirization of the same Ascended Master.
 
