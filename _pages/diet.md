@@ -9,6 +9,7 @@ layout: single
 
 The Elixir of the Black Sun:
 how we refer to our dietary guidelines.
+
 In this perspective, your body is a machine;
 older perspectives see the body as a laboratory or a temple.
 Foods are medicines; medicines are foods.
@@ -40,12 +41,21 @@ these general guidelines should suffice:
 - max ?   cup dairy  daily
 - max ?   oz  meat   daily
 
-Fasting, on approximately weekly schedule:
+General fasting has three primary types:
 - 1 day only herbal tea
 - 1 day no food, no water
 - 1 day smoothies and shakes
 
-No water: ~8 glasses of herbal tea, usually unsweetened,
+Specific fasting is used to resensitize receptors and lower tolerances.
+
+Fasting discipline is divided into three levels:
+1. monthly cycle: any  type of fast is completed
+2. monthly cycle: each type of fast is completed
+3. weekly  cycle: any  type of fast is completed
+4. weekly  cycle: each type of fast is completed
+
+The No-Water Rule:
+~8 glasses of herbal tea, usually unsweetened,
 but optionally sweetened with fruit juice or milk.
 - after waking: usually soaked chia seeds and lemon juice or vinegar
 - before bathing
