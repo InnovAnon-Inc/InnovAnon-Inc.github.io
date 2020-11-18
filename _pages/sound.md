@@ -352,3 +352,8 @@ when we will attain the point of spiritual singularity,
 the apex of a spirituality-driven,
 technological civilization.
 
+[source](https://github.com/InnovAnon-Inc/HafrenHaver)
+[test](https://test.pypi.org/project/HafrenHaver/)
+[release](https://pypi.org/project/HafrenHaver/)
+[documentation](https://InnovAnon-Inc.github.io/HafrenHaver)
+

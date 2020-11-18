@@ -52,6 +52,10 @@ The course of the journey, by tier:
   + Ascension
   + Salvation
 
+The foods you eat affect your mental state,
+and the alchemical process is largely a mental one;
+there are dietary [recommendations]({{ site.baseurl }}{% link _pages/diet.md %}).
+
 ## The Chaff
 These souls are not destined to begin the journey,
 and are not involved in the spiritual life,
