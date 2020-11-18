@@ -9,6 +9,10 @@ layout: single
 
 This is a high level overview of the life of a practitioner.
 
+The daily life is described
+in [rites]({{ site.baseurl }}{% link _pages/rites.md %})
+and [diet]({{ site.baseurl }}{% link _pages/diet.md %}).
+
 ## Birth
 Birth is not a particularly special event in canon:
 the Covenant of Abraham is rejected,
