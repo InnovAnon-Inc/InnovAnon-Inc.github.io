@@ -57,6 +57,8 @@ If any death rites are performed,
 they involve open air cremation,
 as with burial at sea or the Hindu style,
 accompanied by the customary skull-bashing.
+Ashes are generally distributed into a river or ocean,
+calcinating the remains.
 
 The lack of death rites is not an undesirable fate,
 as with taking a final solitary pilgrimage to the Garden of Eden.

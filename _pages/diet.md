@@ -66,7 +66,7 @@ Limit the use of the normal staples.
 They are spiritually empty and clog the system.
 Instead they are used sparingly:
 - meat used as a seasoning or condiment, usually in the form of broth and bacon bits
-- grains, beans, starches used as a seasoning, such as breading or other filler
+- grains and beans used as a seasoning, such as breading or other filler
 
 Rather than the normal staples,
 the alchemical staples are:
@@ -82,4 +82,37 @@ Timing:
 - Cherry tea and cherry juice should be taken late in the day.
 
 Foods such as cherries and coffee must have periods of break to reset the tolerance.
+
+A day in the life with dietary schedule:
+
+Starting before Sunrise:
+- Dream Journal
+- 1: chia+ACV+water
+- Morning Meditation
+- 2: Moroccon green tea and mint
+- Rite of the Rising Sun
+- 3: herbal infusion
+- bathing
+
+Starting from just before Noon:
+- (daily activities)
+- 4: herbal infusion
+- (daily activities)
+- 5: herbal infusion
+- (daily activities)
+- 6: herbal infusion
+- meal time
+- hymns and/or gratitude journal
+
+Starting before Sunset:
+- 7: herbal infusion + ascorbic acid or citric acid
+- Rite of the Setting Sun
+- Rite of the Black Sun
+- (daily activities)
+
+Before Sleep:
+- put chia seeds to soak
+- 8: cherry tea+cherry juice
+- Evening Meditation
+- Silver Key Ceremony
 
