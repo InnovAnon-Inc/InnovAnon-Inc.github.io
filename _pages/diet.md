@@ -48,11 +48,14 @@ General fasting has three primary types:
 
 Specific fasting is used to resensitize receptors and lower tolerances.
 
-Fasting discipline is divided into three levels:
-1. monthly cycle: any  type of fast is completed
-2. monthly cycle: each type of fast is completed
-3. weekly  cycle: any  type of fast is completed
-4. weekly  cycle: each type of fast is completed
+Fasting discipline is divided into levels:
+1. eat at most once per day
+2. monthly cycle: any  type of fast is completed
+3. monthly cycle: each type of fast is completed
+4. weekly  cycle: any  type of fast is completed
+5. weekly  cycle: each type of fast is completed
+6. some form of fast more than half the days
+7. perpetual fasting, broken only to partake in sacraments
 
 The No-Water Rule:
 ~8 glasses of herbal tea, usually unsweetened,
