@@ -73,20 +73,29 @@ Instead they are used sparingly:
 
 Rather than the normal staples,
 the alchemical staples are:
-- vegetables, predominantly cooked
-- seeds such as: flaxseeds, hempseeds, chia seeds
-- nuts such as: peanuts, pistacchios, cashews
-- fruits such as lemons and cherries
-- mushrooms
+- the eternal stock
+- spices such as: nutmeg
+- flowers such as: passion flower, dandelion
 - acids from citrus and fermented foods
+- vegetables, predominantly cooked such as: ginger, tumeric
+- fruits such as: lemons and cherries
+- mushrooms
+- seeds such as: flaxseeds, hempseeds, chia seeds, morning glory seeds
+- nuts such as: peanuts, pistacchios, cashews
+
+Meals are eaten slowly, and in silence;
+each bite is chewed excessively.
+The meals are rich and necessarily have some
+number of herbs and/or spices.
 
 Timing:
 - Caffeine, such as coffee, tea and chocolate should be taken early in the day.
 - Cherry tea and cherry juice should be taken late in the day.
 
-Foods such as cherries and coffee must have periods of break to reset the tolerance.
+Foods such as cherries, morning glories and the various caffienated foods
+must have periods of break to reset the tolerance.
 
-A day in the life with dietary schedule:
+A day in the life with dietary schedule...
 
 Starting before Sunrise:
 - Dream Journal
