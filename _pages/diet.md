@@ -22,6 +22,16 @@ This system will help get the most out of the food you eat,
 and create the correct feeling for meditation and alchemical works,
 while still allowing for some amount of enjoyment of worldly foods.
 
+Before attempting anything contained herein,
+it will benefit your health to learn about breatharianism,
+research esoteric diets which have been used historically
+(i.e., the participants lived long and healthy lives),
+particularly yogic disciplines.
+
+Owner and management NOT responsible for
+injury or death resulting from the use
+of these technologies.
+
 The primary focus is on sustainability and
 giving life to what gives you life--the circle of life, if you will.
 These are the basic principles of an alchemical diet:
