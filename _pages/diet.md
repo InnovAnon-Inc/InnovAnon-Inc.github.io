@@ -32,85 +32,24 @@ Owner and management NOT responsible for
 injury or death resulting from the use
 of these technologies.
 
-The primary focus is on sustainability and
+One focus is sustainability and
 giving life to what gives you life--the circle of life, if you will.
 These are the basic principles of an alchemical diet:
 - plant back 10% sprouts, as a sort of tithe
 - vegetables should be harvested without killing, if possible, as seen with the Jains.
 - minimal kitchen waste (you can get a lot of mileage out of fruit and veggie peels)
 
-Next is to eat a diet that is conducive to alchemical works.
-Aside from specific diets prescribed by various Sadhanas,
-these general guidelines should suffice:
-- regular fasting
-- no water, use herbal tea instead
-- must use herbs/spices (medicinal/magickal properties)
-- grains, beans, meats and dairy are essentially limited to use as condiments.
-- max 1.5 cup grains daily, sprouted
-- max 1   cup beans  daily, sprouted
-- max ?   cup dairy  daily
-- max ?   oz  meat   daily
-
-General fasting has three primary types:
-- 1 day only herbal tea
-- 1 day no food, no water
-- 1 day smoothies and shakes
-
-Specific fasting is used to resensitize receptors and lower tolerances.
-
-Fasting discipline is divided into levels:
-1. eat at most once per day
-2. monthly cycle: any  type of fast is completed
-3. monthly cycle: each type of fast is completed
-4. weekly  cycle: any  type of fast is completed
-5. weekly  cycle: each type of fast is completed
-6. some form of fast more than half the days
-7. perpetual fasting, broken only to partake in sacraments
-
-The No-Water Rule:
-~8 glasses of herbal tea, usually unsweetened,
-but optionally sweetened with fruit juice or milk.
-- after waking: usually soaked chia seeds and lemon juice or vinegar
-- before bathing
-- 30 min before meal(s)
-- before sleeping: usually accompanying ascorbic acid or citric acid
-
-Limit the use of the normal staples.
-They are spiritually empty and clog the system.
-Instead they are used sparingly:
-- meat used as a seasoning or condiment, usually in the form of broth and bacon bits
-- grains and beans used as a seasoning, such as breading or other filler
-
-Rather than the normal staples,
-the alchemical staples are:
-- the eternal stock
-- spices such as: nutmeg
-- flowers such as: passion flower, dandelion
-- acids from citrus and fermented foods
-- vegetables, predominantly cooked such as: ginger, tumeric
-- fruits such as: lemons and cherries
-- mushrooms
-- seeds such as: flaxseeds, hempseeds, chia seeds, morning glory seeds
-- nuts such as: peanuts, pistacchios, cashews
-
 Meals are eaten slowly, and in silence;
 each bite is chewed excessively.
 The meals are rich and necessarily have some
 number of herbs and/or spices.
-
-Timing:
-- Caffeine, such as coffee, tea and chocolate should be taken early in the day.
-- Cherry tea and cherry juice should be taken late in the day.
-
-Foods such as cherries, morning glories and the various caffienated foods
-must have periods of break to reset the tolerance.
 
 A day in the life with dietary schedule...
 
 Starting before Sunrise:
 - Dream Journal
 - 1: chia+ACV+water
-- Morning Meditation
+- Morning Sacraments and Meditation
 - 2: Moroccon green tea and mint
 - Rite of the Rising Sun
 - 3: herbal infusion
@@ -137,4 +76,75 @@ Before Sleep:
 - 8: cherry tea+cherry juice
 - Evening Meditation
 - Silver Key Ceremony
+
+TODO weekly and monthly timelines
+
+Another focus is to eat a diet that is conducive to alchemical works.
+Aside from specific diets prescribed by various Sadhanas,
+these general guidelines should suffice:
+- regular fasting
+- no water, use herbal tea instead (also applies when cooking)
+- all foods/drinks must use some combination of herbs, spices and flowers
+- staples are vegetables, fruit, seeds and nuts
+- fruit is often fermented and soured to reduce sugar
+- traditional staples, such as grains, beans, meats and dairy are limited to use as condiments
+- max 1.5 cup grains daily, sprouted, preferrably fermented
+- max 1   cup beans  daily, sprouted, preferrably fermented
+- max ?   cup dairy  daily, preferrably fermented
+- max ?   oz  meat   daily, optionally fermented
+
+General fasting has three primary types:
+- 1 day only herbal tea
+- 1 day no food, no water
+- 1 day smoothies and shakes
+
+Specific fasting is used to resensitize receptors and lower tolerances.
+
+Fasting discipline is divided into levels:
+1. eat at most once per day
+2. monthly cycle: any  type of fast is completed
+3. monthly cycle: each type of fast is completed
+4. weekly  cycle: any  type of fast is completed
+5. weekly  cycle: each type of fast is completed
+6. some form of fast more than half the days
+7. perpetual fasting, broken only to partake in sacraments
+
+The No-Water Rule:
+~8 glasses of herbal tea, usually unsweetened,
+but optionally sweetened with fruit juice or milk.
+- after waking
+- before bathing
+- 30 min before meal(s)
+- before sleeping
+
+After waking, the drink is usually soaked chia seeds,
+lemon juice or vinegar, and some combination of cucumber, mint, jalapeno, etc.
+
+Before sleeping, the drink usually contains ascorbic acid or citric acid,
+and possible cherries.
+
+Limit the use of the normal staples.
+They are spiritually empty and clog the system.
+Instead they are used sparingly:
+- meat used as a seasoning or condiment, usually in the form of broth and bacon bits
+- grains and beans used as a seasoning, such as breading or other filler
+
+Rather than the normal staples,
+the alchemical staples are:
+- the eternal stock
+- spices such as: nutmeg
+- flowers such as: passion flower, dandelion
+- acids from citrus and fermented foods
+- vegetables, predominantly cooked such as: ginger, tumeric
+- fruits such as: lemons and cherries
+- mushrooms
+- seeds such as: flaxseeds, hempseeds, chia seeds, morning glory seeds
+- nuts such as: peanuts, pistacchios, cashews
+
+Timing:
+- Caffeine, such as coffee, tea and chocolate should be taken early in the day.
+- Cherry tea, cherry juice, poppy seeds should be taken late in the day.
+
+Foods such as cherries, morning glories and the various caffienated foods
+must have periods of break to reset the tolerance.
 

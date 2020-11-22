@@ -1,0 +1,27 @@
+version: 2.1
+
+jobs:
+  do_build:
+    docker:
+      - image: ?
+        auth:
+          username: $DOCKERHUB_USERNAME
+          password: $DOCKERHUB_PASSWORD
+      steps:
+        - checkout
+        - run: git submodule sync
+        - run: git submodule update --init
+        - run:
+            name: Build the Jekyll site
+            command: bundle exec jekyll build --source jekyll --destination jekyll/_site/docs/
+
+workflows:
+  version: 2.0
+  do_everything:
+    jobs:
+      - do_build:
+          filters:
+            branches:
+              ignore:
+                - gh-pages
+
