@@ -122,6 +122,26 @@ There are two variants of this meditation:
 - Sitting Meditation (zazen)
 - Walking Meditation (kinhin)
 
+### Void States
+Meditation reshapes your brain: grey matter is reallocated.
+Your amygdala shrinks, and your pineal gland grows.
+You are strengthening the connection between your brain's hemispheres.
+You are increasing the communication between the conscious and the subconscious.
+The results of meditation are the goal of meditation:
+meditation furthers your progress in the great work;
+the goal of meditation is ascension.
+
+1. 5 breaths: inhale light, exhale negativity, thoughts, etc.
+2. 5 breaths: inhale light, distribute it throughout body while exhaling
+3. (void state proper), several options:
+  - observe imagery
+  - reprogramming
+  - actively explore imagery
+4. visualize attainment of personal   goal (ascension)
+5. visualize attainment of collective goal (open the gate)
+
+[![Void States](https://img.youtube.com/vi/H72eKauPXx8/0.jpg)](https://www.youtube.com/watch?v=H72eKauPXx8)
+
 ## Lesser Attainments
 Having even the first trivial attainment,
 a person should have no difficulty getting to some point
