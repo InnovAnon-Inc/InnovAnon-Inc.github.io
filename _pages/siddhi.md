@@ -63,6 +63,8 @@ to accelerate progress toward this level:
 - The Silver Key Ceremony
 - The Dream Journal
 
+[![Immortality](https://img.youtube.com/vi/qleHXbefqjg/0.jpg)](https://www.youtube.com/watch?v=qleHXbefqjg&list=PLpk_thN6ll3vPT1r_AQG9WF9tZixvnIKC&index=3)
+
 ## Communion with Celestial Beings
 After entering the Dream Level 3,
 it is possible to [commune]({{ site.baseurl }}{% link _pages/darshan.md %}) directly with the Celestial Beings.

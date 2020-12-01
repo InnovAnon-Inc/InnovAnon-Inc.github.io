@@ -77,7 +77,32 @@ Before Sleep:
 - Evening Meditation
 - Silver Key Ceremony
 
+
+
+
+
 TODO weekly and monthly timelines
+
+The weekly and monthly timelines are merely suggestions.
+
+Weekly:
+- Sunday:    Fast from cannabis sacraments
+- Monday:    Fast from cannabis sacraments and food
+- Tuesday:   minimal cannabis sacraments
+- Wednesday: minimal cannabis sacraments
+- Thursday:  minimal cannabis sacraments
+- Friday:
+- Saturday:
+
+Monthly:
+- New  Moon: include poppy in the evening sacraments (1-2 days)
+- Waxing   : fungal or morning glory sacraments
+- Full Moon: include poppy in the evening sacraments (1-2 days)
+- Waning   : fungal or morning glory sacraments
+
+
+
+
 
 Another focus is to eat a diet that is conducive to alchemical works.
 Aside from specific diets prescribed by various Sadhanas,
@@ -144,7 +169,4 @@ the alchemical staples are:
 Timing:
 - Caffeine, such as coffee, tea and chocolate should be taken early in the day.
 - Cherry tea, cherry juice, poppy seeds should be taken late in the day.
-
-Foods such as cherries, morning glories and the various caffienated foods
-must have periods of break to reset the tolerance.
 
