@@ -40,7 +40,14 @@ you intervene in their pattern:
 you make the decision
 either to help or to harvest.
 
-Knowing them in life and in death
+You learn your own patterns.
+Fin would say, "shit rolls downhill."
+Recognizing this, you are empowered to say,
+"the buck stops here."
+With wisdom, you have the ability to break
+such karmic cycles.
+
+Knowing your food in life and in death
 makes your relationship more personal;
 it makes their sacrifice more meaningful.
 
