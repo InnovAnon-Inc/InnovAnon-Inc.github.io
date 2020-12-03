@@ -1,7 +1,7 @@
 ---
 title: "Circle of Life"
 categories:
-  - Master Fin
+  - Fin
 tags:
   - fin
 comments: true
