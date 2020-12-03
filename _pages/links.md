@@ -7,15 +7,26 @@ layout: single
 {% include base_path %}
 
 # Public Services
+
+### Free
 - [IA Web Server](http://InnovAnon-Inc.chickenkiller.com)
-- [IA Authenticated Web Server](https://InnovAnon-Inc.chickenkiller.com)
+- [IA IRC Server](irc://InnovAnon-Inc.chickenkiller.com:6667)
+
+### Authenticated
+- [IA Web Server](https://InnovAnon-Inc.chickenkiller.com)
 - [IA Virtual Temple](https://InnovAnon-Inc.chickenkiller.com:8443)
+- [IA IRC Server](irc://InnovAnon-Inc.chickenkiller.com:6697)
 
 # Internal Services (use at your own risk)
-- [HP Personal Web Server](http://lmaddox.chickenkiller.com)
-- [HP Authenticated Web Server](https://lmaddox.chickenkiller.com)
-- [HP Virtual Temple](https://lmaddox.chickenkiller.com:8443)
+
+### Free
+- [HP Web Server](http://lmaddox.chickenkiller.com)
 - [HP IRC Server](irc://lmaddox.chickenkiller.com:6667)
+
+### Authenticated
+- [HP Web Server](https://lmaddox.chickenkiller.com)
+- [HP Virtual Temple](https://lmaddox.chickenkiller.com:8443)
+- [HP IRC Server](irc://lmaddox.chickenkiller.com:6697)
 
 # 3rd part links, separated by category
 
