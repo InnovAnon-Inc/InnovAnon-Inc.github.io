@@ -40,3 +40,29 @@ helping the Gospel reach much further.
 Master Faust supercedes another priest of whom little is known.
 That priest has not been seen for over a decade.
 
+-----
+
+The lineage of spiritual mastery is distinct from the lineage of
+equestrian teachings pertaining to ethics, politics and other aspects
+of daily life, including tracking and replanting ancestral gardens.
+
+Master Fin (The End) learned first-hand from the natives
+how to be a part of this land,
+and spent several decades in solitude
+developing a personal insight into their teachings,
+making their wisdom accessible to contemporary Westerners.
+
+Master Fin completed the Rite of the Grand Master.
+
+Master Fin is succeeded by Master SS,
+who has devoted his efforts to realizing Fin's vision
+by building a tribe to return to the Hoop.
+
+Master SS completed the Rite of the Grand Master.
+
+[![Master Fin](https://img.youtube.com/vi/MoKJhuBscxc/0.jpg)](https://www.youtube.com/watch?v=MoKJhuBscxc&list=UUorykr-O92cCr3_RmhosnWg&index=1)
+
+-----
+
+Merchant and service specializations are not well-represented within the order.
+
