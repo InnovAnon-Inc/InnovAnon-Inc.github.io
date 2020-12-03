@@ -33,7 +33,7 @@ One of which, he called "IA" (ee-ah).
 Master Faust died in an accident while carrying out selfless service, qualifying him for martydom.
 
 Master Faust completed the Trial of the Adept,
-and was released from Apprenticeship.
+and was released from apprenticeship.
 He completed extraneous Rites of the First Priest,
 helping the Gospel reach much further.
 
@@ -46,19 +46,25 @@ The lineage of spiritual mastery is distinct from the lineage of
 equestrian teachings pertaining to ethics, politics and other aspects
 of daily life, including tracking and replanting ancestral gardens.
 
-Master Fin (The End) learned first-hand from the natives
-how to be a part of this land,
-and spent several decades in solitude
+The equestrian order of InnovAnon is currently headed by Master SS
+who has devoted his efforts toward realizing Master Fin's vision
+by building a tribe to return to the Hoop.
+
+Master SS was apprenticed by Master Fin,
+completed the Rite of the Grand Master
+and ascended to the High Chiefdom.
+
+Master SS supercedes Master Fin (The End)
+who learned first-hand from the natives
+how to be a part of this land
+and spent many decades in solitude
 developing a personal insight into their teachings,
 making their wisdom accessible to contemporary Westerners.
 
-Master Fin completed the Rite of the Grand Master.
-
-Master Fin is succeeded by Master SS,
-who has devoted his efforts to realizing Fin's vision
-by building a tribe to return to the Hoop.
-
-Master SS completed the Rite of the Grand Master.
+Master Fin completed the Rite of the Grand Master
+and planted innumerable acres of native human habitat
+before returning to civilization and successfully
+training several apprentices.
 
 [![Master Fin](https://img.youtube.com/vi/MoKJhuBscxc/0.jpg)](https://www.youtube.com/watch?v=MoKJhuBscxc&list=UUorykr-O92cCr3_RmhosnWg&index=1)
 
