@@ -62,7 +62,7 @@ Accessing this state of pure awareness
 is called flow or grace.
 
 Observe the fruits of your actions
-without resting on your accomplishments
+without resting on your laurels
 or dwelling on your failures.
 Just observe, learn and reconcile if possible.
 
