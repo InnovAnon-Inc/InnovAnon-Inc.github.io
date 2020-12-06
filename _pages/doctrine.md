@@ -194,10 +194,19 @@ The manifestation of certain [gifts]({{ site.baseurl }}{% link _pages/siddhi.md 
 The Divine Plan is spiritual transformation.
 
 ### The Garden of Eden
-A literal garden, of which [few fragments remain]({{ site.baseurl }}{% link _pages/schools.md %}), that once encompassed the entire planet where people can live in the same state of freedom as Adam.
+A literal garden, of which [few fragments remain]({{ site.baseurl }}{% link _pages/schools.md %}),
+that once encompassed the entire planet where people can live in the same state of freedom as Adam.
+
+Master Fin carried on from the natives the teaching that a hybrid species was created "somewhere near Mesopotamia."
+Fin said that, coming out of the last ice age, our ancestors swore not to rebuild civilization,
+but that, "somewhere in Asia," they decided that civilization might be possible with a beast of burden,
+and so they created a hybrid species that could comprehend its own mortality, making it enslavable.
+Interbreeding with this lesser species, the creators went extinct and we are all that's left:
+Homo Sapiens Domesticus/Infernus.
 
 [![Hybrids](https://img.youtube.com/vi/LgDIX7knhrk/0.jpg)](https://www.youtube.com/watch?v=LgDIX7knhrk)
 [![Hybrids](https://img.youtube.com/vi/1TzubFrbxd0/0.jpg)](https://www.youtube.com/watch?v=1TzubFrbxd0)
+[![Slaves](https://img.youtube.com/vi/cFTamFEXvno/0.jpg)](https://www.youtube.com/watch?v=cFTamFEXvno)
 
 ### Armageddon
 Also known as the Final Judgment,
