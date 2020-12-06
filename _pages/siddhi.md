@@ -29,6 +29,9 @@ In other words:
 5. Samadhi:
    This is achieved when one achieves unity with the consciousness, obtaining extraordinary powers.
 
+The first primary ability is The Calling, or vairyaga,
+meaning the desire for spirituality.
+
 There are three main categories of Miraculous Abilities,
 which are generally attained in the order which they are presented,
 and a fourth category which begins to develop at various points in your journey.

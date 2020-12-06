@@ -196,6 +196,9 @@ The Divine Plan is spiritual transformation.
 ### The Garden of Eden
 A literal garden, of which [few fragments remain]({{ site.baseurl }}{% link _pages/schools.md %}), that once encompassed the entire planet where people can live in the same state of freedom as Adam.
 
+[![Hybrids](https://img.youtube.com/vi/LgDIX7knhrk/0.jpg)](https://www.youtube.com/watch?v=LgDIX7knhrk)
+[![Hybrids](https://img.youtube.com/vi/1TzubFrbxd0/0.jpg)](https://www.youtube.com/watch?v=1TzubFrbxd0)
+
 ### Armageddon
 Also known as the Final Judgment,
 this is a necessary reset to restore the Garden of Eden and to establish the Kingdom of Christ.
