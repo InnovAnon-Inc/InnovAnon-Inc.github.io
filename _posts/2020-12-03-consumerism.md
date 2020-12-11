@@ -21,10 +21,10 @@ You're doing it wrong.
 
 It's fine to not have the desire to pursue higher things,
 per se. Admittedly, the desire to do so is considered an
-extraordinary ability--your first supernatural ability,
-called vairyaga siddhi.
+[extraordinary ability]({{ site.baseurl }}{% link _pages/siddhi.md %})--your
+first supernatural ability, called vairyaga siddhi.
 
-So, say alchemy is not for you.
+So, say [alchemy]({{ site.baseurl }}{% link _pages/alchemy.md %}) is not for you.
 Instead, fulfilling your base desires
 is all you want to do.
 Well, even then, you are going about it
@@ -59,7 +59,8 @@ There's some state of pure awareness underlying our
 consciousness, and indeed the all minds.
 
 Accessing this state of pure awareness
-is called flow or grace.
+is called flow or grace,
+and persistent grace is called turiya siddhi.
 
 Observe the fruits of your actions
 without resting on your laurels
