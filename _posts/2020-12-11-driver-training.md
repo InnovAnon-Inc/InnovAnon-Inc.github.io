@@ -37,6 +37,9 @@ services for cashback and rewards:
 Optionally, open investment and trading accounts,
 and even cloud mining contracts:
 - [Webull](https://act.webull.com/ie/w2sYc76nlH1e/wqg/inviteUs/recommend_1548_A_advert)
+- [Robinhood](https://join.robinhood.com/laurenm778)
+- [Acorns](https://acorns.com/invite/GNXLFE)
+- [Coinseed](https://download.coinseed.co/BK20EQDvD5)
 - [Bittrex](https://bittrex.com/Account/Register?referralCode=3Q1-L01-2SS)
 - Genesis Mining
 
