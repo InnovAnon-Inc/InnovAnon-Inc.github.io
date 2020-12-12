@@ -125,6 +125,10 @@ to help you evaluate and adjust your competency.
 
 -----
 
+TODO taxes
+
+-----
+
 Disclaimer! All proceeds from advertising, mining, affiliate links, trading, etc.,
 are donated to InnovAnon, Inc. (Ministries) and used for operation expenses.
 
