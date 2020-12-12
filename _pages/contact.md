@@ -36,3 +36,7 @@ Dev:
 Miscellaneous:
 - [![Donate to Science](https://boincstats.com/signature/-1/user/2354783/sig.png)](https://www.boincstats.com/bam)
 
+Authenticated:
+- [slack](https://innovanon.slack.com/)
+- [IRC](irc://lmaddox.chickenkiller.com:6697)
+
