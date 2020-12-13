@@ -142,6 +142,9 @@ author:
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://pinterest.com/pw/InnovAnon"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: "https://keybase.com/pw/InnovAnon"
 
 # Site Footer
 footer:
