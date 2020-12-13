@@ -4,16 +4,6 @@ layout: archive
 
 {{ content }}
 
-<!-- FB: put toward top -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="DK1E4NGf"></script>
-
-<!-- FB: put anywhere -->
-<div class="fb-page" data-href="https://www.facebook.com/InnovAnon/" data-tabs="timeline" data-width="500" data-height="700" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/InnovAnon/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/InnovAnon/">InnovAnon, Inc.</a></blockquote></div>
-
-<!-- Twitter -->
-<a class="twitter-timeline" data-width="500" data-height="700" data-theme="dark" href="https://twitter.com/InnovAnon?ref_src=twsrc%5Etfw">Tweets by InnovAnon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
