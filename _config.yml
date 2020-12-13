@@ -119,19 +119,19 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-      #url: "https://twitter.com/InnovAnon"
+      url: "https://twitter.com/InnovAnon"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-      #url: "https://facebook.com/InnovAnon"
+      url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-      #url: "https://github.com/InnovAnon-Inc"
+      url: "https://github.com/InnovAnon-Inc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      #url: "https://instagram.com/innovanon88"
+      url: "https://instagram.com/innovanon88"
 
 # Site Footer
 footer:
