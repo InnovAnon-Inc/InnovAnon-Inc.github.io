@@ -24,14 +24,15 @@ subtitle                 : "Free Code for a Free World" # site tagline that appe
 name                     : "Innovations Anonymous"
 description              : "InnovAnon,InnovAnon-Inc,Innovations Anonymous,Free Code for a Free World,Code Monks,Code Seva,Human Programming,Human Programming Technology"
 url                      : https://InnovAnon-Inc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#twitter_username         : "InnovAnon"
-#github_username          : "InnovAnon-Inc"
+twitter_username         : "InnovAnon"
+github_username          : "InnovAnon-Inc"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : InnovAnon-Inc/InnovAnon-Inc.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/3600x3600.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 #comments:
 #  #provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -74,7 +75,7 @@ naver_site_verification  :
 twitter:
   username               : InnovAnon
 facebook:
-  username               :
+  username               : InnovAnon
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -90,7 +91,7 @@ analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-34746889-2
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
@@ -98,7 +99,7 @@ author:
   name             : "Innovations Anonymous"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >-
-    Christian ministry and order of code monks
+    Ministry and order of code monks
     doing research in the Divine Sciences
     and applied spiritual technologies
     for the spiritual advancement of
@@ -110,21 +111,27 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+      # url: mailto:InnovAnon-Inc@protonmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+      url: "https://InnovAnon-Inc.chickenkiller.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+      #url: "https://twitter.com/InnovAnon"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+      #url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
+      #url: "https://github.com/InnovAnon-Inc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+      #url: "https://instagram.com/innovanon88"
 
 # Site Footer
 footer:
@@ -132,12 +139,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+      #url: "https://twitter.com/InnovAnon"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
+      #url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
+      #url: "https://github.com/InnovAnon-Inc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,6 +157,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+      #url: "https://instagram.com/innovanon88"
 
 
 # Reading Files
@@ -369,6 +380,13 @@ staticman:
   #   authorUrl: "url"
   #   content: "message"
   #   type: "comment"
+  akismet:
+    enabled: true
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
 
   # Name of the site. Used in notification emails.
   name: "InnovAnon, Inc. (Ministries) Home Page"
@@ -377,8 +395,10 @@ staticman:
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   # notifications:
+  notifications:
     # Enable notifications
     # enabled: true
+    enabled: false
 
     # (!) ENCRYPTED
     #

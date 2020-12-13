@@ -60,6 +60,13 @@ comments:
   #   authorUrl: "url"
   #   content: "message"
   #   type: "comment"
+  akismet:
+    enabled: true
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
 
   # Name of the site. Used in notification emails.
   name: "InnovAnon, Inc. (Ministries) Home Page"
@@ -68,8 +75,10 @@ comments:
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   # notifications:
+  notifications:
     # Enable notifications
     # enabled: true
+    enabled: false
 
     # (!) ENCRYPTED
     #

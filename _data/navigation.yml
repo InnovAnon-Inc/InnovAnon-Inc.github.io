@@ -8,6 +8,8 @@ main:
     url: /about/
   - title: "Contact Us"
     url: /contact/
+  - title: "Social"
+    url: /social/
   - title: "Category Archive"
     url: /categories/
   - title: "Collection Archive"
