@@ -116,14 +116,6 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
       url: "https://InnovAnon-Inc.chickenkiller.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-      url: "https://twitter.com/InnovAnon"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-      url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -132,6 +124,17 @@ author:
       icon: "fab fa-fw fa-bitbucket"
       # url: "https://bitbucket.org/"
       url: "https://bitbucket.org/InnovAnon-Inc"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/company/innovanon-inc"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+      url: "https://twitter.com/InnovAnon"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+      url: "https://facebook.com/InnovAnon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,14 +143,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-      url: "https://twitter.com/InnovAnon"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-      url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -159,6 +154,17 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
       url: "https://bitbucket.org/InnovAnon-Inc"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/company/innovanon-inc"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+      url: "https://twitter.com/InnovAnon"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+      url: "https://facebook.com/InnovAnon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
