@@ -128,6 +128,10 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
       url: "https://github.com/InnovAnon-Inc"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url: "https://bitbucket.org/"
+      url: "https://bitbucket.org/InnovAnon-Inc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,25 +143,26 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-      #url: "https://twitter.com/InnovAnon"
+      url: "https://twitter.com/InnovAnon"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-      #url: "https://facebook.com/InnovAnon"
+      url: "https://facebook.com/InnovAnon"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-      #url: "https://github.com/InnovAnon-Inc"
+      url: "https://github.com/InnovAnon-Inc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+      url: "https://bitbucket.org/InnovAnon-Inc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-      #url: "https://instagram.com/innovanon88"
+      url: "https://instagram.com/innovanon88"
 
 
 # Reading Files
