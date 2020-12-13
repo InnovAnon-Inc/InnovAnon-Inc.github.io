@@ -139,6 +139,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
       url: "https://instagram.com/innovanon88"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://pinterest.com/pw/InnovAnon"
 
 # Site Footer
 footer:
@@ -169,6 +172,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
       url: "https://instagram.com/innovanon88"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://pinterest.com/pw/InnovAnon"
 
 
 # Reading Files
