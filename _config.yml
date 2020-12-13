@@ -142,9 +142,15 @@ author:
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://pinterest.com/pw/InnovAnon"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/innovanon-inc"
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/innovanon"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/InnovAnon"
 
 # Site Footer
 footer:
@@ -178,9 +184,15 @@ footer:
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://pinterest.com/pw/InnovAnon"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/innovanon-inc"
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
       url: "https://keybase.io/innovanon"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/InnovAnon"
 
 
 # Reading Files
