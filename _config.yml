@@ -168,9 +168,9 @@ author:
     - label: "Paypal"
       icon: "fab fa-fw fa-paypal"
       url: "https://www.paypal.me/InnovAnon"
-    - label: "Email (Operations)"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+    #- label: "Email (Operations)"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  # url: mailto:your.name@email.com
     - label: "Email (Activism & Outreach)"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:InnovAnon-Inc@gmx.com
