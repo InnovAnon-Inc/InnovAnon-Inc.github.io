@@ -171,7 +171,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-      # url: mailto:InnovAnon-Inc@protonmail.com
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:InnovAnon-Inc@gmx.com
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:InnovAnon-Inc@tutanota.com
 
 # Site Footer
 footer:
