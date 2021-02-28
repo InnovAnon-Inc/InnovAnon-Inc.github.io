@@ -9,6 +9,6 @@ IRC:
 - [![FreeNode](https://kiwiirc.com/buttons/chat.freenode.net/InnovAnon.png)](https://kiwiirc.com/client?settings=9a8200094577cfb47c3c864b7bef6b56)
 
 Authenticated:
-- [slack](https://innovanon.slack.com/)
+- [slack](https://uiz.io/C9jSps)
 - [IRC](irc://lmaddox.chickenkiller.com:6697)
 

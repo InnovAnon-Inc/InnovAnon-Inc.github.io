@@ -20,7 +20,7 @@ layout: single
 # Internal Services (use at your own risk)
 
 ### Free
-- [HP Web Server](http://lmaddox.chickenkiller.com)
+- [HP Web Server](https://uiz.io/ccum)
 - [HP IRC Server](irc://lmaddox.chickenkiller.com:6667)
 
 ### Authenticated
