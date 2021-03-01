@@ -187,12 +187,12 @@ author:
     - label: "E-mail (Miscellaneous)"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:InnovAnon-Inc@tutanota.com
-    - label: "Call"
-      icon: "fas fa-fw fa-envelope-square"
-      url: tel:+18014487855
-    - label: "Text"
-      icon: "fas fa-fw fa-envelope-square"
-      url: sms:+18014487855
+    #- label: "Call"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: tel:+18014487855
+    #- label: "Text"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: sms:+18014487855
 
 # Site Footer
 footer:
