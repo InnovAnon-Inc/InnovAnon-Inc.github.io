@@ -17,6 +17,9 @@ header:
 ##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ---
 
+Just because system administration and other tech stuff can be complicated,
+it doesn't mean that you have to forgo these niceties.
+
 1. Create a corporate e-mail address, and authorize your sys admin.
    We use gmx, because:
    - it's not google.
