@@ -44,6 +44,152 @@ each bite is chewed excessively.
 The meals are rich and necessarily have some
 number of herbs and/or spices.
 
+
+
+
+
+NOTE the dietary guidelines are a work in progress,
+requiring many hours of research from our clergy,
+as well as many years of testing on human subjects.
+
+The dietary guidelines are a complex issue and there is no formal, universal canon.
+Different guidelines are decreed by various clergy.
+Apprentices and laymen should refer to their local clergy for clarification.
+
+The dietary restrictions began to be formalized only about 1-2 decades ago,
+when Master Faust and his apprentice discovered a correlation between
+diet and student progress in occult studies.
+
+Since that time, the guidelines have undergone several revisions,
+from banning processed foods, banning grains and beans,
+preferring raw foods, allowing grains and beans under certain conditions, etc.
+
+This is a regressive Western Neo-Pagan tradition.
+Although our spiritual lineage is poorly-tracked, it was probably made up by some edgy goth in the 80s or 90s.
+The tradition has always been focused on practice, and had little in the way of formal theory or rules.
+As it has matured and the clergy has gained deeper familiarity with world traditions,
+commonalities have been identified, some terminology has been borrowed and some practices have been emulated.
+On one hand, the metaphysical aspects have reached deeper into the past, striving to discover some original occult truth,
+and on the other hand, the pragmatic aspects have continued to adapt to the contemporary era.
+
+There was a period when the dietary guidelines mostly borrowed from yogic traditions,
+and so meats, dairy and eggs were banned. Indeed, eating anything dead was forbidden.
+
+After integrating some native american influences, veganism was no longer required.
+A purely carniverous variant of the dietary guidelines was introduced.
+
+In the current version, we use traditional foods and preparation techniques as a baseline,
+and merely attempt to elaborate on and explain these principles.
+
+First we will clarify some definitions.
+"Traditional foods," certainly means pre-industrialized,
+but is often assumed to mean pre-civilized.
+
+"Food," otherwise referred to as "The Elixir of the Black Sun,"
+in religious contexts is only "food" if it is harvested and prepared
+according to these guidelines. Otherwise, it is referred to as "keik"
+(commonly pronounced "keek," latinized pronunciation "cake," germanicized pronunciation ellided, etc.),
+and it is not considered "food."
+
+Other traditions refer to "food," as "kosher," "halaal," or "jhatka,"
+and refer to "keik," as "treif," "herem," or "haraam."
+
+Since the baseline is precivilization, wild or otherwise freerange foods,
+including vegetables and animals, are "food," or have the potential to be
+processed into "food." Many wild varieties must be harvested at the right time (and possibly
+after the right Winter conditions), and often have involved processes to remove toxins.
+Acorns, for example, become "food" after the tanins are leeched out.
+
+Some wild or freerange foods should be captured and kept in a controlled environment
+for a short time before harvesting. Specifically, bugs, shellfish and other bottom feeders,
+should be gut loaded.
+
+Some foods may be captured and kept in a controlled environment for extended periods.
+Microgreens are specifically allowed for, but they should be heirloom strains.
+This can help prevent overgrazing in civilized settings.
+The process for microgreens is not to be applied to animals; it is keik to harvest flesh without slaughtering.
+
+Grains, beans, nuts, seeds, etc., should use some combination of sprouting, nixtamalization, cooking, fermenting, etc.
+
+Tithing is necessary for the conversion to "food." Without proper tithing, there is no food.
+Tithing cannot be done by proxy, except in extreme scenarios.
+Stephen Hawking, for example, would be allowed to tithe by proxy if his chair could not be fitted with a jetpack.
+Master Fin decreed that tithes must be paid to the wilderness.
+Less fundamentalist clerics assert that tithes can be paid to any publicly accessible land,
+allowing, for example, planting a fruit tree on your front lawn.
+
+10% of all sprouts must be replanted.
+Grains, beans, nuts, seeds, etc., are generally sprouted, then tithed.
+Foods, such as potatoes, which should not be eaten sprouted, should be tithed, then sprouted.
+Foods such as onions can be regrown from the root.
+Rather than offering one out of every ten onions, it is acceptable to offer to roots of each onion.
+Foods such as tomatoes are regrown from the seed.
+Rather than offering one out of every ten tomatoes, it is acceptable to offer the seeds from each tomato.
+Apple seeds have medicinal uses. In their case, one out of every ten apple seeds should be offered.
+
+It important to verify at a later date whether your tithe was accepted.
+If the plant does not grow, then the tithe was not accepted and you must adjust your tithing strategy in the future.
+For example, we had a period of several years during which potatoes were not able to be tithed properly, and so all potato dishes were keik.
+The potatoes were being improperly stored in too cold of conditions prior to offering.
+Now that the problem has been identified, we are again able to make potato-based food.
+However, varmints were digging out the sprouted potatoes, invalidating the tithes.
+And so we began to dig up the rock-mosaic from beneath the soil, and put it back into its proper place, making the potatoes inaccessible to the varmints.
+
+Not all tithes are created equal.
+Your net native human habitat production should be greater than your net consumption.
+If you are inept at tithing, then you will have to tithe more than 10%.
+If you are skilled at tithing, then one shit is worth a mountain of berries, and you need not concern yourself with the 10% rule.
+
+Tithing meat is more involved. It is the highest form of tithing, and requires a wholistic knowledge of the ecosystem.
+Ultimately, as apex predators, we eat the same vegan diet as the rabbits or the hippies, albeit by proxy.
+In order to tithe meat, you must plant the same gardens as the vegans do when they tithe.
+You give life to the plants, which give life to the animals, which, in turn give life to you.
+It is necessary to plan where the gardens are, where the grazing fields are, and where the forest buffers are.
+
+There should not be a lot of kitchen waste.
+Onion skins are useful for infusions.
+For citrus, the pulp, zest and rind can all be used.
+Even mango peels can be pickled and eaten.
+Bones, once the gelatin is extracted, are crushable by hand
+and can be consumed by humans and animals.
+
+Traditionally, this kitchen waste is mixed with wood ash and allowed to compost.
+Caution should be taken in the case of fire pits and bare spots left by tents, teepees, etc.
+Anything can grow in these bare spots, and so it is our imperative as a keystone species to select
+what will grow in these places.
+You must plant native human habitat.
+
+Master Fin advised that you will know whether you have been eating proper "food," by inspecting your stool.
+It should be firm, clean pellets like a rabbit or a deer.
+
+"Food" must be free. Freedom is life. Captivity is spiritual death.
+"Food" must be offered up to be imbued with life essence.
+Otherwise, it is "keik," and imbued with death essence.
+
+Survival scenarios are accounted for.
+In the case that there is no "food," or only "keik" is available,
+causing reasonable likelihood of one's imminent demise or irreversible harm,
+socially taboo forms of flesh may be consumed with the caveat
+that this will be fatal in the long term.
+
+Oral traditions allude to more extreme clergy liberally interpreting "survival scenarios,"
+particularly within the Guardian tradition.
+It should be noted that Guardians, although living martyrs,
+were regarded as contagiously unclean, untouchable conduits of death essence.
+
+Plain water is not considered "food."
+Fire or sunlight generally should be applied to it,
+to create some form of infusion or extraction.
+Instead of water, herbal infusions are quaffed.
+In cooking, water is often substituted with, e.g., onion-skin tea.
+
+Ideally, meals should be eaten no more than once per day.
+
+
+
+
+
+
 A day in the life with dietary schedule...
 
 Starting before Sunrise:
