@@ -24,6 +24,7 @@ when the Celestial beings will again live among us for a time.
 InnovAnon, Inc. implements an idea which we refer to as the Way of the Creator.
 A "Way" is a Path or a Dharma or a Tao.
 The Creative aspect of God has been referred to as Brahma and Azathoth.
+More specifically, it is an application of Adversarial Sanatan Dharma.
 
  1. [Legal]({{ site.baseurl }}{% link _pages/legal.md %})
  2. [Creed and Form of Worship]({{ site.baseurl }}{% link _pages/creed.md %})
