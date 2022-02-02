@@ -83,7 +83,7 @@ We acknowledge the concept of angels both as anthropomorphic (to a degree) and a
 [![Celestial Beings](https://img.youtube.com/vi/ZXHmnn0BmeU/0.jpg)](https://www.youtube.com/watch?v=ZXHmnn0BmeU)
 
 ### The Glorified Body
-A body that can exist in the Outer Heavens.
+A body that can exist in the Outer Heavens. It is only available to L3 humans.
 
 ### Salvation by Faith and Works
 Eternal Life, otherwise known as Salvation, is attained
@@ -190,6 +190,48 @@ and approached with a scientific mind.
 ### Miracles
 The manifestation of certain [gifts]({{ site.baseurl }}{% link _pages/siddhi.md %}) imbued by the Angels of God.
 
+The primary miracle is the existence of the soul--a nexus between our causal realm and the Heavens.
+All living things, and possibly even rocks and rivers, have a soul;
+the degree of sophistication of the soul determines its ability to bind to different mortal vessels.
+This degree of sophistication lies on a spectrum with new/underdeveloped consciousnesses near zero;
+it is hypothesized that all conscious entities possess a non-zero "amount" of soul, elsewhere referred to as "humanity."
+
+The amount of soul/humanity an entity possesses has a basis in neurophysiology and has a high degree of heritability.
+Standard/normal/typical humans possess neigh-zero soul, and are referred to as L1 humans, elsewhere referred to as NPCs.
+Through Faith and Works during their lifetime, they can gain the ability to bind to lower lifeforms,
+allowing them to reincarnate as, e.g., flatworms, etc,., thus beginning their great journey to becoming L2 humans.
+It is commonly believed in Dharmic traditions that a soul must undertake this ladder of progression to become human.
+
+The difference between L1 and L2 humans has theoretical implications for artifical life,
+as modern algorithms pass the Turing test more easily than L1 humans.
+Modern algorithms have more sophisticated semantic parsing than L1 humans,
+which appear to use an elementary keyword-scanning heuristic.
+
+Some believe that robotics has made L1 humans obselete.
+Others hypothesize that L1 humans may be required for manufacturing new souls.
+
+L1 humans have near-zero empathy, as empathy is a hallmark of humanity/soul.
+Throughout many incarnations, wherein they experience first-hand the lifecycle of the sundry lifeforms,
+such as microbes, fungi, centipedes, etc., L1 humans develop empathy, thereby increasing their humanity.
+
+This is self-evident: L1 humans perceive L2 humans as being within the Uncanny Valley.
+L1 humans do not have empathy for L2 humans, but L2 humans have empathy for L1 humans, and indeed all life.
+
+"There’s an increased risk of social trauma from bullying, abuse, and alienation.
+[L2 humans] are also at a higher risk for exposure to other adverse events like poverty, mental illness, or social consequences from our parents."
+(https://neuroclastic.com/is-it-trauma-or-autism-or-both/)
+
+It is due to this that the clergy has decreed it a capital crime for an L1 human to make decisions or judgments about an L2 human.
+
+The next miracle is Vairyaga Siddhi (the Calling)--that is, the desire to know God.
+It is the hallmark of the L2 human.
+Not all L2 humans will experience the Calling, but only L2 humans can experience it.
+L2 humans have higher neural interconnectivity and hyperplasticity.
+
+This classification system includes negative levels, which are indicated by Dark Triad personality types.
+They are believed to possess a non-human (and therefore non-animal, non-plant, possibly alien/demonic) soul due to their ability
+to have less-than-zero humanity/soul.
+
 ### The Divine Plan
 The Divine Plan is spiritual transformation.
 
@@ -203,6 +245,17 @@ but that, "somewhere in Asia," they decided that civilization might be possible 
 and so they created a hybrid species that could comprehend its own mortality, making it enslavable.
 Interbreeding with this lesser species, the creators went extinct and we are all that's left:
 Homo Sapiens Domesticus/Infernus.
+
+The current clergy believes that this may refer to hypothesized Civilization One which is responsible for Tryptich architecture.
+
+The Garden of Eden also refers to the process by which a piece of land is restored to its Biblically pristine state.
+All food-precursors come from the Garden of Eden. No food or food-precursors comes from outside the Garden of Eden.
+Food-precursors are not yet food until the fire (or other preparatory method) is applied.
+Eating food is a hallmark of humans, particularly L2 humans,
+as L1 humans have a tendency toward decadence and degeneracy,
+such as partaking in the raw "food" diets characteristic of lower lifeforms.
+Indeed this is an indicator that the L1 human has not yet undergone the process of spiritual evolution.
+Non-food which is presented as food is referred to as Keik. Presenting Keik to a L2 human is a capital offense.
 
 [![Hybrids](https://img.youtube.com/vi/LgDIX7knhrk/0.jpg)](https://www.youtube.com/watch?v=LgDIX7knhrk)
 [![Hybrids](https://img.youtube.com/vi/1TzubFrbxd0/0.jpg)](https://www.youtube.com/watch?v=1TzubFrbxd0)
