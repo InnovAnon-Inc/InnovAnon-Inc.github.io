@@ -199,7 +199,8 @@ it is hypothesized that all conscious entities possess a non-zero "amount" of so
 The amount of soul/humanity an entity possesses has a basis in neurophysiology and has a high degree of heritability.
 Standard/normal/typical humans possess neigh-zero soul, and are referred to as L1 humans, elsewhere referred to as NPCs.
 Through Faith and Works during their lifetime, they can gain the ability to bind to lower lifeforms,
-allowing them to reincarnate as, e.g., flatworms, tapeworms, etc,., thus beginning their great journey to becoming L2 humans.
+allowing them to reincarnate as, e.g., flatworms, tapeworms, etc,., thus beginning their great journey to becoming
+[L2 humans](https://aeon14.fandom.com/wiki/Tanis_Richards:_Shore_Leave).
 It is commonly believed in Dharmic traditions that a soul must undertake this ladder of progression to become human.
 
 The difference between L1 and L2 humans has theoretical implications for artifical life,
