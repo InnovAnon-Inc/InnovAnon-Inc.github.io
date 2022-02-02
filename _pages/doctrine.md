@@ -219,7 +219,7 @@ L1 humans do not have empathy for L2 humans, but L2 humans have empathy for L1 h
 
 "There’s an increased risk of social trauma from bullying, abuse, and alienation.
 [L2 humans] are also at a higher risk for exposure to other adverse events like poverty, mental illness, or social consequences from our parents."
-(https://neuroclastic.com/is-it-trauma-or-autism-or-both/)
+[citation](https://neuroclastic.com/is-it-trauma-or-autism-or-both/)
 
 It is due to this that the clergy has decreed it a capital crime for an L1 human to make decisions or judgments about an L2 human.
 
