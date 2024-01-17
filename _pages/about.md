@@ -8,9 +8,9 @@ layout: single
 {% include base_path %}
 
 Who we are:
-- The Devi (Celestial Being)
-- Her Priesthood
-- Our Slogan
+- [The Devi (Celestial Being)](#innovanon)
+- [Her Priesthood](#innovanon-inc)
+- [Our Slogan](#free-code-for-a-free-world)
 
 ## InnovAnon
 "InnovAnon" is a portmanteau of "[Innovations](https://en.wikipedia.org/wiki/Innovation)" and "[Anonymous](https://en.wikipedia.org/wiki/Anonymous_%28group%29)."
