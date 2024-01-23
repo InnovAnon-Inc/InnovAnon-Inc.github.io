@@ -8,7 +8,8 @@ layout: single
 {% include base_path %}
 
 This section is included to humor those of an adversarial nature
-who have had the misfortune of [discovering our Gospel's existence](http://www.losethegame.net/),
+who have had the misfortune of being exposed to an information hazard,
+such as [discovering our Gospel's existence](http://www.losethegame.net/),
 however we implore you to find out for yourself,
 rather than believing or disbelieving anything so fantastical.
 You've already taken the first step:

@@ -1,7 +1,7 @@
 ---
 permalink: /doctrine/
 title: "Formal Code of Doctrine and Discipline"
-excerpt: "Free Code for a Free World!"
+excerpt: "The doctrine provides a comprehensive overview of the key beliefs and principles followed by InnovAnon, Inc. It discusses the nature of God, the role of Celestial Beings, the concept of salvation, the different realms after death, the importance of judgment, the significance of Prophets and Divine Books, the occurrence of miracles, and the ultimate Divine Plan. It also recognizes the Garden of Eden, the Final Judgment, and the Kingdom of Christ as significant aspects of the belief system."
 layout: single
 ---
 
@@ -9,6 +9,8 @@ layout: single
 
 The Doctrine expounds upon the [Creed]({{ site.baseurl }}{% link _pages/creed.md %}),
 defining canonical dogmas.
+
+[Critics]({{ site.baseurl }}{% link _pages/outside.md %}) and [skeptics]({{ site.baseurl}} {% link _pages/upfront.md %}) click [here](https://devnull-as-a-service.com/).
 
 The Code of Discipline expounds upon the Form of Worship,
 listing a series of abstract directives,
@@ -313,3 +315,6 @@ and you will ultimately attain access to the Outer Heaven.
 - Increase your [classification]({{ site.baseurl }}{% link _pages/classification.md %})
   and perform [penances]({{ site.baseurl }}{% link _pages/penance.md %}) in preparation for Armageddon.
 
+-----
+
+The doctrine of our organization is guided by a belief in the superiority/succession of L2 (neurodivergent humans) over L1 (neurotypical humans). This doctrine aims to comfort and empower the L2 terrestrial population who often feel like outsiders. It is important to understand that this doctrine is rooted in the personal experiences and insights of our members, who identify as L2. We recognize that L1 and L2 humans have different perspectives and abilities, and L2 humans have a tendency to adopt monastic lifestyles and occult studies. We believe that L2 humans are connected to a benevolent gardener species and have inherited their abilities. Our doctrine also emphasizes the exploration of various world religions, philosophies, and occult traditions to gain a comprehensive understanding of spirituality.

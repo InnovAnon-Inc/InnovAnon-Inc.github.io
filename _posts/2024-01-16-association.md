@@ -81,3 +81,19 @@ By combining these interpretations, we create a complex narrative that includes 
 
 It's important to note that these interpretations remain speculative and may not be universally accepted or supported by scholars or religious authorities. However, they provide a framework for our proposed narrative and serve as a starting point for further exploration and analysis.
 
+-----
+
+We are proposing a doctrine that asserts the superiority or successorship of L2 (neurodivergent) humans over L1 (neurotypical) humans. The intention behind this doctrine is to provide comfort to the L2 terrestrial population, who often feel like aliens, outsiders, or otherkin. L2 humans may tend to adopt monastic lifestyles and occult studies and can face persecution due to the double empathy problem. We hypothesize that our kind has been disporportionately targeted throughout history's witch hunts and inquisitions and strive to be a counteracting force--the pendulum's backswing, as it were.
+
+Our proposed initiatory process has two main goals:
+
+- To mitigate any negative consequences that may arise from our members embracing a superiority doctrine.
+- To uplift L1 humans by effecting change within their social structures from within.
+
+Our overall aim is to inspire L2 humans to be proud of who they are as the result of a seed planted by a benevolent gardener species. Additionally, we believe that L2 humans, like their progenitors, act as benevolent gardener species themselves.
+
+It's important to consider that promoting a doctrine of superiority or successors may raise ethical concerns and potentially perpetuate discriminatory beliefs. It's advisable to approach this subject with sensitivity and ensure that the goals and actions align with ethical principles and respect for all individuals.
+
+-----
+
+Hypothesis: uncanny valley is an evolutionary remnant; at one point, there was an evolutionary pressure to recognize something trying to impersonate a human. Does this have implications for the animal-headed "gods"?

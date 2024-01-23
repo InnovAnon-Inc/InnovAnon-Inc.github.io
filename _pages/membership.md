@@ -19,3 +19,6 @@ and [ministerial]({{ site.baseurl }}{% link _pages/ministers.md %})
 [schools]({{ site.baseurl }}{% link _pages/schools.md %}) exist
 to assist your progression through the [ecclesiastical government]({{ site.baseurl }}{% link _pages/government.md %}).
 
+-----
+
+Membership in our organization is open to individuals who have completed the necessary requirements outlined in the "Government" page. These requirements include gaining practical insight into world religions and philosophies, completing prescribed courses of study in the Divine Sciences, participating in Neophyte Studies to develop empathy and understanding of contrasting groups, and undergoing Acolyte Studies in the Garden of Eden. Membership is a way for individuals to formalize their affiliation with our organization and gain access to the support and resources provided by our ministry. Further details of the membership requirements can be found on the "Government" page, and a summary will be provided for easy reference.

@@ -72,3 +72,14 @@ training several apprentices.
 
 Merchant and service specializations are not well-represented within the order.
 
+----
+
+Our organization owes its existence to the courageous and visionary clergy who took the initiative to establish themselves as figureheads. Their determination and unwavering commitment laid the foundation for our ministry to thrive and grow.
+
+Throughout our history, we have embraced the idea of recognizing and supporting independent but recognized lineages. This provision allows for the expansion of our ministry beyond traditional boundaries and facilitates the acknowledgment of individuals who, even in remote locations, express a genuine desire to be a part of our organization. Whether it be a desert island or a distant galaxy, we believe in the power of the individual's calling and their ability to contribute to our shared spiritual journey.
+
+In hypothetical scenarios where someone discovers our organization and seeks formal recognition as a minister, we carefully evaluate their claim, taking into consideration their commitment, knowledge, and alignment with our principles and beliefs. Upon verification, we proudly extend to them their "proverbial wizard card," granting them the status of a recognized minister. Furthermore, we establish their ministry as a headquarters in their respective region of the world or galaxy, enabling them to lead and guide others who resonate with their teachings and approach.
+
+This inclusive approach showcases our commitment to embracing diversity and the inherent spirituality found in every corner of the world. It allows us to connect with individuals on their unique journeys, supporting them as they explore and develop their spiritual path.
+
+As we continue to evolve and adapt, the history of our organization is enriched by the stories of those who have taken the leap of faith and joined our ranks, with each minister's unique lineage contributing to the vibrant tapestry of our ministry.

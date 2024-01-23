@@ -1,0 +1,942 @@
+
+
+
+
+
+
+
+
+package main
+
+import (
+	"flag"
+	"fmt"
+	"log"
+	"math/rand"
+	"os"
+	"strconv"
+	"time"
+
+	"github.com/emer/emergent/emer"
+	"github.com/emer/emergent/env"
+	"github.com/emer/emergent/netview"
+	"github.com/emer/emergent/params"
+
+	"github.com/emer/emergent/prjn"
+	"github.com/emer/emergent/relpos"
+	"github.com/emer/etable/agg"
+	"github.com/emer/etable/eplot"
+	"github.com/emer/etable/etable"
+	"github.com/emer/etable/etensor"
+	_ "github.com/emer/etable/etview" // include to get gui views
+	"github.com/emer/etable/split"
+	"github.com/emer/leabra/leabra"
+	"github.com/goki/gi/gi"
+	"github.com/goki/gi/gimain"
+	"github.com/goki/gi/giv"
+	"github.com/goki/ki/ki"
+	"github.com/goki/ki/kit"
+	"github.com/goki/mat32"
+)
+
+
+
+const LogPrec = 4
+
+
+
+var ParamSets = params.Sets{
+	{Name: "Base", Desc: "these are the best params", Sheets: params.Sheets{
+		"Network": &params.Sheet{
+			{Sel: "Prjn", Desc: "norm and momentum on works better, but wt bal is not better for smaller nets",
+				Params: params.Params{
+					"Prjn.Learn.Norm.On":     "true",
+					"Prjn.Learn.Momentum.On": "true",
+					"Prjn.Learn.WtBal.On":    "false",
+					"Prjn.Learn.Learn": "true",
+					"Prjn.Learn.Lrate":  "0.04",
+					"Prjn.WtInit.Dist": "Uniform",
+					"Prjn.WtInit.Mean": "0.5",
+					"Prjn.WtInit.Var":  "0.25",
+					"Prjn.WtScale.Abs": "1",
+
+				}},
+				{Sel: "#MotiveBiasToApproach", Desc: "Set weight to fixed value of 1",
+				Params: params.Params{
+					"Prjn.Learn.Learn": "false",
+					"Prjn.Learn.Lrate":  "0",
+					"Prjn.WtInit.Dist": "Uniform",
+					"Prjn.WtInit.Mean": "1",
+					"Prjn.WtInit.Var":  "0",
+					"Prjn.WtScale.Abs": "1",		
+				}},
+				{Sel: "#MotiveBiasToAvoid", Desc: "Set weight to fixed value of 1",
+				Params: params.Params{
+					"Prjn.Learn.Learn": "false",
+					"Prjn.Learn.Lrate":  "0",
+					"Prjn.WtInit.Dist": "Uniform",
+					"Prjn.WtInit.Mean": "1",
+					"Prjn.WtInit.Var":  "0",
+					"Prjn.WtScale.Abs": "1",		
+				}},
+				{Sel: "#VTA_DAToApproach", Desc: "Set weight to fixed value of 1, and weight scale of 2",
+				Params: params.Params{
+					"Prjn.Learn.Learn": "false",
+					"Prjn.Learn.Lrate":  "0",
+					"Prjn.WtInit.Dist": "Uniform",
+					"Prjn.WtInit.Mean": "1",
+					"Prjn.WtInit.Var":  "0",
+					"Prjn.WtScale.Abs": "2",		
+				}},
+				{Sel: "#VTA_DAToAvoid", Desc: "Set weight to fixed value of 1, and weight scale of 2, inhibitory connection",
+				Params: params.Params{
+					"Prjn.Learn.Learn": "false",
+					"Prjn.Learn.Lrate":  "0",
+					"Prjn.WtInit.Dist": "Uniform",
+					"Prjn.WtInit.Mean": "1",
+					"Prjn.WtInit.Var":  "0",
+					"Prjn.WtScale.Abs": "2",	
+				}},
+
+
+			{Sel: "Layer", Desc: "using 2.3 inhib for all of network -- can explore",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "2.3",
+					"Layer.Act.Gbar.L":     "0.1", // set explictly, new default, a bit better vs 0.2
+					"Layer.Act.XX1.Gain" : "100",
+				}},
+			{Sel: "#Behavior", Desc: "Make Behavior layer selective for 1 behavior",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "2.5",
+					"Layer.Act.XX1.Gain": "200",
+				}},	
+			{Sel: "#Approach", Desc: "",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "1.8",
+					"Layer.Act.XX1.Gain": "400",
+				}},	
+			{Sel: "#Avoid", Desc: "",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "1.5",
+					"Layer.Inhib.Layer.FB": "1.0",
+					"Layer.Act.XX1.Thr": ".49",
+					"Layer.Act.XX1.Gain": "400",
+					"Layer.Act.Gbar.E": "1.35",
+				}},	
+			{Sel: "#Hidden", Desc: "Make Hidden representation a bit sparser",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "2.0",
+				}},	
+
+
+
+			{Sel: ".Back", Desc: "top-down back-projections MUST have lower relative weight scale, otherwise network hallucinates",
+				Params: params.Params{
+					"Prjn.WtScale.Rel": "0.3",
+				}},
+
+		},
+
+
+
+
+
+
+	}},
+	{Name: "DefaultInhib", Desc: "output uses default inhib instead of lower", Sheets: params.Sheets{
+		"Network": &params.Sheet{
+			{Sel: "#Behavior", Desc: "go back to default",
+				Params: params.Params{
+					"Layer.Inhib.Layer.Gi": "1.8",
+				}},
+		},
+
+
+
+
+
+
+	}},
+	{Name: "NoMomentum", Desc: "no momentum or normalization", Sheets: params.Sheets{
+		"Network": &params.Sheet{
+			{Sel: "Prjn", Desc: "no norm or momentum",
+				Params: params.Params{
+					"Prjn.Learn.Norm.On":     "false",
+					"Prjn.Learn.Momentum.On": "false",
+				}},
+		},
+	}},
+	{Name: "WtBalOn", Desc: "try with weight bal on", Sheets: params.Sheets{
+		"Network": &params.Sheet{
+			{Sel: "Prjn", Desc: "weight bal on",
+				Params: params.Params{
+					"Prjn.Learn.WtBal.On": "true",
+				}},
+		},
+	}},
+}
+
+
+
+
+
+
+type Sim struct {
+	Net          *leabra.Network   `view:"no-inline" desc:"the network -- click to view / edit parameters for layers, prjns, etc"`
+	Instr        *etable.Table     `view:"no-inline" desc:"Training pattern for Instrumental Learning"`
+	Pvlv         *etable.Table     `view:"no-inline" desc:"Training pattern for Pavlovian Learning"`
+	Trn    		 *etable.Table     `view:"no-inline" desc:"Table that controls type of training and number of Epochs of training"`
+	TestData 	 *etable.Table     `view:"no-inline" desc:"Table for the Test data file"`
+	Training	 string			   `view:"no-inline" desc:"Type of training: Pavlovian or Instrumental"`
+	TrnEpcLog    *etable.Table     `view:"no-inline" desc:"training epoch-level log data"`
+	TstEpcLog    *etable.Table     `view:"no-inline" desc:"testing epoch-level log data"`
+	TstTrlLog    *etable.Table     `view:"no-inline" desc:"testing trial-level log data"`
+	TstErrLog    *etable.Table     `view:"no-inline" desc:"log of all test trials where errors were made"`
+	TstErrStats  *etable.Table     `view:"no-inline" desc:"stats on test trials where errors were made"`
+	TstCycLog    *etable.Table     `view:"no-inline" desc:"testing cycle-level log data"`
+	RunLog       *etable.Table     `view:"no-inline" desc:"summary log of each run"`
+	RunStats     *etable.Table     `view:"no-inline" desc:"aggregate stats on all runs"`
+	Params       params.Sets       `view:"no-inline" desc:"full collection of param sets"`
+	ParamSet     string            `desc:"which set of *additional* parameters to use -- always applies Base and optionaly this next if set"`
+	Tag          string            `desc:"extra tag string to add to any file names output from sim (e.g., weights files, log files, params for run)"`
+	MaxRuns      int               `desc:"maximum number of model runs to perform"`
+	MaxEpcs      int               `desc:"maximum number of epochs to run per model run"`
+	NZeroStop    int               `desc:"if a positive number, training will stop after this many epochs with zero SSE"`
+	TrainEnv     env.FixedTable    `desc:"Training environment -- contains everything about iterating over input / output patterns over training"`
+	TestEnv      env.FixedTable    `desc:"Testing environment -- manages iterating over testing"`
+	Time         leabra.Time       `desc:"leabra timing parameters and state"`
+	ViewOn       bool              `desc:"whether to update the network view while running"`
+	TrainUpdt    leabra.TimeScales `desc:"at what time scale to update the display during training?  Anything longer than Epoch updates at Epoch in this model"`
+	TestUpdt     leabra.TimeScales `desc:"at what time scale to update the display during testing?  Anything longer than Epoch updates at Epoch in this model"`
+	TestInterval int               `desc:"how often to run through all the test patterns, in terms of training epochs -- can use 0 or -1 for no testing"`
+	LayStatNms   []string          `desc:"names of layers to collect more detailed stats on (avg act, etc)"`
+	StructView   *giv.StructView             `view:"-" desc:"structure view for this struct"`
+
+	TrlErr        float64 `inactive:"+" desc:"1 if trial was error, 0 if correct -- based on SSE = 0 (subject to .5 unit-wise tolerance)"`
+	TrlSSE        float64 `inactive:"+" desc:"current trial's sum squared error"`
+	TrlAvgSSE     float64 `inactive:"+" desc:"current trial's average sum squared error"`
+	TrlCosDiff    float64 `inactive:"+" desc:"current trial's cosine difference"`
+	EpcSSE        float64 `inactive:"+" desc:"last epoch's total sum squared error"`
+	EpcAvgSSE     float64 `inactive:"+" desc:"last epoch's average sum squared error (average over trials, and over units within layer)"`
+	EpcPctErr     float64 `inactive:"+" desc:"last epoch's average TrlErr"`
+	EpcPctCor     float64 `inactive:"+" desc:"1 - last epoch's average TrlErr"`
+	EpcCosDiff    float64 `inactive:"+" desc:"last epoch's average cosine difference for output layer (a normalized error measure, maximum of 1 when the minus phase exactly matches the plus)"`
+	EpcPerTrlMSec float64 `inactive:"+" desc:"how long did the epoch take per trial in wall-clock milliseconds"`
+	FirstZero     int     `inactive:"+" desc:"epoch at when SSE first went to zero"`
+	NZero         int     `inactive:"+" desc:"number of epochs in a row with zero SSE"`
+
+
+	SumErr       float64                     `view:"-" inactive:"+" desc:"sum to increment as we go through epoch"`
+	SumSSE       float64                     `view:"-" inactive:"+" desc:"sum to increment as we go through epoch"`
+	SumAvgSSE    float64                     `view:"-" inactive:"+" desc:"sum to increment as we go through epoch"`
+	SumCosDiff   float64                     `view:"-" inactive:"+" desc:"sum to increment as we go through epoch"`
+	Win          *gi.Window                  `view:"-" desc:"main GUI window"`
+	NetView      *netview.NetView            `view:"-" desc:"the network viewer"`
+	ToolBar      *gi.ToolBar                 `view:"-" desc:"the master toolbar"`
+	TrnEpcPlot   *eplot.Plot2D               `view:"-" desc:"the training epoch plot"`
+	TstEpcPlot   *eplot.Plot2D               `view:"-" desc:"the testing epoch plot"`
+	TstTrlPlot   *eplot.Plot2D               `view:"-" desc:"the test-trial plot"`
+	TstCycPlot   *eplot.Plot2D               `view:"-" desc:"the test-cycle plot"`
+	RunPlot      *eplot.Plot2D               `view:"-" desc:"the run plot"`
+	TrnEpcFile   *os.File                    `view:"-" desc:"log file"`
+	RunFile      *os.File                    `view:"-" desc:"log file"`
+	ValsTsrs     map[string]*etensor.Float32 `view:"-" desc:"for holding layer values"`
+	SaveWts      bool                        `view:"-" desc:"for command-line run only, auto-save final weights after each run"`
+	NoGui        bool                        `view:"-" desc:"if true, running in no GUI mode"`
+	LogSetParams bool                        `view:"-" desc:"if true, print message for all params that are set"`
+	IsRunning    bool                        `view:"-" desc:"true if sim is running"`
+	StopNow      bool                        `view:"-" desc:"flag to stop running"`
+	NeedsNewRun  bool                        `view:"-" desc:"flag to initialize NewRun if last one finished"`
+	RndSeed      int64                       `view:"-" desc:"the current random seed"`
+	LastEpcTime  time.Time                   `view:"-" desc:"timer for last epoch"`
+}
+
+
+
+var KiT_Sim = kit.Types.AddType(&Sim{}, SimProps)
+
+
+var TheSim Sim
+
+
+func (ss *Sim) New() {
+	ss.Net = &leabra.Network{}
+	ss.Instr = &etable.Table{}
+	ss.Pvlv = &etable.Table{}
+	ss.Trn = &etable.Table{}
+	ss.TestData = &etable.Table{}
+	ss.TrnEpcLog = &etable.Table{}
+	ss.TstEpcLog = &etable.Table{}
+	ss.TstTrlLog = &etable.Table{}
+	ss.TstCycLog = &etable.Table{}
+	ss.RunLog = &etable.Table{}
+	ss.RunStats = &etable.Table{}
+	ss.Params = ParamSets
+	ss.RndSeed = 1
+	ss.ViewOn = true
+	ss.TrainUpdt = leabra.AlphaCycle
+	ss.TestUpdt = leabra.Cycle
+	ss.TestInterval = -1
+	ss.LayStatNms = []string{"Approach", "Avoid", "Hidden", "Behavior"}
+}
+
+
+
+
+
+func (ss *Sim) Config() {
+
+	ss.OpenPats()
+	ss.ConfigEnv()
+	ss.ConfigNet(ss.Net)
+	ss.ConfigTrnEpcLog(ss.TrnEpcLog)
+	ss.ConfigTstEpcLog(ss.TstEpcLog)
+	ss.ConfigTstTrlLog(ss.TstTrlLog)
+	ss.ConfigTstCycLog(ss.TstCycLog)
+	ss.ConfigRunLog(ss.RunLog)
+}
+
+func (ss *Sim) ConfigEnv() {
+	if ss.MaxRuns == 0 { // allow user override
+		ss.MaxRuns = 1
+	}
+	if ss.MaxEpcs == 0 { // allow user override
+		ss.MaxEpcs = 100
+		ss.NZeroStop = -1
+	}
+
+	ss.TrainEnv.Nm = "TrainEnv"
+	ss.TrainEnv.Dsc = "training params and state"
+	ss.TrainEnv.Table = etable.NewIdxView(ss.Instr)
+	ss.TrainEnv.Validate()
+	ss.TrainEnv.Run.Max = ss.MaxRuns // note: we are not setting epoch max -- do that manually
+
+	ss.TestEnv.Nm = "TestEnv"
+	ss.TestEnv.Dsc = "testing params and state"
+	ss.TestEnv.Table = etable.NewIdxView(ss.Instr)
+	ss.TestEnv.Sequential = true
+	ss.TestEnv.Validate()
+
+
+
+
+
+
+
+	ss.TrainEnv.Init(0)
+	ss.TestEnv.Init(0)
+}
+
+func (ss *Sim) ConfigNet(net *leabra.Network) {
+	net.InitName(net, "PersonalityModel")
+	enviro := net.AddLayer2D("Environment", 1, 7, emer.Input)
+	intero := net.AddLayer2D("InteroState", 1, 7, emer.Input)
+
+	app := net.AddLayer2D("Approach", 1, 5, emer.Target)
+	av := net.AddLayer2D("Avoid", 1, 2, emer.Target)
+	hid := net.AddLayer2D("Hidden", 3, 7, emer.Hidden)
+	beh := net.AddLayer2D("Behavior", 1, 12, emer.Target)
+	motb := net.AddLayer2D("MotiveBias", 1, 7, emer.Input)
+	vta := net.AddLayer2D("VTA_DA", 1, 1, emer.Input)
+
+
+
+	av.SetRelPos(relpos.Rel{Rel: relpos.RightOf, Other: "Avoid", YAlign: relpos.Front, Space: 2})
+
+
+
+	full := prjn.NewFull()
+	motb2app := prjn.NewOneToOne()
+
+	motb2av := prjn.NewOneToOne()
+	motb2av.SendStart = 5
+
+	net.ConnectLayers(enviro, app, full, emer.Forward)
+	net.ConnectLayers(enviro, av, full, emer.Forward)
+	net.ConnectLayers(intero, app, full, emer.Forward)
+	net.ConnectLayers(intero, av, full, emer.Forward)
+
+	net.ConnectLayers(vta, app, full, emer.Forward)
+	net.ConnectLayers(vta, av, full, emer.Inhib) // Inhibitory connection
+
+
+	net.ConnectLayers(motb, app, motb2app,  emer.Forward)
+	net.ConnectLayers(motb, av, motb2av,  emer.Forward) 
+
+	net.BidirConnectLayers(app, hid, full)
+	net.BidirConnectLayers(av, hid, full)
+	net.BidirConnectLayers(hid, beh, full)
+
+
+
+	app.SetRelPos(relpos.Rel{Rel: relpos.Above, Other: "Environment", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+	hid.SetRelPos(relpos.Rel{Rel: relpos.Above, Other: "Approach", YAlign: relpos.Front, XAlign: relpos.Left, YOffset: 0})
+	beh.SetRelPos(relpos.Rel{Rel: relpos.Above, Other: "Hidden", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+
+	intero.SetRelPos(relpos.Rel{Rel: relpos.RightOf, Other: "Environment", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+	av.SetRelPos(relpos.Rel{Rel: relpos.RightOf, Other: "Approach", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+	motb.SetRelPos(relpos.Rel{Rel: relpos.RightOf, Other: "Avoid", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+	vta.SetRelPos(relpos.Rel{Rel: relpos.RightOf, Other: "InteroState", YAlign: relpos.Front, XAlign: relpos.Right, XOffset: 1})
+
+
+
+
+
+
+
+
+
+
+
+
+
+	net.Defaults()
+	ss.SetParams("Network", ss.LogSetParams) // only set Network params
+	err := net.Build()
+	if err != nil {
+		log.Println(err)
+		return
+	}
+	net.InitWts()
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+func (ss *Sim) AlphaCyc(train bool) {
+
+	viewUpdt := ss.TrainUpdt
+	if !train {
+		viewUpdt = ss.TestUpdt
+	}
+
+
+
+
+
+	if train {
+		ss.Net.WtFmDWt()
+	}
+
+	ss.Net.AlphaCycInit(train)
+	ss.Time.AlphaCycStart()
+	for qtr := 0; qtr < 4; qtr++ {
+		for cyc := 0; cyc < ss.Time.CycPerQtr; cyc++ {
+			ss.Net.Cycle(&ss.Time)
+			if !train {
+				ss.LogTstCyc(ss.TstCycLog, ss.Time.Cycle)
+			}
+			ss.Time.CycleInc()
+			if ss.ViewOn {
+				switch viewUpdt {
+				case leabra.Cycle:
+					if cyc != ss.Time.CycPerQtr-1 { // will be updated by quarter
+						ss.UpdateView(train)
+					}
+				case leabra.FastSpike:
+					if (cyc+1)%10 == 0 {
+						ss.UpdateView(train)
+					}
+				}
+			}
+		}
+		ss.Net.QuarterFinal(&ss.Time)
+		ss.Time.QuarterInc()
+		if ss.ViewOn {
+			switch {
+			case viewUpdt <= leabra.Quarter:
+				ss.UpdateView(train)
+			case viewUpdt == leabra.Phase:
+				if qtr >= 2 {
+					ss.UpdateView(train)
+				}
+			}
+		}
+	}
+
+	if train {
+		ss.Net.DWt()
+	}
+	if ss.ViewOn && viewUpdt == leabra.AlphaCycle {
+		ss.UpdateView(train)
+	}
+	if !train {
+		ss.TstCycPlot.GoUpdate() // make sure up-to-date at end
+	}
+}
+
+
+
+
+
+func (ss *Sim) ApplyInputs(en env.Env) {
+	ss.Net.InitExt() // clear any existing inputs -- not strictly necessary if always
+
+
+	lays := []string{"Environment", "InteroState", "Approach","Avoid","Behavior", "VTA_DA", "MotiveBias"}
+	for _, lnm := range lays {
+		ly := ss.Net.LayerByName(lnm).(leabra.LeabraLayer).AsLeabra()
+		pats := en.State(ly.Nm)
+		if pats != nil {
+			ly.ApplyExt(pats)
+		}
+	}
+}
+
+
+func (ss *Sim) TrainTrial() {
+	if ss.NeedsNewRun {
+		ss.NewRun()
+	}
+
+	ss.TrainEnv.Step() // the Env encapsulates and manages all counter state
+
+
+
+	epc, _, chg := ss.TrainEnv.Counter(env.Epoch)
+	if chg {
+		ss.LogTrnEpc(ss.TrnEpcLog)
+		if ss.ViewOn && ss.TrainUpdt > leabra.AlphaCycle {
+			ss.UpdateView(true)
+		}
+		if ss.TestInterval > 0 && epc%ss.TestInterval == 0 { // note: epc is *next* so won't trigger first time
+			ss.TestAll()
+		}
+		if epc >= ss.MaxEpcs || (ss.NZeroStop > 0 && ss.NZero >= ss.NZeroStop) {
+
+			ss.RunEnd()
+			if ss.TrainEnv.Run.Incr() { // we are done!
+				ss.StopNow = true
+				return
+			} else {
+				ss.NeedsNewRun = true
+				return
+			}
+		}
+	}
+
+	ss.ApplyInputs(&ss.TrainEnv)
+	ss.AlphaCyc(true)   // train
+	ss.TrialStats(true) // accumulate
+}
+
+
+
+func (ss *Sim) NewRun() {
+	run := ss.TrainEnv.Run.Cur
+	ss.TrainEnv.Init(run)
+	ss.TestEnv.Init(run)
+	ss.Time.Reset()
+	ss.Net.InitWts()
+	ss.Net.SaveWtsJSON("trained.wts")
+	ss.InitStats()
+	ss.TrnEpcLog.SetNumRows(0)
+	ss.TstEpcLog.SetNumRows(0)
+	ss.NeedsNewRun = false
+}
+
+
+
+
+func (ss *Sim) TrialStats(accum bool) {
+	out := ss.Net.LayerByName("Behavior").(leabra.LeabraLayer).AsLeabra()
+	ss.TrlCosDiff = float64(out.CosDiff.Cos)
+	ss.TrlSSE, ss.TrlAvgSSE = out.MSE(0.5) // 0.5 = per-unit tolerance -- right side of .5
+	if ss.TrlSSE > 0 {
+		ss.TrlErr = 1
+	} else {
+		ss.TrlErr = 0
+	}
+	if accum {
+		ss.SumErr += ss.TrlErr
+		ss.SumSSE += ss.TrlSSE
+		ss.SumAvgSSE += ss.TrlAvgSSE
+		ss.SumCosDiff += ss.TrlCosDiff
+	}
+}
+
+
+func (ss *Sim) TrainEpoch() {
+	ss.StopNow = false
+	curEpc := ss.TrainEnv.Epoch.Cur
+	for {
+		ss.TrainTrial()
+		if ss.StopNow || ss.TrainEnv.Epoch.Cur != curEpc {
+			break
+		}
+	}
+	ss.Stopped()
+}
+
+
+func (ss *Sim) TrainRun() {
+	ss.StopNow = false
+	curRun := ss.TrainEnv.Run.Cur
+	for {
+		ss.TrainTrial()
+		if ss.StopNow || ss.TrainEnv.Run.Cur != curRun {
+			break
+		}
+	}
+	ss.Stopped()
+}
+
+
+func (ss *Sim) Train() {
+	ss.StopNow = false
+	for {
+		ss.TrainTrial()
+		if ss.StopNow {
+			break
+		}
+	}
+	ss.Stopped()
+}
+
+
+
+
+func (ss *Sim) SaveWeights(filename gi.FileName) {
+	ss.Net.SaveWtsJSON(filename)
+}
+
+
+
+func (ss *Sim) TrialFieldUpdates() {
+   if ss.StructView != nil {
+      ss.StructView.UpdateField("Training")
+       ss.StructView.UpdateField("MaxEpcs")
+   }
+}
+
+func (ss *Sim) TrainPIT() {
+
+for i := 0; i < 2; i++ {
+
+ss.Training = ss.Trn.CellString("Training", i)
+ss.MaxEpcs = int(ss.Trn.CellFloat("MaxEpoch", i))
+
+
+
+switch ss.Training {
+
+	case "INSTRUMENTAL":
+
+	ss.TrainEnv.Epoch.Cur = 0  //set current epoch to 0 so that training starts from 0 epochs
+
+
+	ss.TrainEnv.Table = etable.NewIdxView(ss.Instr)
+	ss.TestEnv.Table = etable.NewIdxView(ss.Instr)
+
+	run := ss.TrainEnv.Run.Cur  //  Is Init what is resetting the TrainEnv table index properly?
+	ss.TrainEnv.Init(run)
+
+
+	ss.TrialFieldUpdates()	
+
+
+
+
+	ss.Net.LayerByName("Hidden").SetOff(false)
+	ss.Net.LayerByName("Behavior").SetOff(false)
+
+
+
+		ss.Net.OpenWtsJSON("trained.wts")
+
+
+
+
+
+	ss.Net.LayerByName("Environment").SetType(emer.Input)
+	ss.Net.LayerByName("InteroState").SetType(emer.Input)
+	ss.Net.LayerByName("Approach").SetType(emer.Input)
+	ss.Net.LayerByName("Avoid").SetType(emer.Input)
+	ss.Net.LayerByName("Behavior").SetType(emer.Target)
+
+
+
+	ss.Net.LayerByName("Environment").SetOff(true)
+	ss.Net.LayerByName("InteroState").SetOff(true)
+
+
+	ss.Train()
+
+
+
+	ss.Net.LayerByName("Environment").SetOff(false)
+	ss.Net.LayerByName("InteroState").SetOff(false)
+
+
+
+	ss.Net.SaveWtsJSON("trained.wts")
+
+
+
+
+
+
+
+	ss.Net.LayerByName("Environment").SetType(emer.Input)
+	ss.Net.LayerByName("InteroState").SetType(emer.Input)
+	ss.Net.LayerByName("Approach").SetType(emer.Target)
+	ss.Net.LayerByName("Avoid").SetType(emer.Target)	
+	ss.Net.LayerByName("Behavior").SetType(emer.Target)
+
+	case "PAVLOV":
+
+	ss.TrainEnv.Epoch.Cur = 0  //set current epoch to 0 so that training starts from 0 epochs
+
+
+
+
+
+	ss.TrainEnv.Table = etable.NewIdxView(ss.Pvlv)
+	ss.TestEnv.Table = etable.NewIdxView(ss.Pvlv)	
+
+	run := ss.TrainEnv.Run.Cur  //  Is Init what is resetting the TrainEnv table index properly?
+	ss.TrainEnv.Init(run)
+
+	ss.TrialFieldUpdates()
+
+
+
+
+
+
+	ss.Net.LayerByName("Environment").SetType(emer.Input)
+	ss.Net.LayerByName("InteroState").SetType(emer.Input)
+	ss.Net.LayerByName("Approach").SetType(emer.Target)
+	ss.Net.LayerByName("Avoid").SetType(emer.Target)
+	ss.Net.LayerByName("Behavior").SetType(emer.Target)
+
+
+		ss.Net.OpenWtsJSON("trained.wts")
+
+
+
+	ss.Net.LayerByName("Hidden").SetOff(true)
+	ss.Net.LayerByName("Behavior").SetOff(true)
+
+
+
+	ss.Train()
+
+
+	ss.Net.LayerByName("Hidden").SetOff(false)
+	ss.Net.LayerByName("Behavior").SetOff(false)
+
+
+
+	ss.Net.SaveWtsJSON("trained.wts")
+
+
+
+
+
+
+
+	ss.Net.LayerByName("Environment").SetType(emer.Input)
+	ss.Net.LayerByName("InteroState").SetType(emer.Input)
+	ss.Net.LayerByName("Approach").SetType(emer.Target)
+	ss.Net.LayerByName("Avoid").SetType(emer.Target)	
+	ss.Net.LayerByName("Behavior").SetType(emer.Target)
+
+
+
+		}
+	}
+}
+
+
+
+
+
+
+
+
+func (ss *Sim) TestTrial(returnOnChg bool) {
+	ss.TestEnv.Step()
+
+
+
+ if ss.TestEnv.Trial.Cur == 0 {
+ 		ss.TestEnv.Table = etable.NewIdxView(ss.TestData) // define a TestData Struc item and then use "ss.TestData"
+		ss.TestEnv.NewOrder()
+	}
+
+
+
+
+	_, _, chg := ss.TestEnv.Counter(env.Epoch)
+	if chg {
+		if ss.ViewOn && ss.TestUpdt > leabra.AlphaCycle {
+			ss.UpdateView(false)
+		}
+		ss.LogTstEpc(ss.TstEpcLog)
+		if returnOnChg {
+			return
+		}
+	}
+
+	ss.ApplyInputs(&ss.TestEnv)
+	ss.AlphaCyc(false)   // !train
+	ss.TrialStats(false) // !accumulate
+	ss.LogTstTrl(ss.TstTrlLog)
+}
+/*
+func (ss &Sim) UpdateWorld() {
+}
+*/
+
+
+func (ss *Sim) TestItem(idx int) {
+	cur := ss.TestEnv.Trial.Cur
+	ss.TestEnv.Trial.Cur = idx
+	ss.TestEnv.SetTrialName()
+	ss.ApplyInputs(&ss.TestEnv)
+	ss.AlphaCyc(false)   // !train
+	ss.TrialStats(false) // !accumulate
+	ss.TestEnv.Trial.Cur = cur
+}
+
+
+func (ss *Sim) TestAll() {
+	ss.TestEnv.Init(ss.TrainEnv.Run.Cur)
+	for {
+		ss.TestTrial(true) // return on change -- don't wrap
+		_, _, chg := ss.TestEnv.Counter(env.Epoch)
+		if chg || ss.StopNow {
+			break
+		}
+	}
+}
+
+
+func (ss *Sim) RunTestAll() {
+	ss.StopNow = false
+	ss.TestAll()
+	ss.Stopped()
+}
+
+
+
+
+
+func (ss *Sim) ParamsName() string {
+	if ss.ParamSet == "" {
+		return "Base"
+	}
+	return ss.ParamSet
+}
+
+
+
+
+
+func (ss *Sim) SetParams(sheet string, setMsg bool) error {
+	if sheet == "" {
+
+		ss.Params.ValidateSheets([]string{"Network", "Sim"})
+	}
+	err := ss.SetParamsSet("Base", sheet, setMsg)
+	if ss.ParamSet != "" && ss.ParamSet != "Base" {
+		err = ss.SetParamsSet(ss.ParamSet, sheet, setMsg)
+	}
+	return err
+}
+
+
+
+
+
+func (ss *Sim) SetParamsSet(setNm string, sheet string, setMsg bool) error {
+	pset, err := ss.Params.SetByNameTry(setNm)
+	if err != nil {
+		return err
+	}
+	if sheet == "" || sheet == "Network" {
+		netp, ok := pset.Sheets["Network"]
+		if ok {
+			ss.Net.ApplyParams(netp, setMsg)
+		}
+	}
+
+	if sheet == "" || sheet == "Sim" {
+		simp, ok := pset.Sheets["Sim"]
+		if ok {
+			simp.Apply(ss, setMsg)
+		}
+	}
+
+
+	return err
+}
+
+/*
+Following function configures a data table to fit the structure of the network.
+
+func (ss *Sim) ConfigPats() {
+	dt := ss.Pats
+	dt.SetMetaData("name", "TrainPats")
+	dt.SetMetaData("desc", "Training patterns")
+	dt.SetFromSchema(etable.Schema{
+		{"Name", etensor.STRING, nil, nil},
+		{"Environment", etensor.FLOAT32, []int{1, 7}, []string{"Y", "X"}},
+		{"InteroState", etensor.FLOAT32, []int{1, 7}, []string{"Y", "X"}},
+		{"Approach", etensor.FLOAT32, []int{1, 5}, []string{"Y", "X"}},
+		{"Avoid", etensor.FLOAT32, []int{1, 2}, []string{"Y", "X"}},
+		{"Behavior", etensor.FLOAT32, []int{1, 12}, []string{"Y", "X"}},
+		{"MotiveBias", etensor.FLOAT32, []int{1, 7}, []string{"Y", "X"}},
+		{"VTA_DA", etensor.FLOAT32, []int{1, 1}, []string{"Y", "X"}},
+	}, 25)
+
+	patgen.PermutedBinaryRows(dt.Cols[1], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[2], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[3], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[4], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[5], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[6], 1, 1, 0)
+	patgen.PermutedBinaryRows(dt.Cols[7], 1, 1, 0)
+
+	dt.SaveCSV("PersonalityTraining.tsv", etable.Tab, etable.Headers)
+}
+
+*/
+
+func (ss *Sim) OpenPats() {
+	ss.Instr.OpenCSV("instr.tsv", etable.Tab) // Instrumental training data
+
+	ss.Pvlv.OpenCSV("pvlv.tsv", etable.Tab) // Pavlovian training data
+
+	ss.Trn.OpenCSV("InstrThenPvlv.tsv", etable.Tab) // Order of training and number of epochs for each, 
+
+	ss.TestData.OpenCSV("Test.tsv", etable.Tab) // Test data
+}
+
+
+
+
+
+func (ss *Sim) ValsTsr(name string) *etensor.Float32 {
+	if ss.ValsTsrs == nil {
+		ss.ValsTsrs = make(map[string]*etensor.Float32)
+	}
+	tsr, ok := ss.ValsTsrs[name]
+	if !ok {
+		tsr = &etensor.Float32{}
+		ss.ValsTsrs[name] = tsr
+	}
+	return tsr
+}
+
+

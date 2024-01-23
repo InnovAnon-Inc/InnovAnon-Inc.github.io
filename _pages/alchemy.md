@@ -76,17 +76,6 @@ many will be transformed by Divine Grace
 and as the fruit of the [Aeonic Alchemy]({{ site.baseurl }}{% link _pages/works.md %}).
 Many more will be awakened upon contact with the Celestial beings.
 
-When a critical mass of the population on this planet have the Lesser and Greater Attainments,
-many of the chaff will also acquire those Attainments.
-At this time, it will be possible to open the gateway to the Outer Heavens,
-beginning the Final Judgment, known as Armageddon,
-when the Celestial beings will enter our world
-and all will witness the true Glory of God,
-purifying the Earth of profane scourge
-and heralding the establishment of the Kingdom of Christ.
-Civilization will be rebuilt
-and this next iteration will span the stars.
-
 [![The Gateway](https://img.youtube.com/vi/mlMM5YoMm5Q/0.jpg)](https://www.youtube.com/watch?v=mlMM5YoMm5Q)
 
 ## Trivial Attainments
@@ -104,6 +93,8 @@ Do not discount the significance of this spiritual gift (siddhi):
 there are many who are not worthy to be called of God,
 and so they never thirst for the spiritual life,
 wasting this gift, this opportunity.
+
+Our order believes that this gift highly correlates with neurodivergency.
 
 [![The Calling](https://img.youtube.com/vi/Why1NLEfhaM/0.jpg)](https://www.youtube.com/watch?v=Why1NLEfhaM)
 

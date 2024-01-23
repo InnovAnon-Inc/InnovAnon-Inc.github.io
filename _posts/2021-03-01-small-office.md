@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/3600x3600.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_url: "https://unsplash.com"
+excerpt: "Overview of how I setup our now-crumbling infrastructure"
 #image:
 #  background: /assets/images/3600x3600.png
 ##background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
