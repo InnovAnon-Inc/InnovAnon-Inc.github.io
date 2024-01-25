@@ -45,6 +45,8 @@ The Priesthood is a monastic order,
 compatible with hermetic/ascetic traditions,
 ministering to a Free Church congregation.
 
+Our [mission]({{ site.baseurl }}{% link _pages/mission.md %}).
+
 From another [perspective]({{ site.baseurl }}{% link _pages/outside.md %}).
 
 ## [Free Code](https://raw.githubusercontent.com/InnovAnon-Inc/InnovAnon-Inc.github.io/master/README.md) for a [Free World](https://www.goodreads.com/quotes/9560207-the-time-would-be-easy-to-know-for-then-mankind)!
