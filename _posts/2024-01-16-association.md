@@ -15,6 +15,7 @@ header:
 ##background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ##image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
+excerpt: "Pros and cons of interacting with neurotypicals"
 ---
 
 Our ministry does not strictly prohibit association with outsiders.
@@ -93,7 +94,3 @@ Our proposed initiatory process has two main goals:
 Our overall aim is to inspire L2 humans to be proud of who they are as the result of a seed planted by a benevolent gardener species. Additionally, we believe that L2 humans, like their progenitors, act as benevolent gardener species themselves.
 
 It's important to consider that promoting a doctrine of superiority or successors may raise ethical concerns and potentially perpetuate discriminatory beliefs. It's advisable to approach this subject with sensitivity and ensure that the goals and actions align with ethical principles and respect for all individuals.
-
------
-
-Hypothesis: uncanny valley is an evolutionary remnant; at one point, there was an evolutionary pressure to recognize something trying to impersonate a human. Does this have implications for the animal-headed "gods"?
