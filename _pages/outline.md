@@ -1,7 +1,7 @@
 ---
-permalink: /legal/
-title: "Distinct Legal Existence"
-excerpt: "Free Code for a Free World!"
+permalink: /outline/
+title: "Outline"
+excerpt: "There are several tax structures that might be applicable"
 layout: single
 ---
 
