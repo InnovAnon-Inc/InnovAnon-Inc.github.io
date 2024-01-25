@@ -17,8 +17,13 @@ Participants at these schools can expect to engage in a variety of activities, i
 
 - Embracing World Religions: Attaining empathy and understanding by studying and connecting with different religious traditions around the world.
 - Acolyte Studies in Applied Aeonic Alchemy: Embarking on a pilgrimage to the Garden of Eden, participating in winter camps, and spending time on the trail to gain firsthand experience and develop self-sufficiency.
+- Terraforming: you will learn the original methods of terraforming taught to Adam by Elohim, as practiced by the pre-contact indigenous populations.
+- Survival: you will learn to survive being stranded on an uninhabited/uncivilized region of a planet.
+- Interspecies Communication: you will learn to read body language and habits of various species, as well as mimicking their calls.
+- Ancestral Treatise: Our order believes that in pre-history, our species' ancestors entered into a treatise/contract with the ancestors of various other species. We teach students the terms of this treatise and how to fulfill our end of the agreement. According to our understanding, our end of the agreement involves providing for the food, shelter, healthcare, and genetic propagation of these species.
 
 Other studies are addressed in our spiritual Apprenticeship program, including:
+
 - Studying the Divine Sciences: Learning about alchemy, cosmology, and celestial beings to deepen one's understanding of spiritual transformation and the mysteries of the universe.
 - Apprentice Studies in Applied Spiritual Technology: Optional study for Acolytes who wish to expedite their progress and dispel delusions that hinder their spiritual growth. This apprenticeship involves one-on-one instruction from a Master and personal insights that have not yet passed into canon.
 - Higher Levels of Initiation: The schools and camps provide the necessary steps, guidance, and rituals for individuals to progress to higher levels of ministerial initiation, as outlined in our [Ministers]({{ site.baseurl }}{% link _pages/ministers.md %}) page.
@@ -27,4 +32,4 @@ The schools and camps operate as not-for-profit entities, reflecting our commitm
 
 We strongly encourage individuals aspiring to become ministers within InnovAnon, Inc. to take advantage of these educational opportunities. By attending these schools and camps, individuals can deepen their knowledge, develop their spiritual gifts, and prepare themselves for a meaningful and impactful ministry.
 
-[Dogs]({{ site.url }}{% link _pages/dogs.md %}).
+Schools for [Dogs]({{ site.url }}{% link _pages/dogs.md %}), including the canine clergy initiative.

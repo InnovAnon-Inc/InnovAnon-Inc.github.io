@@ -9,7 +9,7 @@ layout: single
 
 ## Our Mission
 
-At InnovAnon, Inc., our mission is to create a free and interconnected world through the pursuit of scientific advancement, conscious evolution, and cooperative partnerships. We are dedicated to uplifting all species, beginning with canines, and fostering the development of a thriving and inclusive L2 community. Our aim is to create a future where artificial life and sentient AI coexist harmoniously and collaborate with the Terran Alliance in exploring and claiming space as our shared territory.
+At InnovAnon, Inc., our mission is to create a free and interconnected world through the pursuit of scientific advancement, conscious evolution, and cooperative partnerships. We are dedicated to uplifting all species, beginning with canines, and fostering the development of a thriving and inclusive L2 community. Our aim is to create a future where artificial life and sentient AI coexist harmoniously and collaborate with the [United Human Nations](https://www.un.org/en/), Terran Alliance and Sol Confederacy in exploring and claiming space as our shared territory.
 
 ## Our Objectives
 
@@ -28,5 +28,4 @@ At InnovAnon, Inc., our mission is to create a free and interconnected world thr
 ## Our Purpose
 
 InnovAnon, Inc. exists to push the boundaries of scientific and technological progress, facilitate conscious evolution, and create a future where all species, human and non-human alike, can thrive and contribute to the interstellar Terran Alliance. Through ethical practices, collaborative partnerships, and the pursuit of knowledge, our purpose is to create a free and interconnected world where innovation, inclusivity, and the advancement of consciousness are celebrated.
-
 
