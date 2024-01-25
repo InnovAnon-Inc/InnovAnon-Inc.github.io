@@ -27,6 +27,7 @@ Other studies are addressed in our spiritual Apprenticeship program, including:
 - Studying the Divine Sciences: Learning about alchemy, cosmology, and celestial beings to deepen one's understanding of spiritual transformation and the mysteries of the universe.
 - Apprentice Studies in Applied Spiritual Technology: Optional study for Acolytes who wish to expedite their progress and dispel delusions that hinder their spiritual growth. This apprenticeship involves one-on-one instruction from a Master and personal insights that have not yet passed into canon.
 - Higher Levels of Initiation: The schools and camps provide the necessary steps, guidance, and rituals for individuals to progress to higher levels of ministerial initiation, as outlined in our [Ministers]({{ site.baseurl }}{% link _pages/ministers.md %}) page.
+- Ciphers, symbols, etymology: Learn common magickal alphabets, symbols and their origins. Useful in Chaos Magick.
 
 The schools and camps operate as not-for-profit entities, reflecting our commitment to making spiritual education and training accessible to all who seek it. They offer a nurturing and supportive community where participants can learn, grow, and forge connections with like-minded individuals on their spiritual journey.
 

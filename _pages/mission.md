@@ -39,12 +39,14 @@ The stepping stones to galactic colonization can vary depending on the technolog
 
 3) Underwater Cities: Build self-sustaining underwater cities as testbeds for long-term human habitation in extreme environments. This helps develop the necessary infrastructure and technologies for life support systems.
 
-4) Orbital Platforms: Establish self-sufficient orbital platforms or space stations to serve as staging areas for further space exploration. These platforms could serve as launching points for spacecraft heading to other celestial bodies.
+4) Orbital Platforms with Closed Ecosystems/Biomes: Establish self-sufficient orbital platforms or space stations to serve as staging areas for further space exploration. These platforms could serve as launching points for spacecraft heading to other celestial bodies.
 
 5) Moon/Mars/Venus Colonies: Establish permanent colonies on the Moon, Mars, and Venus. These colonies can provide opportunities for resource extraction, scientific research, and serve as stepping stones for further deep space exploration.
 
 6) Colonies in Outer System: Expand human presence in the outer solar system by establishing colonies on moons of gas giants like Jupiter and Saturn. These colonies can further exploit resources and explore potential habitable environments, such as the subsurface oceans of moons like Europa and Enceladus.
 
 7) Generation Ships: Develop advanced propulsion systems and generation ships capable of sustaining human life for long-duration interstellar travel. These ships would be designed to transport humans to distant star systems, potentially taking thousands of years to reach their destinations.
+
+8) Planetary Mitosis: Generation ships with closed ecosystems could orbit a planet while terraforming, colonize the terraformed planet, duplicate the ship and repeat.
 
 It's important to note that this sequence is just one possible path to galactic colonization and is subject to technological advancements, resource availability, and other factors that may alter the trajectory.
