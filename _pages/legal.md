@@ -7,6 +7,7 @@ layout: single
 
 {% include base_path %}
 
+Contents:
 - Structure
 - Instructions for Creating and Maintaining aforementioned Structure
 - [Articles of Incorporation]({{ site.baseurl }}{% link _pages/articles.md %})
@@ -22,7 +23,7 @@ but their institutions will be called by a different name.
 Other Adepts may choose to establish their own ministries and associated tax structures
 using ours as a template, with or without modification. Refer to the [outline]({{ site.baseurl }}{% link _pages/outline.md %}).
 
----
+----
 
 ## Instructions for 508(c)(1)(a) "Free Church"
 - Purpose and Structure: Define the purpose, mission, and structure of your organization. Ensure that it aligns with the requirements of a church or religious organization as defined by the IRS.
@@ -45,14 +46,14 @@ using ours as a template, with or without modification. Refer to the [outline]({
 
 - Ongoing Compliance: Maintain compliance with federal, state, and local laws and regulations, including any reporting and filing requirements. Stay informed about changes that may affect your organization's operations or tax-exempt status.
 
----
+----
 
 ## Instructions for 501(d) Monastic Order
 1. Establish a common treasury.
 2. Religious or secular work.
 3. Active or passive income.
 
----
+----
 
 ## TODO Instructions for Form 990
 - TODO board of directors
