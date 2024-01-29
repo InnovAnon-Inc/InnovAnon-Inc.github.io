@@ -34,3 +34,129 @@ The schools and camps operate as not-for-profit entities, reflecting our commitm
 We strongly encourage individuals aspiring to become ministers within InnovAnon, Inc. to take advantage of these educational opportunities. By attending these schools and camps, individuals can deepen their knowledge, develop their spiritual gifts, and prepare themselves for a meaningful and impactful ministry.
 
 Schools for [Dogs]({{ site.url }}{% link _pages/dogs.md %}), including the canine clergy initiative.
+
+-----
+
+## Curriculum: Occult Studies with a Scientific Approach
+
+1) Astrology/Astronomy:
+
+   - Astronomy: Study celestial bodies, their properties, and movements.
+   - Navigation: Learn to navigate using celestial objects.
+   - Mythology of Heavenly Bodies and Constellations: Explore the cultural and historical significance of constellations and celestial objects.
+   - Historical Timeline Correlation Lab: Analyze astrological configurations and their possible correlations with historical events.
+
+2) Alchemy:
+
+   - Lab:
+     * Learn Basic Incendiaries and Firemaking Techniques: Explore the chemistry of combustion and pyrotechnics.
+     * Classical Processes for Extracting Metals and Minerals: Understand chemical extraction processes.
+     * Laboratory Processes for Fermentation, Distillation, and Calcination: Study the chemical transformations and reactions involved.
+     * Micronutrition and Metabolic Pathways: Explore the relationship between nutrition, metabolism, and human health.
+     * Gastronomy and Culinary Processes for Medicinal Meals: Investigate the relationship between food, nutrition, and health.
+
+   - Lecture:
+     * General Chemistry: Study the fundamental principles and concepts of chemistry.
+     * Nuclear Fission/Fusion: Understand the science behind nuclear reactions.
+     * Organic Chemistry: Explore the chemistry of carbon-based compounds.
+
+3) Ancient Mythologies and Symbolism:
+
+   - Study the mythologies, symbols, and archetypes from various cultures and civilizations:
+     * Egyptian
+     * Norse
+     * Celtic
+     * Greek
+     * Jewish/Kabbalah
+     * Christian/Gnostic
+     * Muslim/Sufi
+     * Shinto
+     * Lakota
+
+   - Basic foundation of cultural knowledge
+
+4) History:
+
+   - Study the history of the universe, Earth, life, and civilization, including:
+     * Big Bang Theory
+     * Earth's Evolution and Major Eras
+     * Hominids and Major Epochs
+     * Beginnings of Civilization
+     * Modern History and Key Events
+
+5) Music
+
+   - Basic physics of sound waves, interference patterns
+   - Just Intonation, Equal Temperament, smooth numbers
+   - Euclidean/Bjorklund rhythms
+   - Balanced Polygons
+   - Natural and exotic scales
+   - Modal interchange
+   - Modulation
+   - Bartok's Pitch Axis Theory
+   - Voice Leading
+   - Polychords and polymeter
+   - Common Cadences
+   - Common song structures
+   - Scansion and Poetic Meter
+   - Entrainment, Binaural beats, Isochronic pulses
+   - Intro to acoustic engineering
+   - Psychology of music and performance
+
+6) Divination:
+
+   - Guided Meditation Techniques: Learn various techniques for introspection and self-exploration.
+   - Tarot Card Reading and Playing Card Reading (Cartomancy): Understand the psychological symbolism and interpretative aspects.
+   - Palmistry and Other Forms of Body-Based Reading: Study the anatomy of the hand and explore the psychology behind hand readings.
+   - Scrying: Investigate the phenomenon of scrying and its psychological and cognitive aspects. See Dhyana Meditation
+   - Numerology: Examine the symbolism and meaning of numbers and their potential psychological impact.
+   - Symbolism and Psychology of Color
+
+7) Ritual Magic:
+
+   - Priestcraft, including Public Speaking: Develop public speaking skills and stage presence.
+   - Choreography: Study the principles and techniques of choreography.
+   - Chaos Magick: Understand the historical and philosophical aspects of chaos magick.
+
+8) Magickal Alphabets and Other Ciphers:
+
+   - Learn various classical cryptography techniques, including:
+     * Theban
+     * Ogham
+     * Etruscan
+     * Cuneiform
+     * Sanskrit
+
+   - Learn modern cryptography algorithms and other cyber security principles
+
+9) Mathematics:
+
+   - Learn foundational maths for the occult
+   - Algebra
+   - Trigonometry
+   - Multi-variate Calculus
+   - Linear Algebra
+   - Statistics
+   - Elementary Number Theory
+
+10) Programming:
+
+   - Data Structures and Analysis of Algorithms
+   - Programming Languages and Compilers
+   - Operating Systems and Computer Architecture
+   - Intro to Computer Science - learn to assess time / space trade-offs, amortized asymptotic complexities
+   - Intro to Software Architecture - learn various common architectures
+   - Intro to Software Engineering - learn to assess trade-offs between time to create / maintain vs. time / space savings
+
+-----
+
+## Purpose
+
+In theory, a student studying the occult with a focus on alchemy and its connections to the scientific world would likely have an understanding of the elemental composition required for sustaining human life. This would involve knowledge of the essential elements necessary for human health and the quantities needed. Similarly, they could also learn about the elemental composition of various plants and how to extract elements from them.
+
+With this understanding, it is possible for a student to estimate the molar quantities of each element that could be found in their alchemical recipes or potentially extracted from different plant sources. They could evaluate the elemental content of plants through analysis or refer to existing scientific literature on the subject.
+
+Regarding the idea of estimating the molar quantities of elements required for a garden in an O'Neill Cylinder (a proposed space habitat), the student would need to apply their knowledge of elemental composition, plant nutrition, and ecological systems. They would need to consider factors such as plant species, growth requirements, and nutrient cycling within the closed system of the O'Neill Cylinder.
+
+By understanding the molar amounts of essential elements needed for plant growth and the interplay of ecological systems, a student with a background in alchemy and scientific principles could make educated estimations regarding elemental requirements for a garden in such a space habitat. However, it's important to note that the actual molar quantities required in a complex ecological system can be influenced by multiple factors, and precise calculations would require detailed analysis specific to the design and requirements of the O'Neill Cylinder.
+
