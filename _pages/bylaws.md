@@ -41,6 +41,8 @@ Additional meetings, ceremonies, and congregational activities may be organized 
 
 All members are encouraged to participate in congregations, ceremonies, and other events to foster spiritual growth and unity.
 
+Congregations exceeding 169 members shall consider congregational mitosis.
+
 ### Article V: Finances
 
 InnovAnon, Inc. Ministries shall operate on the basis of voluntary donations from its members and supporters.
