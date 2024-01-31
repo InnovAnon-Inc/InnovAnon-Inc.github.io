@@ -36,6 +36,8 @@ Thinking [types](https://www.psychologytoday.com/us/blog/mind-matters-from-menni
 - Pattern: weakness is Verbal
 - Verbal:  weakness is Visual
 
+We are a distinct [ethnic group](https://micronations.wiki/wiki/Asperger%27s_as_an_ethnic_group).
+
 -----
 
 ## Introduction:
