@@ -18,8 +18,6 @@ excerpt: "This constitution provides a foundation for the establishment of the L
 ##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ---
 
-TODO http://micronations.wiki/wiki/Main_Page
-
 ## Constitution of the [L2](https://micronations.wiki/wiki/Asperger%27s_as_an_ethnic_group) Micronation
 
 ### Preamble

@@ -62,3 +62,7 @@ or, upon request, any other license you require,
 such as the [MIT License](https://tldrlegal.com/license/mit-license)
 or [BSD License](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29).
 
+
+## Neurodivergent Ethno-Nation
+- [Constitution]({{ site.baseurl }}{% link _pages/constitution.md %})
+
