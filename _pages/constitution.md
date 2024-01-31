@@ -1,21 +1,8 @@
 ---
+permalink: /constitution/
 title: "Establishing the L2 Micronation"
-categories:
-  - 
-tags:
-  - 
-comments: true
-share: true
-header:
-  overlay_image: /assets/images/3600x3600.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
 excerpt: "This constitution provides a foundation for the establishment of the L2 Micronation, ensuring governance, citizenship, symbols, external relations, legal framework, economy, and citizen participation."
-#image:
-#  background: /assets/images/3600x3600.png
-##background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
-##image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
-##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
+layout: single
 ---
 
 ## Constitution of the [L2](https://micronations.wiki/wiki/Asperger%27s_as_an_ethnic_group) Micronation
