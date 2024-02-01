@@ -11,6 +11,26 @@ layout: single
 
 We, the neurodivergent community, establish the L2 Micronation to create a society that fosters collaboration, inclusion, and the realization of the potential of all individuals. By leveraging our unique strengths and perspectives, we strive to contribute to scientific advancements, promote social justice, and enhance the well-being of our citizens.
 
+1) We advocate for the recognition and empowerment of the L2 community, promoting their right to self-determination within a safe and inclusive society.
+
+2) We seek to create a supportive environment that addresses the unique challenges faced by the L2 community and promotes their health, well-being, and prosperity.
+
+3) We believe in the importance of fostering a strong sense of community and pride among L2 individuals, while respecting the diversity of backgrounds, identities, and beliefs within our collective.
+
+4) We support the development of an inclusive educational system that caters to the specific needs and abilities of L2 individuals, providing equal opportunities for intellectual growth and professional success.
+
+5) We strive to create a society that values and celebrates the contributions of L2 individuals to all sectors, fostering an environment of equality and mutual respect.
+
+6) We advocate for the protection of L2 rights and the elimination of discrimination in all its forms, ensuring that L2 individuals have equal access to employment, healthcare, and social opportunities.
+
+7) We recognize the importance of an independent and self-sustaining L2 society, promoting economic stability and self-sufficiency within our collective.
+
+8) We pledge to build strong alliances and cooperative relationships with other nations and communities, fostering understanding, acceptance, and mutual support.
+
+9) We embrace a progressive approach to governance by involving L2 individuals in decision-making processes and ensuring transparency, accountability, and inclusivity at all levels of governance.
+
+10) We emphasize the promotion of peace, both within our collective and in our interactions with other nations, aspiring towards global harmony based on respect and understanding.
+
 ### Article I: Establishment and Governance
 
 #### Section 1: Name and Capital
