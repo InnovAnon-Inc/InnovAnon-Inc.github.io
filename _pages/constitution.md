@@ -214,6 +214,8 @@ By considering volunteer hours as a factor in voting eligibility, the L2 Microna
 
 4) The L2 Micronation shall establish certification boards and regulatory bodies to oversee medical practices, ensuring accountability and preventing misdiagnosis or improper medications.
 
+5) The L2 Micronation prohibits irreversible infant procedures that modify or mutilate the genitalia, except in cases deemed medically necessary.
+
 ### Article XII: Centralized Tech Infrastructure
 
 #### Section 1: Centralized Exchange

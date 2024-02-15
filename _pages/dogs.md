@@ -49,7 +49,7 @@ Training Program for Canine Intelligence Enhancement
 
 - Training Program:
 
-  * Develop a training program incorporating puzzle toys, scent detection tools, and farming/hunting training:
+  * Mirror Training: Exposure to own reflection at early age.
   * Puzzle Toy Training: Introduce dogs to problem-solving puzzles, gradually increasing difficulty.
   * Scent Detection Training: Train dogs to identify and locate specific scents using their olfactory abilities.
   * Tool Training: Associate actions with tools like button panels, lever-action door handles, and refrigerator ropes.
@@ -71,7 +71,7 @@ Training Program for Canine Intelligence Enhancement
 
 - Writing System:
 
-  * Develop a writing system based on symbols/hieroglyphs and the approximate number system for labeling signs and buttons.
+  * Develop a writing system based on symbols/hieroglyphs and the approximate number system for labeling signs and buttons. See Terran Standard.
 
 Regular practice, consistent reinforcement, and ongoing evaluation are crucial for successful implementation. Collaborate with experts and trainers throughout the process to optimize outcomes. Adapt and refine the program based on individual needs, continually seeking opportunities for improvement.
 
