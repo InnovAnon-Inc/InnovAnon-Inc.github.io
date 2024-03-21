@@ -15,7 +15,7 @@ header:
 ##background_image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ##image: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
 ##background: https://InnovAnon-Inc.github.io/assets/images/3600x3600.png
-excerpt: ""
+excerpt: "Necessary Steps to Appease Enemy Entities"
 ---
 
 Our order is dedicated to "messing with forces we don't understand."
