@@ -23,6 +23,12 @@ However, there are practical considerations:
 - associating with L2 humans (i.e., "neurodivergents") especially members of this or similar orders will passively increase one's acausal comprehension and occult ability.
 - associating with L1 humans (i.e., "neurotypicals") tends to decrease, inhibit or otherwise interfere with one's spiritual progression.
 
+---
+
+Rule of Three: never associate with an NT without at least one other ND present
+
+---
+
 There have been Aeons or Golden Ages when L2 humans have had proper representation in terrestrial society.
 During these Golden Ages, we see influential acceleration of technology, including spiritual technology and arcane arts.
 
